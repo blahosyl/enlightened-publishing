@@ -77,6 +77,8 @@ Am I Responsive? – to show the website image on a range of devices
 
 Shields.io – add badges to README
 
+[Coolors.co](https://coolors.co/)
+
 ## Deployment
 
 ## Testing
@@ -109,6 +111,8 @@ Web Disability Simulator
 ### Media
 
 #### Images
+
+[Substack logo](https://substack.com/brand)
 
 #### Videos
 
