@@ -99,7 +99,11 @@ Web Disability Simulator
 #### Known bugs
 #### Solved bugs
 
+##### Favicon not showing up
 
+When placing the favicon files in the `assets/favicon` directory, the code provided on [Favicon.io](https://favicon.io/emoji-favicons/books/) did not work, since it is written for the use case when files are placed in the root directory.
+
+The code had to be modified to include the correct file paths for the favicon to show up correctly.
 
 
 ## Credits
@@ -113,6 +117,8 @@ Web Disability Simulator
 #### Images
 
 [Substack logo](https://substack.com/brand)
+
+The books favicon comes from [Favicon.io](https://favicon.io/emoji-favicons/books/), licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 #### Videos
 
