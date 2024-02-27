@@ -1,0 +1,20 @@
+/* overall style, override browser defaults */
+* {
+  margin:0;
+  box-sizing: border-box;
+}
+
+/* Header */
+header {
+  background-color:lightgreen;
+}
+
+/* Main content */
+main {
+  background-color:orange;
+}
+
+/* Footer */
+footer {
+  background-color:lightgrey;
+}
