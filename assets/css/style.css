@@ -4,6 +4,13 @@
   box-sizing: border-box;
 }
 
+/* general styles */
+body {
+  min-height: 100vh; /* viewport height */
+  display: flex;
+  flex-direction: column;
+}
+
 /* Header */
 header {
   background-color:lightgreen;
@@ -12,6 +19,9 @@ header {
 /* Main content */
 main {
   background-color:orange;
+  /* make main element take up any surplus space so footer is pushed down.
+  flex-grow flex-shrink flex-basis */
+  flex: 1 0 auto;
 }
 
 /* Footer */
