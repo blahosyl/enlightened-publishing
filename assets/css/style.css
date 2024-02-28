@@ -38,3 +38,13 @@ main {
 footer {
   background-color:lightgrey;
 }
+
+footer ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+footer img {
+  width:2rem;
+}

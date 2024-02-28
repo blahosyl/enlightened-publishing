@@ -97,6 +97,16 @@ Web Disability Simulator
 
 ### Bugs
 #### Known bugs
+
+##### Substack logo
+
+There is no Substack logo in Fontawesome, so the site is using a [solid bookmark](https://fontawesome.com/icons/bookmark?f=classic&s=solid) as a placeholder for the time being.
+
+Explore the option of either 
+
+ - using the official logo as an image, OR
+ - [creating a new icon on Fontawesome](https://fontawesome.com/v5/docs/web/use-kits/upload-icons) (requres a PRO account).
+
 #### Solved bugs
 
 ##### Favicon not showing up
@@ -119,6 +129,8 @@ The code had to be modified to include the correct file paths for the favicon to
 [Substack logo](https://substack.com/brand)
 
 The books favicon comes from [Favicon.io](https://favicon.io/emoji-favicons/books/), licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+[Fontawesome](https://fontawesome.com/)
 
 #### Videos
 
