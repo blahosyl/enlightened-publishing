@@ -104,7 +104,7 @@ There is no Substack logo in Fontawesome, so the site is using a [solid bookmark
 
 Explore the option of either 
 
- - using the official logo as an image, OR
+ - using the [official logo](https://substack.com/brand) as an image, OR
  - [creating a new icon on Fontawesome](https://fontawesome.com/v5/docs/web/use-kits/upload-icons) (requres a PRO account).
 
 #### Solved bugs
