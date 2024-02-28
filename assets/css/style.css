@@ -11,10 +11,25 @@ body {
   flex-direction: column;
 }
 
+/* all children of the body have padding */
+body > * {
+  padding: 2rem 3rem;
+}
+
 /* Header */
 header {
   background-color:lightgreen;
   display: flex;
+  /* vertically center childern */
+  align-items: center;
+  /* horizontally push children to the sides */
+  justify-content: space-between;
+}
+
+/* link elements in the header should not be underlined and not be blue/purple */
+header * {
+  text-decoration: none;
+  color:inherit;
 }
 
 nav ul {
@@ -37,6 +52,11 @@ main {
 /* Footer */
 footer {
   background-color:lightgrey;
+}
+
+  /* link elements in the footer should not be blue/purple */
+footer * {
+  color:inherit;
 }
 
 footer ul {
