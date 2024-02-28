@@ -14,6 +14,16 @@ body {
 /* Header */
 header {
   background-color:lightgreen;
+  display: flex;
+}
+
+nav ul {
+  list-style-type: none;
+  display: flex;
+}
+
+nav ul li {
+  padding-left: 1rem;
 }
 
 /* Main content */
