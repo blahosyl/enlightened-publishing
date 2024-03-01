@@ -1,6 +1,5 @@
 # Academic Publishing
 
-
 ## User Experience (UX)
 
 ### User stories
@@ -17,6 +16,18 @@ Find new material
 
 ## Design
 
+### Flow
+
+The client heavily preferred a continuous website rather than separate clickable pages, citing results that show that user engagement drastically decreases after each time a user has to click.
+
+In accordance with this, the website consists of 3, visually separate sections that can be continuously scrolled through:
+
+1. Problems & Solutions
+2. About/Credentials
+3. Contact
+
+To ease navigation, the header remains visible throughout.
+
 ### Color scheme
 
 ### Typography
@@ -27,19 +38,17 @@ Find new material
 
 ## Features
 
-### Features present on all pages
+### Logo
 
-#### Logo
+### Nav bar
 
-#### Nav bar
+### Footer with social media links
 
-#### Footer with social media links
+### Problems and solutions section
 
-### Home page
+### About section
 
-### About page
-
-### Contact page
+### Contact section
 
 ### Future implementations
 
@@ -77,7 +86,9 @@ Am I Responsive? – to show the website image on a range of devices
 
 Shields.io – add badges to README
 
-[Coolors.co](https://coolors.co/)
+[Coolors.co](https://coolors.co/) - color palettes, contrast checking
+
+[Lipsum](https://www.lipsum.com/), [loremipsum.io](https://loremipsum.io/) – Lorem Ipsum generators
 
 ## Deployment
 
