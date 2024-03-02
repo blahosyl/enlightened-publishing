@@ -110,6 +110,8 @@ Am I Responsive? – to show the website image on a range of devices
 
 [Lipsum](https://www.lipsum.com/), [loremipsum.io](https://loremipsum.io/) – Lorem Ipsum generators
 
+[Pixelied](https://pixelied.com/convert/jpg-converter/jpg-to-webp) – `jpg` to `webp` converter
+
 ## Deployment
 
 ## Testing
@@ -160,6 +162,9 @@ Using Developer Tools, I have discovered that the extra space corresponds to the
 ### Code
 
 Variables https://www.w3schools.com/css/css3_variables.asp
+
+[Recommended images sizes](https://tiny-img.com/blog/best-image-size-for-website/)
+
 
 ### Content
 

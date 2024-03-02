@@ -113,6 +113,7 @@ header {
   align-items: center;
   /* horizontally push children to the sides */
   justify-content: space-between;
+  margin-right: : 0;
 }
 
 /* link elements in the header should not be underlined and not be blue/purple */
@@ -164,7 +165,7 @@ p {
   color: var(--dark);
 }
 
-#subscribe {
+#contact {
   color:  var(--mint);
   background-color: var(--dark);
 }
