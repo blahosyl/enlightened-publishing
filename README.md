@@ -1,3 +1,5 @@
+Deployed page: [https://blahosyl.github.io/academic-publishing/](https://blahosyl.github.io/academic-publishing/)
+
 # Academic Publishing
 
 ## User Experience (UX)
