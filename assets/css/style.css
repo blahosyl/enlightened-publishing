@@ -49,6 +49,18 @@ main {
   flex: 1 0 auto;
 }
 
+main > section {
+  margin: 10%;
+}
+
+h2 {
+  margin-top: 2rem;
+}
+
+p {
+  margin: 1rem 0;
+}
+
 /* Footer */
 footer {
   background-color:lightgrey;
