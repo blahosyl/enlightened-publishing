@@ -126,7 +126,6 @@ nav {
   position:absolute; /* this removes previous styling, so we need to add it back in */
   right: 5%;
   background-color: var(--dark);
-  border: 2px solid var(--mint);
   display: none;
   top:absolute;
 }
@@ -140,6 +139,7 @@ nav ul {
 #nav-toggle:checked ~ nav {
   display:block;
   margin-top: 10rem;
+  border: 2px solid var(--mint);
 }
 
 /* hide checkbox */
