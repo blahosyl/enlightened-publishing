@@ -1,3 +1,12 @@
+/* variables for colors */
+
+:root {
+  --dark: #004e64;
+  --white: #ffffff;
+  --mint: #9fffcb;
+  --blue-gray: #62929e;
+}
+
 /* overall style, override browser defaults */
 * {
   margin:0;
@@ -18,7 +27,8 @@ body > * {
 
 /* Header */
 header {
-  background-color:lightgreen;
+  background-color: var(--dark);
+  color: var(--mint);
   display: flex;
   /* vertically center childern */
   align-items: center;
@@ -43,40 +53,57 @@ nav ul li {
 
 /* Main content */
 main {
-  background-color:orange;
-  /* make main element take up any surplus space so footer is pushed down.
+  /* make main element take up any surplus vertical space so footer is pushed down.
   flex-grow flex-shrink flex-basis */
   flex: 1 0 auto;
+  padding: 0;
 }
 
 main > section {
-  margin: 10%;
+  padding: 10%;
+  width: 100%;
 }
 
 h2 {
   margin-top: 2rem;
 }
 
+h3 {
+  margin-top: 1rem;
+}
+
 p {
   margin: 1rem 0;
 }
 
+#problems-solutions {
+  color: var(--dark);
+}
+
+#about {
+  background-color:  var(--mint);
+  color: var(--dark);
+}
+
+#subscribe {
+  color:  var(--mint);
+  background-color: var(--dark);
+}
+
 /* Footer */
 footer {
-  background-color:lightgrey;
+  background-color: var(--blue-gray);
 }
 
   /* link elements in the footer should not be blue/purple */
 footer * {
-  color:inherit;
+  color: var(--mint);
+  font-size: 120%;
+  padding: 0 10%;
 }
 
 footer ul {
   list-style-type: none;
   display: flex;
-  justify-content: space-evenly;
-}
-
-footer img {
-  width:2rem;
+  justify-content: space-between;
 }

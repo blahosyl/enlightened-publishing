@@ -30,6 +30,18 @@ To ease navigation, the header remains visible throughout.
 
 ### Color scheme
 
+Palette: Arctic, northern lights
+
+Color arrangement inspiration: https://youpreneur.com/
+
+2 salient colors combined with white, gray and black. 
+
+Contrast between 2 salient colors: 7.75:1 ([WebAIM](https://webaim.org/resources/contrastchecker/))
+
+<!--TODO: decide if we wanna introduce a 3rd salient color, like the green accents on hover-->
+
+Color variables were used instead of hard-coding colors for each element, so that the overall color scheme can easily be modified in the future if needed. This was based on the [W3Schools tutorial on variables](https://www.w3schools.com/css/css3_variables.asp), a resource pointed out by my mentor.
+
 ### Typography
 
 ### Imagery
@@ -86,7 +98,9 @@ Am I Responsive? – to show the website image on a range of devices
 
 Shields.io – add badges to README
 
-[Coolors.co](https://coolors.co/) - color palettes, contrast checking
+[Coolors.co](https://coolors.co/) - color palettes, 
+
+[WebAIM](https://webaim.org/resources/contrastchecker/) – color contrast checking
 
 [Lipsum](https://www.lipsum.com/), [loremipsum.io](https://loremipsum.io/) – Lorem Ipsum generators
 
@@ -126,10 +140,20 @@ When placing the favicon files in the `assets/favicon` directory, the code provi
 
 The code had to be modified to include the correct file paths for the favicon to show up correctly.
 
+##### Sections do not extend all the way to the sides of the screen
+
+When adding background colors to the `section` elements, rather than `main`, I have discovered some extra space around the sections. 
+
+Using `padding: 10%;` rather than`margin: 10%;` for`main > section` partially solved the issue, but there was still some extra space left around the sections, even when the margin of `section` was set to `0`.
+
+Using Developer Tools, I have discovered that the extra space corresponds to the padding of the `main` element. Setting `padding` to `0` for `main` solved the problem.
+
 
 ## Credits
 
 ### Code
+
+Variables https://www.w3schools.com/css/css3_variables.asp
 
 ### Content
 
