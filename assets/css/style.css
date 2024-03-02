@@ -122,13 +122,29 @@ header * {
   color:inherit;
 }
 
-nav ul {
-  list-style-type: none;
-  display: flex;
+nav {
+  position:absolute; /* this removes previous styling, so we need to add it back in */
+  right: 5%;
+  background-color: var(--dark);
+  border: 2px solid var(--mint);
+  display: none;
+  top:absolute;
 }
 
-nav ul li {
-  padding-left: 1rem;
+nav ul {
+  list-style-type: none;
+  padding: 1rem;
+}
+
+/* nav toggle: if the toggle is checked, the nav element is displayed */
+#nav-toggle:checked ~ nav {
+  display:block;
+  margin-top: 10rem;
+}
+
+/* hide checkbox */
+#nav-toggle {
+  display: none;
 }
 
 /* Main content */
@@ -186,4 +202,28 @@ footer ul {
   list-style-type: none;
   display: flex;
   justify-content: space-between;
+}
+
+/* media query: tablets and larger */
+@media screen and (min-width: 768px) {
+  /* Header */
+  nav {
+   display: block;
+   position: relative;
+   box-shadow: none;
+   width: fit-content;
+   padding-right: 1rem;
+  }
+
+  .nav-toggle-label {
+    display: none;
+  }
+
+  nav ul {
+    display:flex;
+  }
+
+  nav ul li {
+    padding-left: 1rem;
+  }
 }
