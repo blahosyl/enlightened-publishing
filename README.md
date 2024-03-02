@@ -46,6 +46,10 @@ Color variables were used instead of hard-coding colors for each element, so tha
 
 ### Typography
 
+[Google Fonts](https://fonts.google.com/) are used in this project. The client chose [Roboto Slab](https://fonts.google.com/specimen/Roboto+Slab?subset=latin&noto.script=Latn) for headings, and [Lato](https://fonts.google.com/specimen/Lato?subset=latin&noto.script=Latn) for normal text.
+
+
+
 ### Imagery
 
 ### Wireframes
@@ -84,22 +88,22 @@ Git – version control
 
 GitHub – store the source files
 
-Google Fonts - import fonts used on the website
+[Google Fonts](https://fonts.google.com/) - import fonts used on the website
 
 Google Dev Tools – troubleshoot, test responsivity and styling
 
 FontAwsome – icons
 
-TinyPNG – compress images
+<!--TinyPNG – compress images
 
 Birne – resize images and convert to `webp` format
-
+-->
 Favicon.io – create the favicon
 
 Am I Responsive? – to show the website image on a range of devices
 
-Shields.io – add badges to README
-
+<!--Shields.io – add badges to README
+-->
 [Coolors.co](https://coolors.co/) - color palettes, 
 
 [WebAIM](https://webaim.org/resources/contrastchecker/) – color contrast checking
