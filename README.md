@@ -44,6 +44,13 @@ Contrast between 2 salient colors: 7.75:1 ([WebAIM](https://webaim.org/resources
 
 Color variables were used instead of hard-coding colors for each element, so that the overall color scheme can easily be modified in the future if needed. This was based on the [W3Schools tutorial on variables](https://www.w3schools.com/css/css3_variables.asp), a resource pointed out by my mentor.
 
+### Images
+
+The [hero image of the Problems & Solutions section](https://www.pexels.com/photo/blue-and-green-sky-and-mountain-3617500/) shows an arctic landsape with mountains, water, and northern lights. It alludes to the client's professional background in Norway. The northern lights evoke a sense of awe and hope (light in the darkness).
+
+
+The [hero image of the about section](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/curtrice-green-2.webp) shows the client in a confident pose in front of a grafitti wall. It centers the client as both competent and approachable. 
+
 ### Typography
 
 [Google Fonts](https://fonts.google.com/) are used in this project. The client chose [Roboto Slab](https://fonts.google.com/specimen/Roboto+Slab?subset=latin&noto.script=Latn) for headings, and [Lato](https://fonts.google.com/specimen/Lato?subset=latin&noto.script=Latn) for normal text.
@@ -131,7 +138,7 @@ Web Disability Simulator
 ### Bugs
 #### Known bugs
 
-##### Insufficient contrast between hero image and text background
+##### Insufficient contrast between hero image and text background (Problems & Solutions)
 
 Experiment with different colors/opacities to improve legibility.
 
@@ -185,7 +192,9 @@ The books favicon comes from [Favicon.io](https://favicon.io/emoji-favicons/book
 
 [Fontawesome](https://fontawesome.com/)
 
-[Hero image: norhtern lights](https://www.pexels.com/photo/blue-and-green-sky-and-mountain-3617500/) by [Benjamin Suter](https://www.pexels.com/@benjaminjsuter/)
+[Hero image: Problems & Solutions section](https://www.pexels.com/photo/blue-and-green-sky-and-mountain-3617500/) by [Benjamin Suter](https://www.pexels.com/@benjaminjsuter/)
+
+[Hero image: About section](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/curtrice-green-2.webp) by Benjamin Ward, colors modified to fit the site's color scheme by Peter Litauszki (with permission).
 
 #### Videos
 
