@@ -129,6 +129,7 @@ header * {
   color:inherit;
 }
 
+/* nav toggle modeled after the Love Running project */
 nav {
   position:absolute; /* this removes previous styling, so we need to add it back in */
   right: 5%;
@@ -251,6 +252,8 @@ p {
 
 /* credential cards */
 
+/* card arrangement modeled after the Love Running project */
+
 #cred-container {
   margin-left: 10%;
   margin-right: 10%;
@@ -269,7 +272,7 @@ p {
   color: var(--mint);
 }
 
-.cred:hover , .cred:active{
+.cred:hover , .cred:active {
   color: var(--dark);
   background-color: var(--mint);
   border: solid 2px var(--dark);
@@ -315,7 +318,7 @@ footer ul {
 
 /* media query: tablets and larger */
 @media screen and (min-width: 768px) {
-  /* Hhader */
+  /* Header */
 
   header {
     padding: 4% 10%;

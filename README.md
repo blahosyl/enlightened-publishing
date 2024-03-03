@@ -30,6 +30,14 @@ In accordance with this, the website consists of 3, visually separate sections t
 
 To ease navigation, the header remains visible throughout.
 
+### Problems & Solutions section
+
+### About/Credentials section
+
+This section details the relevant past experience of the client. After a hero image and a short introductory text, the different jobs/positions/experiences are presented in a responsive grid. By default, only the institution and position title (XXX logo?) is visible; details are uncovered on tap (mobile, tablet) or hover (laptop/desktop).
+
+### Contact section
+
 ### Color scheme
 
 Palette: Arctic, northern lights
