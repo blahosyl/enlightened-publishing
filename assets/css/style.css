@@ -272,6 +272,7 @@ p {
   color: var(--mint);
 }
 
+/* credential cards only display institution & position by default; reveal more information on tap/hover */
 .cred:hover , .cred:active {
   color: var(--dark);
   background-color: var(--mint);
