@@ -269,7 +269,7 @@ p {
   color: var(--mint);
 }
 
-.cred:hover {
+.cred:hover , .cred:active{
   color: var(--dark);
   background-color: var(--mint);
   border: solid 2px var(--dark);
@@ -280,11 +280,11 @@ p {
   margin: 0;
 }
 
-.cred:hover > p {
+.cred:hover > p, .cred:active > p {
   display: block;
 }
 
-.cred:hover > h4 {
+.cred:hover > h4, .cred:active > h4 {
   display: none;
 }
 
