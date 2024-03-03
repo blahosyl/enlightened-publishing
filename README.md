@@ -165,6 +165,8 @@ Variables https://www.w3schools.com/css/css3_variables.asp
 
 [Recommended images sizes](https://tiny-img.com/blog/best-image-size-for-website/)
 
+[Make the header sticky](https://gomakethings.com/how-to-create-a-sticky-navigation-with-only-css/)
+
 
 ### Content
 
