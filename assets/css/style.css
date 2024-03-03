@@ -249,6 +249,45 @@ p {
   opacity: 0.8;
 }
 
+/* credential cards */
+
+#cred-container {
+  margin-left: 10%;
+  margin-right: 10%;
+  display: flex;
+  flex-wrap:wrap;
+}
+
+.cred {
+  flex-basis:200px;
+  flex-grow: 1;
+  padding: 10px;
+  margin: 2px;
+  height: 200px;
+  text-align: center;
+  background-color: var(--dark);
+  color: var(--mint);
+}
+
+.cred:hover {
+  color: var(--dark);
+  background-color: var(--mint);
+  border: solid 2px var(--dark);
+}
+
+.cred > p {
+  display: none;
+  margin: 0;
+}
+
+.cred:hover > p {
+  display: block;
+}
+
+.cred:hover > h4 {
+  display: none;
+}
+
 /* contact section */
 
 #contact {
