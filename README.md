@@ -187,6 +187,8 @@ Variables https://www.w3schools.com/css/css3_variables.asp
 
 [Make the header sticky](https://gomakethings.com/how-to-create-a-sticky-navigation-with-only-css/)
 
+[Pseudoclasses](https://www.w3schools.com/css/css_pseudo_classes.asp)
+
 
 ### Content
 

@@ -185,9 +185,9 @@ p {
   height: 600px;
   width: 100%;
   background: url("../images/hero-image-whole.webp") no-repeat center center/cover;
-  padding-top: 20%;
-  padding-left: 30%;
-  padding-right: 0;
+  display: flex;
+  justify-content: flex-end;
+  padding: 0;
   position:relative;
 }
 
@@ -195,8 +195,9 @@ p {
   background-color:  var(--blue-gray);
   color: var(--mint);
   font-size: 120%;
-  width: 80%;
-  padding: 10%;
+  /* width: 60%; */
+  max-height: 6rem;
+  padding: 2rem;
   opacity: 0.6;
 }
 
@@ -237,16 +238,17 @@ p {
   width: 100%;
   background: url("../images/curtrice-green-2.webp") no-repeat center center/cover;
   position:relative;
-  padding-left: 60%;
-  padding-right: 0;
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 5%;
 }
 
 #why-me-text {
   background-color:  var(--mint);
   color: var(--dark);
   font-size: 120%;
-  width: 70%;
-  padding: 10%;
+  max-width: 40%;
+  padding: 2rem;
   opacity: 0.8;
 }
 
