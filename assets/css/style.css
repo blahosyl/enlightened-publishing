@@ -214,6 +214,21 @@ p {
 #about {
   background-color:  var(--mint);
   color: var(--dark);
+  padding-left: 0;
+  padding-right: 0;
+}
+
+#about > h2, #about > h3, #about >p {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+#about > h2 {
+  margin-bottom: 2%;
+}
+
+#about > h3 {
+  margin-top: 5%;
 }
 
 #curt {
