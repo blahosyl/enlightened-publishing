@@ -34,7 +34,7 @@ To ease navigation, the header remains visible throughout.
 
 Palette: Arctic, northern lights
 
-Color arrangement inspiration: https://youpreneur.com/
+Color arrangement inspiration: [https://youpreneur.com/](https://youpreneur.com/)
 
 2 salient colors combined with white, gray and black. 
 
@@ -131,6 +131,11 @@ Web Disability Simulator
 ### Bugs
 #### Known bugs
 
+##### Insufficient contrast between hero image and text background
+
+Experiment with different colors/opacities to improve legibility.
+
+
 ##### Substack logo
 
 There is no Substack logo in Fontawesome, so the site is using a [solid bookmark](https://fontawesome.com/icons/bookmark?f=classic&s=solid) as a placeholder for the time being.
@@ -163,7 +168,7 @@ Using Developer Tools, I have discovered that the extra space corresponds to the
 
 Variables https://www.w3schools.com/css/css3_variables.asp
 
-[Recommended images sizes](https://tiny-img.com/blog/best-image-size-for-website/)
+[Recommended image sizes](https://tiny-img.com/blog/best-image-size-for-website/)
 
 [Make the header sticky](https://gomakethings.com/how-to-create-a-sticky-navigation-with-only-css/)
 
@@ -179,6 +184,8 @@ Variables https://www.w3schools.com/css/css3_variables.asp
 The books favicon comes from [Favicon.io](https://favicon.io/emoji-favicons/books/), licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 [Fontawesome](https://fontawesome.com/)
+
+[Hero image: norhtern lights](https://www.pexels.com/photo/blue-and-green-sky-and-mountain-3617500/) by [Benjamin Suter](https://www.pexels.com/@benjaminjsuter/)
 
 #### Videos
 
