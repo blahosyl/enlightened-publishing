@@ -130,6 +130,11 @@ header * {
   color:inherit;
 }
 
+/* logo link box should not extend too much to the right, it gets too close to the toggle to comfortably tap on mobile */
+#logo-link {
+  max-width: 60%;
+}
+
 /* nav toggle modeled after the Love Running project */
 nav {
   position:absolute; /* this removes previous styling, so we need to add it back in */
@@ -320,6 +325,14 @@ footer ul {
   justify-content: space-between;
 }
 
+/* media query: very narrow phones */
+@media screen and (max-width: 300px) {
+  /* logo link box should not extend too much to the right, it gets too close to the toggle to comfortably tap on mobile */
+  #logo-link {
+    max-width: 75%;
+  }
+}
+
 /* media query: tablets and larger */
 @media screen and (min-width: 768px) {
   /* Header */
@@ -327,6 +340,7 @@ footer ul {
   header {
     padding: 4% 10%;
   }
+
   nav {
    display: block;
    position: relative;

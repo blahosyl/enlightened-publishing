@@ -176,6 +176,12 @@ Using `padding: 10%;` rather than`margin: 10%;` for`main > section` partially so
 
 Using Developer Tools, I have discovered that the extra space corresponds to the padding of the `main` element. Setting `padding` to `0` for `main` solved the problem.
 
+##### Link box of logo too wide
+
+The `a` element containing the logo extended too far to the right on small screens, so that it almost overlapped with the hamburger menu. As a result, it was hard to choose which one to tap.
+
+Adding `max-width` attributes to the `a` element (one for default, one for extra narrow screens) solved the issue.
+
 
 ## Credits
 
