@@ -240,7 +240,7 @@ p {
 }
 
 #curt {
-  height: 600px;
+  height: 800px;
   width: 100%;
   background: url("../images/curtrice-green-2.webp") no-repeat  center/cover;
   /* with narrow screen sizes, then image should shrink to show the client */
@@ -330,6 +330,16 @@ footer ul {
   /* logo link box should not extend too much to the right, it gets too close to the toggle to comfortably tap on mobile */
   #logo-link {
     max-width: 75%;
+  }
+}
+
+/* media query: phones */
+@media screen and (max-width: 480px) {
+  #curt {
+    flex-direction: column;
+  }
+  #why-me-text {
+    max-width: 100%;
   }
 }
 
