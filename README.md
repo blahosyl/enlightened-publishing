@@ -150,6 +150,7 @@ Web Disability Simulator
 ##### Insufficient contrast between hero image and text background (Problems & Solutions)
 
 Experiment with different colors/opacities to improve legibility.
+
 #### Known bugs
 
 ##### Nav element not aligned properly within header
