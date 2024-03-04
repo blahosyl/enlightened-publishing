@@ -189,6 +189,7 @@ p {
   display: flex;
   justify-content: flex-end;
   padding: 0;
+  padding-top: 20%;
   position:relative;
 }
 
@@ -352,7 +353,8 @@ footer ul {
 
   /* hero image */
   #hero {
-    padding-top: 15%;
+    padding-top: 10%;
+    padding-right: 10%;
   }
 }
 
@@ -362,6 +364,7 @@ footer ul {
     /* hero image */
     #hero {
       padding-top: 5%;
+      padding-right: 5%;
     }
 
     /* Credentials hero image */
