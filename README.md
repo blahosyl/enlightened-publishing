@@ -147,10 +147,6 @@ Web Disability Simulator
 
 #### To Do
 
-##### Placement of Credentials hero image text
-
-This currently overflows vertically on mobile. Might have to make 2 different versions of this hero image and text, depending on how much text will go in the box in the final version.
-
 ##### Insufficient contrast between hero image and text background (Problems & Solutions)
 
 Experiment with different colors/opacities to improve legibility.
