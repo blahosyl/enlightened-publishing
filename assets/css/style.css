@@ -236,11 +236,12 @@ p {
 #curt {
   height: 600px;
   width: 100%;
-  background: url("../images/curtrice-green-2.webp") no-repeat center center/cover;
+  background: url("../images/curtrice-green-2.webp") no-repeat  center/cover;
+  /* with narrow screen sizes, then image should shrink to show the client */
+  background-position: 45%;
   position:relative;
   display: flex;
   justify-content: flex-end;
-  padding-right: 5%;
 }
 
 #why-me-text {
@@ -255,7 +256,6 @@ p {
 /* credential cards */
 
 /* card arrangement modeled after the Love Running project */
-
 #cred-container {
   margin-left: 10%;
   margin-right: 10%;
@@ -361,6 +361,11 @@ footer ul {
     /* hero image */
     #hero {
       padding-top: 5%;
+    }
+
+    /* Credentials hero image */
+    #curt {
+      padding-right: 5%;
     }
 
     /* credential cards only display institution & position by default; reveal more information on hover */
