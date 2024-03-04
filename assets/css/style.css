@@ -327,6 +327,9 @@ footer ul {
 
 /* media query: very narrow phones */
 @media screen and (max-width: 300px) {
+
+  /* hearder */
+  /* nav bar */
   /* logo link box should not extend too much to the right, it gets too close to the toggle to comfortably tap on mobile */
   #logo-link {
     max-width: 75%;
