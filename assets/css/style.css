@@ -388,6 +388,7 @@ footer ul {
     padding-top: 10%;
     padding-right: 10%;
   }
+}
 
 /* laptops and desktops */
 @media screen and (min-width: 992px) {
