@@ -250,6 +250,7 @@ p {
   justify-content: flex-end;
 }
 
+/* Credentials hero image text */
 #why-me-text {
   background-color:  var(--mint);
   color: var(--dark);
@@ -257,6 +258,9 @@ p {
   max-width: 40%;
   padding: 2rem;
   opacity: 0.8;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 /* credential cards */
@@ -384,7 +388,6 @@ footer ul {
     padding-top: 10%;
     padding-right: 10%;
   }
-}
 
 /* laptops and desktops */
 @media screen and (min-width: 992px) {
@@ -397,7 +400,7 @@ footer ul {
 
     /* Credentials hero image */
     #curt {
-      padding-right: 5%;
+      padding-right: 10%;
     }
 
 }
