@@ -275,8 +275,8 @@ p {
   color: var(--mint);
 }
 
-/* credential cards only display institution & position by default; reveal more information on tap */
-.cred:active {
+/* credential cards only display institution & position by default; reveal more information on tap/hover */
+.cred:active, .cred:hover {
   color: var(--dark);
   background-color: var(--mint);
   border: solid 2px var(--dark);
@@ -287,11 +287,11 @@ p {
   margin: 0;
 }
 
-.cred:active > p {
+.cred:active > p, .cred:hover > p {
   display: block;
 }
 
-.cred:active > h4 {
+.cred:active > h4, .cred:hover > h4 {
   display: none;
 }
 
@@ -371,18 +371,4 @@ footer ul {
       padding-right: 5%;
     }
 
-    /* credential cards only display institution & position by default; reveal more information on hover */
-    .cred:hover {
-      color: var(--dark);
-      background-color: var(--mint);
-      border: solid 2px var(--dark);
-    }
-
-    .cred:hover > p {
-      display: block;
-    }
-
-    .cred:hover > h4 {
-      display: none;
-    }
 }
