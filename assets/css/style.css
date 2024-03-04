@@ -347,6 +347,8 @@ footer ul {
    box-shadow: none;
    width: fit-content;
    font-size: 120%;
+   /* could not figure out why this is not aligned with the right edge of the parent, so adjusted manually */
+   margin-right: -2rem;
   }
 
   /* hamburger menu should not be shown */
@@ -360,8 +362,8 @@ footer ul {
     padding: 0;
   }
 
-  nav ul li {
-    padding-left: 1rem;
+  .non-last-li {
+    padding-right: 1rem;
   }
 
   /* hero image */

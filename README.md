@@ -144,7 +144,8 @@ Wave
 Web Disability Simulator
 
 ### Bugs
-#### Known bugs
+
+#### To Do
 
 ##### Placement of Credentials hero image text
 
@@ -153,7 +154,15 @@ This currently overflows vertically on mobile. Might have to make 2 different ve
 ##### Insufficient contrast between hero image and text background (Problems & Solutions)
 
 Experiment with different colors/opacities to improve legibility.
+#### Known bugs
 
+##### Nav element not aligned properly within header
+
+There is some vertical space to the right of the `nav` element within the `header`, even though `justify-content: space-between;` is specified for the header with Flexbox.
+
+Developer tools do not show any padding or margin on any of the elements (also checked the descendants: `ul` and `li`). 
+
+Manually corrected using `margin: -2rem;` for now.
 
 ##### Substack logo
 
