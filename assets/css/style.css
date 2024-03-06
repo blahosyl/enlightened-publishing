@@ -78,8 +78,8 @@
 :root {
   --dark: #004e64;
   --white: #ffffff;
-  --mint: #9fffcb;
-  --blue-gray: #62929e;
+  --light: #9fffcb;
+  --gray: #62929e;
 }
 
 /* overall style, override browser defaults */
@@ -108,7 +108,7 @@ h1, h2, h3 {
 /* Header */
 header {
   background-color: var(--dark);
-  color: var(--mint);
+  color: var(--light);
   display: flex;
   /* vertically center childern */
   align-items: center;
@@ -152,7 +152,7 @@ nav ul {
 #nav-toggle:checked ~ nav {
   display:block;
   margin-top: 10rem;
-  border: 2px solid var(--mint);
+  border: 2px solid var(--light);
 }
 
 /* hide checkbox */
@@ -198,8 +198,8 @@ p {
 }
 
 #cover-text {
-  background-color:  var(--blue-gray);
-  color: var(--mint);
+  background-color:  var(--gray);
+  color: var(--light);
   font-size: 120%;
   /* width: 60%; */
   max-height: 6rem;
@@ -220,7 +220,7 @@ p {
 /* about section */
 
 #about {
-  background-color:  var(--mint);
+  background-color:  var(--light);
   color: var(--dark);
   padding-left: 0;
   padding-right: 0;
@@ -252,7 +252,7 @@ p {
 
 /* Credentials hero image text */
 #why-me-text {
-  background-color:  var(--mint);
+  background-color:  var(--light);
   color: var(--dark);
   font-size: 120%;
   max-width: 40%;
@@ -281,13 +281,13 @@ p {
   height: 200px;
   text-align: center;
   background-color: var(--dark);
-  color: var(--mint);
+  color: var(--light);
 }
 
 /* credential cards only display institution & position by default; reveal more information on tap/hover */
 .cred:active, .cred:hover {
   color: var(--dark);
-  background-color: var(--mint);
+  background-color: var(--light);
   border: solid 2px var(--dark);
 }
 
@@ -307,7 +307,7 @@ p {
 /* contact section */
 
 #contact {
-  color:  var(--mint);
+  color:  var(--light);
   background-color: var(--dark);
 }
 
@@ -319,12 +319,12 @@ p {
 
 /* Footer */
 footer {
-  background-color: var(--blue-gray);
+  background-color: var(--gray);
 }
 
   /* link elements in the footer should not be blue/purple */
 footer * {
-  color: var(--mint);
+  color: var(--light);
   font-size: 120%;
   padding: 0 5%;
 }
