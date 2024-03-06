@@ -447,6 +447,12 @@ footer ul {
 /* laptops and desktops */
 @media screen and (min-width: 992px) {
 
+    /*  links change color when hovered over */
+    a:hover,
+    a:hover i { /* footer icons included*/
+      color: var(--white);
+    }
+
     /* hero image */
     #hero {
       padding-top: 5%;
@@ -457,5 +463,4 @@ footer ul {
     #curt {
       padding-right: 10%;
     }
-
 }
