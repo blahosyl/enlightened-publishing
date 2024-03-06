@@ -81,6 +81,20 @@ The [hero image of the about section](https://raw.githubusercontent.com/blahosyl
 
 ### About section
 
+#### Credential cards
+
+The client's relevant experience is displayed on individual cards to avoid creating a large block of text and break up the information into smaller, digestible pieces.
+
+The cards are arranged in a responsive grid using Flexbox, similarly to the "running times" section of the Love Running project.
+
+Additionally, the information within each card is divided into 2, and presented as a result of user interaction:
+
+- By default, each cards shows the name of the institution/organisation, the position the client held there, as well as the logo XXXX. 
+- When the user taps or hovers over a card (depending on the type of device used), this information is replaced by a more detailed description of the client's experience. 
+
+In accordance with my mentor's suggestion, I have added explicit text to tap or hover for more information. I have decided to add this text to each card rather than just adding it once above the card block, because I consider it better for accessibility. 
+
+
 ### Contact section
 
 ### Future implementations
