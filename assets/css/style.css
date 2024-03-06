@@ -311,6 +311,11 @@ p {
   background-color: var(--dark);
 }
 
+.external-container {
+  width: 100%;
+  background: var(--white);
+}
+
 .calendly-inline-widget {
   min-width:320px;
   height:700px;
