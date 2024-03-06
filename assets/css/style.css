@@ -311,6 +311,11 @@ p {
   background-color: var(--dark);
 }
 
+.calendly-inline-widget {
+  min-width:320px;
+  height:700px;
+}
+
 /* Footer */
 footer {
   background-color: var(--blue-gray);
@@ -387,6 +392,13 @@ footer ul {
   #hero {
     padding-top: 10%;
     padding-right: 10%;
+  }
+}
+
+@media screen and (max-width: 892px) {
+  /* add white border to Calendly widget for small and medium screen sizes */
+  .calendly-inline-widget {
+    border: 2px solid white;
   }
 }
 
