@@ -151,6 +151,12 @@ Web Disability Simulator
 
 Experiment with different colors/opacities to improve legibility.
 
+##### Header obscures content when using nav bar
+
+When clicking on a nav bar link and jumping to the corresponding section, the top of the section content is obscured by the sticky nav bar.
+
+Things to try: increase top margin or padding for sections?
+
 #### Known bugs
 
 ##### Nav element not aligned properly within header
