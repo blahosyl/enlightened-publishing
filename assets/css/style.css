@@ -217,6 +217,11 @@ p {
   color: var(--dark);
 }
 
+/* this section currently has a white background, so the link hover color has to be changed */
+#problems-solutions a:hover {
+  color: var(--gray);
+}
+
 /* about section */
 
 #about {
