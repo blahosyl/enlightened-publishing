@@ -1,9 +1,9 @@
 /* import Google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Roboto+Slab:wght@100..900&display=swap');
 /*  <uniquifier>: Use a unique and descriptive class name
- <weight>: Use a value from 100 to 900 */
+<weight>: Use a value from 100 to 900 */
 
- /* using imported fonts (from Google Fonts) */
+/* using imported fonts (from Google Fonts) */
 .roboto-slab-academic {
   font-family: "Roboto Slab", serif;
   /* This code snippet came from Google fonts. Itproduced a validator error, but does not seem to break anything when removed
@@ -102,7 +102,7 @@ body > * {
 }
 
 h1, h2, h3 {
-    font-family: "Roboto Slab", serif;
+  font-family: "Roboto Slab", serif;
 }
 
 /* Header */
@@ -117,8 +117,8 @@ header {
   margin-right: 0;
   /* make header sticky (top of page) */
   position: -webkit-sticky;
-	position: sticky;
-	top: 0;
+  position: sticky;
+  top: 0;
   /* always appear on top of any other element */
   z-index: 99;
   padding: 5% 10%;
@@ -352,7 +352,7 @@ footer {
   background-color: var(--gray);
 }
 
-  /* link elements in the footer should not be blue/purple */
+/* link elements in the footer should not be blue/purple */
 footer * {
   color: var(--light);
   font-size: 120%;
@@ -395,13 +395,13 @@ footer ul {
   }
 
   nav {
-   display: block;
-   position: relative;
-   box-shadow: none;
-   width: fit-content;
-   font-size: 120%;
-   /* could not figure out why this is not aligned with the right edge of the parent, so adjusted manually */
-   margin-right: -2rem;
+    display: block;
+    position: relative;
+    box-shadow: none;
+    width: fit-content;
+    font-size: 120%;
+    /* could not figure out why this is not aligned with the right edge of the parent, so adjusted manually */
+    margin-right: -2rem;
   }
 
   /* hamburger menu should not be shown */
@@ -447,20 +447,20 @@ footer ul {
 /* laptops and desktops */
 @media screen and (min-width: 992px) {
 
-    /*  links change color when hovered over */
-    a:hover,
-    a:hover i { /* footer icons included*/
-      color: var(--white);
-    }
+  /*  links change color when hovered over */
+  a:hover,
+  a:hover i { /* footer icons included*/
+    color: var(--white);
+  }
 
-    /* hero image */
-    #hero {
-      padding-top: 5%;
-      padding-right: 5%;
-    }
+  /* hero image */
+  #hero {
+    padding-top: 5%;
+    padding-right: 5%;
+  }
 
-    /* Credentials hero image */
-    #curt {
-      padding-right: 10%;
-    }
+  /* Credentials hero image */
+  #curt {
+    padding-right: 10%;
+  }
 }
