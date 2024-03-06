@@ -281,13 +281,13 @@ p {
   height: 200px;
   text-align: center;
   background-color: var(--dark);
-  color: var(--light);
+  color: var(--white);
 }
 
 /* credential cards only display institution & position by default; reveal more information on tap/hover */
 .cred:active, .cred:hover {
   color: var(--dark);
-  background-color: var(--light);
+  background-color: var(--white);
   border: solid 2px var(--dark);
 }
 
