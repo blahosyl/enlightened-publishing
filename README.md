@@ -92,7 +92,7 @@ Additionally, the information within each card is divided into 2, and presented 
 - By default, each cards shows the name of the institution/organisation, the position the client held there, as well as the logo XXXX. 
 - When the user taps or hovers over a card (depending on the type of device used), this information is replaced by a more detailed description of the client's experience. 
 
-In accordance with my mentor's suggestion, I have added explicit text to tap or hover for more information. I have decided to add this text to each card rather than just adding it once above the card block, because I consider it better for accessibility. 
+In accordance with my mentor's suggestion, I have added explicit text to tap or hover for more information. I have decided to add this text to each card rather than just adding it once above the card block, because I consider it better for accessibility. The tap/hover text is also visually different from the rest of the text on the card, to make the functionality more explicit.
 
 
 ### Contact section
