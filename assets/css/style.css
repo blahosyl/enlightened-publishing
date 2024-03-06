@@ -280,28 +280,53 @@ p {
   margin: 2px;
   height: 200px;
   text-align: center;
+  /* flex needed for putting `cred-tap`/`cred-hover` at the bottom of the box */
+  display: flex;
+  flex-direction: column;
   background-color: var(--dark);
   color: var(--white);
 }
 
 /* credential cards only display institution & position by default; reveal more information on tap/hover */
-.cred:active, .cred:hover {
+.cred:active,
+.cred:hover {
   color: var(--dark);
   background-color: var(--white);
   border: solid 2px var(--dark);
 }
 
-.cred > p {
+.cred-tap,
+.cred-hover {
+  font-size: 80%;
+  color: var(--light);
+  /* push it to the bottom of the parent box */
+  margin-top: auto;
+}
+
+/* this is not displayed by default, only on larger screened devices where hover is possible */
+.cred-hover {
+  display: none;
+}
+
+/* hide institution, position, and advice to tap/hover on tap or hover */
+.cred:active > h4,
+.cred:hover > h4,
+.cred:active > .cred-tap,
+.cred:active > .cred-hover,
+.cred:hover > .cred-tap,
+.cred:hover > .cred-hover {
+  display: none;
+}
+
+/* this is not displayed by default, only when tapped/hovered over */
+.cred > .cred-content {
   display: none;
   margin: 0;
 }
 
-.cred:active > p, .cred:hover > p {
+.cred:active > .cred-content,
+.cred:hover > .cred-content {
   display: block;
-}
-
-.cred:active > h4, .cred:hover > h4 {
-  display: none;
 }
 
 /* contact section */
@@ -399,6 +424,17 @@ footer ul {
     padding-top: 10%;
     padding-right: 10%;
   }
+
+  /* credential cards should have "hover" instead of "tap" */
+
+  .cred-hover {
+    display: block;
+  }
+
+  .cred-tap {
+    display: none;
+  }
+
 }
 
 @media screen and (max-width: 892px) {

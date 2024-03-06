@@ -209,7 +209,9 @@ Variables https://www.w3schools.com/css/css3_variables.asp
 
 [Make the header sticky](https://gomakethings.com/how-to-create-a-sticky-navigation-with-only-css/)
 
-[Pseudoclasses](https://www.w3schools.com/css/css_pseudo_classes.asp)
+[Pseudoclasses](https://www.w3schools.com/css/css_pseudo_classes.asp) (credential cards)
+
+[Push 1 paragraph to to bottom of container without affecting the rest](https://stackoverflow.com/a/39613036) (credential cards)
 
 
 ### Content
