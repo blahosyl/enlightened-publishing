@@ -471,6 +471,10 @@ footer ul {
     align-items: center;
   }
 
+  .flip {
+    flex-direction: row-reverse;
+  }
+
   .half {
     width: 45%;
   }
