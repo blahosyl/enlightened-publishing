@@ -153,6 +153,10 @@ Lighthouse
 Testing user stories
 Full testing of functionalities
 
+####Footer
+
+The links to the client's social media accounts open in a new tab.
+
 ### Accessibility testing
 Wave
 Web Disability Simulator
