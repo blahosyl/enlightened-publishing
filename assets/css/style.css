@@ -471,6 +471,7 @@ footer ul {
     align-items: center;
   }
 
+  /* has to come after `.color-pic-box {flex-direction: row;}` */
   .flip {
     flex-direction: row-reverse;
   }
