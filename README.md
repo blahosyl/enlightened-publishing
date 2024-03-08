@@ -32,6 +32,10 @@ To ease navigation, the header remains visible throughout.
 
 ### Problems & Solutions section
 
+The problems subsection features a dark color scheme, grayscale pictures with a dark tint, and images suggesting overwhelm.
+
+The Solutions section has a bright colored background and color images that are only slightly tinted with the same bring color.
+
 ### About/Credentials section
 
 This section details the relevant past experience of the client. After a hero image and a short introductory text, the different jobs/positions/experiences are presented in a responsive grid. By default, only the institution and position title (XXX logo?) is visible; details are uncovered on tap (mobile, tablet) or hover (laptop/desktop).
