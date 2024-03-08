@@ -223,7 +223,13 @@ p {
 }
 
 #problems-solutions p {
-  padding: 2rem;
+  margin: 0.5rem 0;
+}
+
+.p-cont {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
 }
 
 #problems {
@@ -285,10 +291,6 @@ p {
 
 #solutions .color-cover {
   background-color: var(--light);
-}
-
-.color-pic-box p {
-  width: 100%;
 }
 
 .small-width {
@@ -532,6 +534,10 @@ footer ul {
 
   .cred-tap {
     display: none;
+  }
+
+  .p-cont {
+    padding: 2rem;
   }
 
 }
