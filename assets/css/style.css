@@ -237,7 +237,7 @@ p {
 .color-pic-box {
   display: flex;
   justify-content: space-between;
-  margin: 2vw;
+  margin: 2vw 0;
 }
 
 .grayscale-pic {
@@ -286,7 +286,7 @@ p {
 }
 
 .small-width {
-  flex-basis: 45%;
+  flex-basis: 25%;
 }
 
 .big-width {
