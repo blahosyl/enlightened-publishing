@@ -115,11 +115,15 @@ HTML, CSS
 
 ### Frameworks,  Libraries & Programs Used
 
+Atom – code editor
+
 Balsamiq – wireframes
 
 Git – version control
 
 GitHub – store the source files
+
+GitHub Desktop – GitHub UI
 
 [Google Fonts](https://fonts.google.com/) - import fonts used on the website
 
@@ -129,8 +133,10 @@ FontAwsome – icons
 
 <!--TinyPNG – compress images
 
-Birme – resize images and convert to `webp` format
 -->
+
+[Birme](https://www.birme.net/) – resize images and convert to `webp` format
+
 Favicon.io – create the favicon
 
 Am I Responsive? – to show the website image on a range of devices
