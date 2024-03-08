@@ -415,6 +415,20 @@ p {
   display: block;
 }
 
+/* video */
+#video {
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  padding: 0 10%;
+  margin-top: 5vh;
+}
+
+#video iframe {
+  width: 100%;
+  height: 250px;
+}
+
 /* contact section */
 
 #contact {
@@ -549,6 +563,12 @@ footer ul {
     padding: 2rem;
   }
 
+  /* About section */
+  #video,
+  #video iframe {
+    height: 400px;
+  }
+
 }
 
 @media screen and (max-width: 892px) {
@@ -577,4 +597,10 @@ footer ul {
   #curt {
     padding-right: 10%;
   }
+
+  #video,
+  #video iframe {
+    height: 500px;
+  }
+
 }
