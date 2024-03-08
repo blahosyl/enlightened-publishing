@@ -94,6 +94,8 @@ body {
   display: flex;
   flex-direction: column;
   font-family: 'Lato', sans-serif;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 /* all children of the body have padding */
@@ -187,9 +189,8 @@ p {
 
 /* hero section */
 #hero {
-  height: 600px;
-  width: 100%;
-  background: url("../images/hero-image-whole.webp") no-repeat center center/cover;
+  min-height: 90vh;
+  background: url("../images/hero-img-opt.webp") no-repeat center center/cover;
   display: flex;
   justify-content: flex-end;
   padding: 0;
@@ -214,11 +215,15 @@ p {
 /* problems & solutions section */
 
 #problems-solutions {
-  color: var(--dark);
+  background-color: var(--gray);
 }
 
-/* this section currently has a white background, so the link hover color has to be changed */
-#problems-solutions a:hover {
+#problems-solutions {
+  color: var(--white);
+}
+
+#solutions p,
+#solutions ul {
   color: var(--gray);
 }
 
@@ -230,14 +235,6 @@ p {
   display: flex;
   flex-direction: column;
   padding: 1rem;
-}
-
-#problems {
-  color: var(--white);
-}
-
-#problems h2 {
-  color: var(--dark);
 }
 
 .color-pic-box {

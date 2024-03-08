@@ -129,7 +129,7 @@ FontAwsome – icons
 
 <!--TinyPNG – compress images
 
-Birne – resize images and convert to `webp` format
+Birme – resize images and convert to `webp` format
 -->
 Favicon.io – create the favicon
 
@@ -227,13 +227,15 @@ Adding `max-width` attributes to the `a` element (one for default, one for extra
 
 Variables https://www.w3schools.com/css/css3_variables.asp
 
-[Recommended image sizes](https://tiny-img.com/blog/best-image-size-for-website/)
+[Recommended image sizes](https://tiny-img.com/blog/best-image-size-for-website/), [2](https://www.foregroundweb.com/image-size)
 
 [Make the header sticky](https://gomakethings.com/how-to-create-a-sticky-navigation-with-only-css/)
 
 [Pseudoclasses](https://www.w3schools.com/css/css_pseudo_classes.asp) (credential cards)
 
 [Push 1 paragraph to to bottom of container without affecting the rest](https://stackoverflow.com/a/39613036) (credential cards)
+
+
 
 
 ### Content
