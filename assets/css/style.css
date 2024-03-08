@@ -132,6 +132,10 @@ header * {
   color:inherit;
 }
 
+#logo {
+  text-transform: capitalize;
+}
+
 /* logo link box should not extend too much to the right, it gets too close to the toggle to comfortably tap on mobile */
 #logo-link {
   max-width: 60%;
@@ -192,23 +196,24 @@ p {
   min-height: 90vh;
   background: url("../images/hero-img-opt.webp") no-repeat center center/cover;
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
   padding: 0;
-  padding-top: 20%;
-  position:relative;
+  position: relative;
 }
 
-#cover-text {
+#hero-text {
   background-color:  var(--gray);
   color: var(--light);
   font-size: 120%;
-  /* width: 60%; */
-  max-height: 6rem;
-  padding: 2rem;
+  height: 8rem;
   opacity: 0.6;
+  display: flex;
+  align-items: center;
+  padding: 0 2rem;
+  margin-top: 20%;
 }
 
-#cover-text h3 {
+#hero-text h3 {
   margin-top: 0;
 }
 
@@ -455,6 +460,10 @@ footer ul {
   #logo-link {
     max-width: 75%;
   }
+
+  #hero-text {
+    height: 12rem;
+  }
 }
 
 /* media query: phones */
@@ -503,7 +512,10 @@ footer ul {
   /* hero image */
   #hero {
     padding-top: 10%;
-    padding-right: 10%;
+  }
+
+  #hero-text {
+    margin-top: 5%;
   }
 
   /* Problems & Solutions section: text amd pics should be side by side */
@@ -557,8 +569,8 @@ footer ul {
 
   /* hero image */
   #hero {
+    /* reduce top padding on wide screens */
     padding-top: 5%;
-    padding-right: 5%;
   }
 
   /* Credentials hero image */
