@@ -294,7 +294,11 @@ p {
 }
 
 #learn-list .color-cover {
-  height: 120vh;
+  height: 140vh;
+}
+
+#learn-list ul {
+  padding-left: 1rem;
 }
 
 #success .color-cover {
@@ -483,6 +487,24 @@ footer ul {
   #hero-text {
     height: 12rem;
   }
+
+  /* Problems & Solutions section */
+  #millions .color-cover {
+    height: 70vh;
+  }
+
+  #frustrated .color-cover {
+    height: 120vh;
+  }
+
+  #learn-list .color-cover {
+    height: 170vh;
+  }
+
+  #success .color-cover {
+    height: 90vh;
+  }
+
 }
 
 /* media query: phones */
