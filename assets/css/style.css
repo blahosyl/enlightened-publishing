@@ -281,13 +281,27 @@ p {
 
 .color-cover {
   width: 100%;
-  height: 80vh;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   flex-direction: column;
   align-items: center;
 }
 
+#millions .color-cover {
+  height: 60vh;
+}
+
+#frustrated .color-cover {
+  height: 100vh;
+}
+
+#learn-list .color-cover {
+  height: 120vh;
+}
+
+#success .color-cover {
+  height: 70vh;
+}
 
 #problems .color-cover {
   background-color: var(--dark);
@@ -534,19 +548,6 @@ footer ul {
     margin-top: 5%;
   }
 
-  /* Problems & Solutions section: text amd pics should be side by side */
-
-  .color-cover {
-    flex-direction: row;
-    align-items: center;
-    height: 40vh;
-  }
-
-  /* has to come after `.color-pic-box {flex-direction: row;}` */
-  .flip {
-    flex-direction: row-reverse;
-  }
-
   .half {
     width: 45%;
   }
@@ -593,6 +594,39 @@ footer ul {
   #hero {
     /* reduce top padding on wide screens */
     padding-top: 5%;
+  }
+
+  /* Problems & Solutions section: text amd pics should be side by side */
+
+  .color-cover {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  /* has to come after `.color-pic-box {flex-direction: row;}` */
+  .flip {
+    flex-direction: row-reverse;
+  }
+
+  #millions .color-cover {
+    height: 40vh;
+  }
+
+  #frustrated .color-cover {
+    height: 40vh;
+  }
+
+  #learn-list .color-cover {
+    height: 40vh;
+  }
+
+  #success .color-cover {
+    height: 25vh;
+  }
+
+  #success .grayscale-pic {
+    width: 50%;
   }
 
   /* Credentials hero image */
