@@ -80,6 +80,7 @@
   --white: #ffffff;
   --light: #9fffcb;
   --gray: #62929e;
+  --dark-gray: #516f77;
 }
 
 /* overall style, override browser defaults */
@@ -202,7 +203,7 @@ p {
 }
 
 #hero-text {
-  background-color:  var(--gray);
+  background-color:  var(--dark-gray);
   color: var(--light);
   font-size: 120%;
   height: 8rem;
