@@ -268,7 +268,7 @@ p {
 }
 
 #success .grayscale-pic {
-  background: url("../images/presentation.jpg") no-repeat center center/cover;
+  background: url("../images/presentation.webp") no-repeat center center/cover;
 }
 
 /* pictures in this section should not be gray, and less tinted */

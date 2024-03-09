@@ -242,8 +242,6 @@ Variables https://www.w3schools.com/css/css3_variables.asp
 [Push 1 paragraph to to bottom of container without affecting the rest](https://stackoverflow.com/a/39613036) (credential cards)
 
 
-
-
 ### Content
 
 ### Media
@@ -256,9 +254,11 @@ The books favicon comes from [Favicon.io](https://favicon.io/emoji-favicons/book
 
 [Fontawesome](https://fontawesome.com/)
 
-[Hero image: Problems & Solutions section](https://www.pexels.com/photo/blue-and-green-sky-and-mountain-3617500/) by [Benjamin Suter](https://www.pexels.com/@benjaminjsuter/)
+[Hero image](https://www.pexels.com/photo/blue-and-green-sky-and-mountain-3617500/) by [Benjamin Suter](https://www.pexels.com/@benjaminjsuter/)
 
-[Hero image: About section](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/curtrice-green-2.webp) by Benjamin Ward, colors modified to fit the site's color scheme by Peter Litauszki (with permission).
+[CLient image in the Problems & Solutions section](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/presentation.webp) by Benjamin Ward, modified to reduce optical noise by Peter Litauszki (with permission).
+
+[Client image: About section](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/curtrice-green-2.webp) by Benjamin Ward, colors modified to fit the site's color scheme by Peter Litauszki (with permission).
 
 #### Videos
 
