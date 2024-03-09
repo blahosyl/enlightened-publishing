@@ -183,59 +183,7 @@ Web Disability Simulator
 
 ### Bugs
 
-#### To Do
-
-##### Insufficient contrast between hero image and text background (Problems & Solutions)
-
-Experiment with different colors/opacities to improve legibility.
-
-##### Header obscures content when using nav bar
-
-When clicking on a nav bar link and jumping to the corresponding section, the top of the section content is obscured by the sticky nav bar.
-
-Things to try: increase top margin or padding for sections?
-
-#### Known bugs
-
-##### Nav element not aligned properly within header
-
-There is some vertical space to the right of the `nav` element within the `header`, even though `justify-content: space-between;` is specified for the header with Flexbox.
-
-Developer tools do not show any padding or margin on any of the elements (also checked the descendants: `ul` and `li`). 
-
-Manually corrected using `margin: -2rem;` for now.
-
-##### Substack logo
-
-There is no Substack logo in Fontawesome, so the site is using a [solid bookmark](https://fontawesome.com/icons/bookmark?f=classic&s=solid) as a placeholder for the time being.
-
-Explore the option of either 
-
- - using the [official logo](https://substack.com/brand) as an image, OR
- - [creating a new icon on Fontawesome](https://fontawesome.com/v5/docs/web/use-kits/upload-icons) (requres a PRO account).
-
-#### Solved bugs
-
-##### Favicon not showing up
-
-When placing the favicon files in the `assets/favicon` directory, the code provided on [Favicon.io](https://favicon.io/emoji-favicons/books/) did not work, since it is written for the use case when files are placed in the root directory.
-
-The code had to be modified to include the correct file paths for the favicon to show up correctly.
-
-##### Sections do not extend all the way to the sides of the screen
-
-When adding background colors to the `section` elements, rather than `main`, I have discovered some extra space around the sections. 
-
-Using `padding: 10%;` rather than`margin: 10%;` for`main > section` partially solved the issue, but there was still some extra space left around the sections, even when the margin of `section` was set to `0`.
-
-Using Developer Tools, I have discovered that the extra space corresponds to the padding of the `main` element. Setting `padding` to `0` for `main` solved the problem.
-
-##### Link box of logo too wide
-
-The `a` element containing the logo extended too far to the right on small screens, so that it almost overlapped with the hamburger menu. As a result, it was hard to choose which one to tap.
-
-Adding `max-width` attributes to the `a` element (one for default, one for extra narrow screens) solved the issue.
-
+[Known](https://github.com/blahosyl/love-running/issues) and [solved](https://github.com/blahosyl/love-running/issues?q=is%3Aissue+is%3Aclosed) bugs are handled in [GitHub Issues](https://github.com/blahosyl/love-running/issues/).
 
 ## Credits
 
@@ -251,6 +199,15 @@ Variables https://www.w3schools.com/css/css3_variables.asp
 
 [Push 1 paragraph to to bottom of container without affecting the rest](https://stackoverflow.com/a/39613036) (credential cards)
 
+[`filter`](https://www.w3schools.com/cssref/css3_pr_filter.php)
+
+[hue-rotate](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/hue-rotate), [2](https://www.quackit.com/css/functions/css_hue-rotate_function.cfm)
+
+[calculate filter](https://stackoverflow.com/a/73824920), [2](https://isotropic.co/tool/hex-color-to-css-filter/)
+
+[`iframe`](https://www.w3schools.com/html/html_youtube.asp)
+
+[Embedding YouTube videos](https://www.lifelearn.com/2019/02/25/youtube-videos-on-your-website/#:~:text=To%20sort%20which%20videos%20you,embed%20functionality%20has%20been%20enabled.)
 
 ### Content
 
