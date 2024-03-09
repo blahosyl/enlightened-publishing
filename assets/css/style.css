@@ -269,8 +269,6 @@ p {
 
 #success .grayscale-pic {
   background: url("../images/presentation.webp") no-repeat center center/cover;
-  max-width: 800px;
-  max-height: 250px;
 }
 
 /* pictures in this section should not be gray, and less tinted */
@@ -311,16 +309,7 @@ p {
   background-color: var(--light);
 }
 
-.small-width {
-  flex-basis: 25%;
-}
-
-.big-width {
-  flex-grow: 1.5;
-}
-
-/* about section */
-
+/* About section */
 #about {
   background-color:  var(--light);
   color: var(--dark);
@@ -548,10 +537,6 @@ footer ul {
     margin-top: 5%;
   }
 
-  .half {
-    width: 45%;
-  }
-
   /* credential cards should have "hover" instead of "tap" */
 
   .cred-hover {
@@ -607,26 +592,6 @@ footer ul {
   /* has to come after `.color-pic-box {flex-direction: row;}` */
   .flip {
     flex-direction: row-reverse;
-  }
-
-  #millions .color-cover {
-    height: 40vh;
-  }
-
-  #frustrated .color-cover {
-    height: 40vh;
-  }
-
-  #learn-list .color-cover {
-    height: 40vh;
-  }
-
-  #success .color-cover {
-    height: 25vh;
-  }
-
-  #success .grayscale-pic {
-    width: 50%;
   }
 
   /* Credentials hero image */
