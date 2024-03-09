@@ -32,9 +32,19 @@ To ease navigation, the header remains visible throughout.
 
 ### Problems & Solutions section
 
-The problems subsection features a dark color scheme, grayscale pictures with a dark tint, and images suggesting overwhelm.
+#### Colors and images
 
-The Solutions section has a bright colored background and color images that are only slightly tinted with the same bring color.
+The problems subsection features a dark color scheme, grayscale images with a dark tint, and images suggesting overwhelm.
+
+The Solutions section has a bright colored background and color images that are only slightly tinted with the same bright color.
+
+#### Layout
+
+Each subsection consists of 2 text boxes, each with an accompanying image. The text appears below the image on mobile, and next to it on tablets and larger screens. 
+
+For the side-by-side arrangement, every second image-text pair is reversed, so that the image appears alternately on the left and the right side of the image.
+
+In the Problems section, the cut-off point between the image and text is at the same place. In the Solutions section, the text/image width ration is the same in the two boxes. Both arrangements create a similar but subtly different symmetry. 
 
 ### About/Credentials section
 

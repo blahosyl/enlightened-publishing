@@ -547,16 +547,50 @@ footer ul {
     display: none;
   }
 
+  /* Problems & Solutions section */
+
   .p-cont {
     padding: 2rem;
   }
 
-  /* Problems & Solutions section: text amd pics should be side by side */
+  /* text amd pics should be side by side */
 
   .color-cover {
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
+  }
+
+  #millions .color-cover {
+    max-height: 30vh;
+  }
+
+  #millions .p-cont {
+    max-width: 40%;
+  }
+
+  #frustrated .color-cover {
+    max-height: 50vh;
+  }
+
+  #frustrated .p-cont {
+    max-width: 60%;
+  }
+
+  #learn-list .color-cover {
+    max-height: 70vh;
+  }
+
+  #learn-list .p-cont {
+    max-width: 60%;
+  }
+
+  #success .color-cover {
+    max-height: 35vh;
+  }
+
+  #success .p-cont {
+    max-width: 60%;
   }
 
   /* has to come after `.color-pic-box {flex-direction: row;}` */
