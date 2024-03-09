@@ -269,6 +269,8 @@ p {
 
 #success .grayscale-pic {
   background: url("../images/presentation.webp") no-repeat center center/cover;
+  max-width: 800px;
+  max-height: 250px;
 }
 
 /* pictures in this section should not be gray, and less tinted */
