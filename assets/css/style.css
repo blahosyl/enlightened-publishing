@@ -256,15 +256,15 @@ p {
 }
 
 #millions .grayscale-pic {
-  background: url("../images/lots-of-paper.jpg") no-repeat center center/cover;
+  background: url("../images/lots-of-paper.webp") no-repeat center center/cover;
 }
 
 #frustrated .grayscale-pic {
-  background: url("../images/frustrated.jpg") no-repeat center center/cover;
+  background: url("../images/frustrated.webp") no-repeat center center/cover;
 }
 
 #learn-list .grayscale-pic {
-  background: url("../images/library.jpg") no-repeat center center/cover;
+  background: url("../images/library.webp") no-repeat center center/cover;
 }
 
 #success .grayscale-pic {
