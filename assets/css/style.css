@@ -397,6 +397,7 @@ p {
   color: var(--light);
   /* push it to the bottom of the parent box */
   margin-top: auto;
+  margin-bottom: 0px;
 }
 
 /* this is not displayed by default, only on larger screened devices where hover is possible */
@@ -417,12 +418,19 @@ p {
 /* this is not displayed by default, only when tapped/hovered over */
 .cred > .cred-content {
   display: none;
-  margin: 0;
+  margin: auto 0;
 }
 
 .cred:active > .cred-content,
 .cred:hover > .cred-content {
   display: block;
+}
+
+.pos {
+  font-size: 120%;
+  margin-bottom: 1rem;
+  margin-top: 2rem;
+  color: var(--light);
 }
 
 /* video */
