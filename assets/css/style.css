@@ -551,6 +551,19 @@ footer ul {
     padding: 2rem;
   }
 
+  /* Problems & Solutions section: text amd pics should be side by side */
+
+  .color-cover {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  /* has to come after `.color-pic-box {flex-direction: row;}` */
+  .flip {
+    flex-direction: row-reverse;
+  }
+
   /* About section */
   #video,
   #video iframe {
@@ -579,19 +592,6 @@ footer ul {
   #hero {
     /* reduce top padding on wide screens */
     padding-top: 5%;
-  }
-
-  /* Problems & Solutions section: text amd pics should be side by side */
-
-  .color-cover {
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-  }
-
-  /* has to come after `.color-pic-box {flex-direction: row;}` */
-  .flip {
-    flex-direction: row-reverse;
   }
 
   /* Credentials hero image */
