@@ -58,9 +58,14 @@ Palette: Arctic, northern lights
 
 Color arrangement inspiration: [https://youpreneur.com/](https://youpreneur.com/)
 
-2 salient colors combined with white, gray and black. 
+2 salient colors (#9FFFCB  and #004e64) combined with white, gray (#537D88) and dark gray (#3C5158). 
 
 Contrast between 2 salient colors: 7.75:1 ([WebAIM](https://webaim.org/resources/contrastchecker/))
+
+Light and dark gray: 7.02:1
+Dark and white: 9.23:1
+Dark gray and white: 4.5:1 (only used for large text)
+Gray and light: 3.78:1 (only used for graphical objects)
 
 <!--TODO: decide if we wanna introduce a 3rd salient color, like the green accents on hover-->
 

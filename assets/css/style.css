@@ -79,8 +79,8 @@
   --dark: #004e64;
   --white: #ffffff;
   --light: #9fffcb;
-  --gray: #62929e;
-  --dark-gray: #516f77;
+  --gray: #537D88;
+  --dark-gray: #3C5158;
 }
 
 /* overall style, override browser defaults */
@@ -229,18 +229,13 @@ p {
 
 #solutions p,
 #solutions ul {
-  color: var(--gray);
+  color: var(--dark-gray);
 }
 
 /* inline links */
 
 #solutions a {
-  text-decoration: none;
   color: var(--dark);
-}
-
-#solutions a:hover {
-  color: var(--white);
 }
 
 #problems-solutions p {
@@ -450,13 +445,8 @@ this is not displayed by default, only when tapped/hovered over */
 /* inline links within the content on the flip side of the cards*/
 
 .cred-content a {
-  text-decoration: none;
   color:inherit;
   font-weight: bold;
-}
-
-.cred-content a:hover {
-  color: var(--light);
 }
 
 /* the title of the leadership position held by the client */
@@ -681,10 +671,20 @@ footer ul {
 /* laptops and desktops */
 @media screen and (min-width: 992px) {
 
-  /*  links change color when hovered over */
+  /*  links change color and are underlined when hovered over */
   a:hover,
   a:hover i { /* footer icons included*/
     color: var(--white);
+    text-decoration: underline;
+  }
+
+  #solutions a:hover {
+    color: var(--white);
+    font-weight: bold;
+  }
+
+  .cred-content a:hover {
+    color: var(--light);
   }
 
   /* hero image */
