@@ -52,6 +52,10 @@ This section details the relevant past experience of the client. After a hero im
 
 ### Contact section
 
+Since the client does not have a CMS/email system set up yet, but wants to offer a way for potential partners to reach out to him before this gets implemented, we decided to integrate [Calendly](https://calendly.com/) into this section, so that people interested in the workshop can set up an online meeting with the client with an automatic [Google Meet](https://meet.google.com/) link.
+
+The Calendly widget is integrated into the site, and styled in alignment and color. In larger screens, there is an a white margin around the calendar element, which disappears on smaller screens. To keep the widget distinct, I have added a white border to it for smaller screens.
+
 ### Color scheme
 
 Palette: Arctic, northern lights
@@ -195,6 +199,9 @@ Lighthouse
 ### Manual testing
 Testing user stories
 Full testing of functionalities
+
+#### Devices
+ iPhone 12 Pro, iOS 17.2.1; iPad Pro, iPadOS 17.3.1; iPhone XR, iOS 17.4;
 
 ####Footer
 
