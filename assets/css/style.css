@@ -473,7 +473,7 @@ this is not displayed by default, only when tapped/hovered over */
   display: flex;
   justify-content: center;
   padding: 0 10%;
-  margin-top: 5vh;
+  margin-top: 3vh;
 }
 
 #video iframe {
