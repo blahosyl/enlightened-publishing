@@ -168,9 +168,9 @@ Google Dev Tools – troubleshoot, test responsivity and styling
 
 FontAwsome – icons
 
-<!--TinyPNG – compress images
+TinyPNG – compress images
 
--->
+
 
 [Birme](https://www.birme.net/) – resize images and convert to `webp` format
 
