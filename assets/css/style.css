@@ -363,7 +363,7 @@ p {
   justify-content: flex-end;
 }
 
-/* Credentials hero image text */
+/* Credentials image text */
 #why-me-text {
   background-color:  var(--light);
   color: var(--dark);
