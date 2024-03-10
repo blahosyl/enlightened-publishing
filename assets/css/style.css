@@ -352,10 +352,10 @@ p {
   margin-top: 5%;
 }
 
-#curt {
+#why-me {
   height: 720px;
   width: 100%;
-  background: url("../images/curtrice-green-2.webp") no-repeat  center/cover;
+  background: url("../images/why-me-img.webp") no-repeat  center/cover;
   /* with narrow screen sizes, then image should shrink to show the client */
   background-position: 35%;
   position:relative;
@@ -552,7 +552,7 @@ footer ul {
 
 /* media query: phones */
 @media screen and (max-width: 480px) {
-  #curt {
+  #why-me {
     flex-direction: column;
   }
   #why-me-text {
@@ -694,7 +694,7 @@ footer ul {
   }
 
   /* Credentials hero image */
-  #curt {
+  #why-me {
     padding-right: 10%;
   }
 
