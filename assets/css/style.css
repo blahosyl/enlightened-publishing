@@ -205,7 +205,8 @@ p {
 #hero-text {
   background-color:  var(--dark-gray);
   color: var(--light);
-  font-size: 120%;
+  font-size: 150%;
+  font-weight: bold;
   height: 8rem;
   opacity: 0.6;
   display: flex;
