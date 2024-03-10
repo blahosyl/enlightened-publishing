@@ -218,13 +218,12 @@ p {
   margin-top: 0;
 }
 
-/* problems & solutions section */
+/* Problems & Solutions section */
+
+/* colors and margins */
 
 #problems-solutions {
   background-color: var(--gray);
-}
-
-#problems-solutions {
   color: var(--white);
 }
 
@@ -233,28 +232,44 @@ p {
   color: var(--gray);
 }
 
+/* inline links */
+
+#solutions a {
+  text-decoration: none;
+  color: var(--dark);
+}
+
+#solutions a:hover {
+  color: var(--white);
+}
+
 #problems-solutions p {
   margin: 0.5rem 0;
 }
 
+/* divs containing the text */
 .p-cont {
   display: flex;
   flex-direction: column;
   padding: 1rem;
 }
 
+/* the div containing the text and the image */
 .color-pic-box {
   display: flex;
   justify-content: space-between;
   margin: 2vw 0;
 }
 
+/* the div containing the images */
 .grayscale-pic {
   width: 100%;
   height: 100%;
   filter: grayscale(100%);
   opacity: 0.6;
 }
+
+/* Set the background image for each box */
 
 #millions .grayscale-pic {
   background: url("../images/lots-of-paper.webp") no-repeat center center/cover;
@@ -278,6 +293,8 @@ p {
   opacity: 0.8;
 }
 
+
+/* the div containing the text and the image */
 .color-cover {
   width: 100%;
   display: flex;
@@ -362,6 +379,8 @@ p {
 /* credential cards */
 
 /* card arrangement modeled after the Love Running project */
+
+/* the div containing all cards */
 #cred-container {
   margin-left: 10%;
   margin-right: 10%;
@@ -369,6 +388,7 @@ p {
   flex-wrap:wrap;
 }
 
+/* the div for individual cards */
 .cred {
   flex-basis:200px;
   flex-grow: 1;
@@ -415,8 +435,9 @@ p {
   display: none;
 }
 
-/* this is not displayed by default, only when tapped/hovered over */
-.cred > .cred-content {
+/* the div containing more information on each position.
+this is not displayed by default, only when tapped/hovered over */
+.cred-content {
   display: none;
   margin: auto 0;
 }
@@ -426,6 +447,19 @@ p {
   display: block;
 }
 
+/* inline links within the content on the flip side of the cards*/
+
+.cred-content a {
+  text-decoration: none;
+  color:inherit;
+  font-weight: bold;
+}
+
+.cred-content a:hover {
+  color: var(--light);
+}
+
+/* the title of the leadership position held by the client */
 .pos {
   font-size: 120%;
   margin-bottom: 1rem;
