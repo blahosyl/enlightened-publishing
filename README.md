@@ -241,7 +241,7 @@ The books favicon comes from [Favicon.io](https://favicon.io/emoji-favicons/book
 
 [Hero image](https://www.pexels.com/photo/blue-and-green-sky-and-mountain-3617500/) by [Benjamin Suter](https://www.pexels.com/@benjaminjsuter/)
 
-[CLient image in the Problems & Solutions section](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/presentation.webp) by Benjamin Ward, modified to reduce optical noise by Peter Litauszki (with permission).
+[Client image in the Problems & Solutions section](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/presentation.webp) by Benjamin Ward, modified to reduce optical noise by Peter Litauszki (with permission).
 
 [Client image: About section](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/curtrice-green-2.webp) by Benjamin Ward, colors modified to fit the site's color scheme by Peter Litauszki (with permission).
 
