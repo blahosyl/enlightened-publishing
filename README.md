@@ -168,7 +168,7 @@ Google Dev Tools – troubleshoot, test responsivity and styling
 
 FontAwsome – icons
 
-TinyPNG – compress images
+[TinyPNG](https://tinypng.com/) – compress images
 
 
 
