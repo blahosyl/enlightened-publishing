@@ -227,6 +227,11 @@ Variables https://www.w3schools.com/css/css3_variables.asp
 
 [Pseudoclasses](https://www.w3schools.com/css/css_pseudo_classes.asp) (credential cards)
 
+Media query re. pointing device (mouse/trackpad): [Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/pointer)
+[CanIUse](https://caniuse.com/css-media-interaction)
+[Stackoverflow](https://stackoverflow.com/questions/11387805/media-query-to-detect-if-device-is-touchscreen)
+ (credential cards)
+
 [Push 1 paragraph to to bottom of container without affecting the rest](https://stackoverflow.com/a/39613036) (credential cards)
 
 [`filter`](https://www.w3schools.com/cssref/css3_pr_filter.php)

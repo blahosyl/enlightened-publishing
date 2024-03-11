@@ -517,6 +517,38 @@ footer ul {
   font-size: small;
 }
 
+
+/* media query: devices with pointer capabilities (mouse, trackpad) */
+@media screen and (pointer: fine) {
+
+  /*  links change color and are underlined when hovered over */
+  a:hover,
+  a:hover i { /* footer icons included*/
+    color: var(--white);
+    text-decoration: underline;
+  }
+
+  #solutions a:hover {
+    color: var(--white);
+    font-weight: bold;
+  }
+
+  .cred-content a:hover {
+    color: var(--light);
+  }
+
+  /* About section */
+  /* credential cards should have "hover" instead of "tap" */
+
+  .cred-hover {
+    display: block;
+  }
+
+  .cred-tap {
+    display: none;
+  }
+}
+
 /* media query: very narrow phones */
 @media screen and (max-width: 300px) {
 
@@ -575,16 +607,6 @@ footer ul {
 
   #hero-text {
     margin-top: 5%;
-  }
-
-  /* credential cards should have "hover" instead of "tap" */
-
-  .cred-hover {
-    display: block;
-  }
-
-  .cred-tap {
-    display: none;
   }
 
   /* Problems & Solutions section */
@@ -682,22 +704,6 @@ footer ul {
 
   .non-last-li {
     padding-right: 1rem;
-  }
-
-  /*  links change color and are underlined when hovered over */
-  a:hover,
-  a:hover i { /* footer icons included*/
-    color: var(--white);
-    text-decoration: underline;
-  }
-
-  #solutions a:hover {
-    color: var(--white);
-    font-weight: bold;
-  }
-
-  .cred-content a:hover {
-    color: var(--light);
   }
 
   /* hero image */
