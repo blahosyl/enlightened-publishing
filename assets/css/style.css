@@ -568,31 +568,6 @@ footer ul {
     padding: 4vh 10%;
   }
 
-  nav {
-    display: block;
-    position: relative;
-    box-shadow: none;
-    width: fit-content;
-    font-size: 120%;
-    /* could not figure out why this is not aligned with the right edge of the parent, so adjusted manually */
-    margin-right: -2rem;
-  }
-
-  /* hamburger menu should not be shown */
-  .nav-toggle-label {
-    display: none;
-  }
-
-  /* display nav list without user action */
-  nav ul {
-    display:flex;
-    padding: 0;
-  }
-
-  .non-last-li {
-    padding-right: 1rem;
-  }
-
   /* hero image */
   #hero {
     padding-top: 10%;
@@ -618,7 +593,7 @@ footer ul {
     padding: 2rem;
   }
 
-  /* text amd pics should be side by side */
+  /* text and pics should be side by side */
 
   .color-cover {
     flex-direction: row;
@@ -680,6 +655,34 @@ footer ul {
 
 /* laptops and desktops */
 @media screen and (min-width: 992px) {
+
+  /* nav bar */
+
+  /* display nav list without user action */
+    nav {
+      display: block;
+      position: relative;
+      box-shadow: none;
+      width: fit-content;
+      font-size: 120%;
+      /* could not figure out why this is not aligned with the right edge of the parent, so adjusted manually */
+      margin-right: -2rem;
+    }
+
+  /* hamburger menu should not be shown */
+  .nav-toggle-label {
+    display: none;
+  }
+
+/* arrangement of nav list */
+  nav ul {
+    display:flex;
+    padding: 0;
+  }
+
+  .non-last-li {
+    padding-right: 1rem;
+  }
 
   /*  links change color and are underlined when hovered over */
   a:hover,
