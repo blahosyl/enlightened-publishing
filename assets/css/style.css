@@ -680,22 +680,22 @@ footer ul {
   /* nav bar */
 
   /* display nav list without user action */
-    nav {
-      display: block;
-      position: relative;
-      box-shadow: none;
-      width: fit-content;
-      font-size: 120%;
-      /* could not figure out why this is not aligned with the right edge of the parent, so adjusted manually */
-      margin-right: -2rem;
-    }
+  nav {
+    display: block;
+    position: relative;
+    box-shadow: none;
+    width: fit-content;
+    font-size: 120%;
+    /* could not figure out why this is not aligned with the right edge of the parent, so adjusted manually */
+    margin-right: -2rem;
+  }
 
   /* hamburger menu should not be shown */
   .nav-toggle-label {
     display: none;
   }
 
-/* arrangement of nav list */
+  /* arrangement of nav list */
   nav ul {
     display:flex;
     padding: 0;
@@ -712,22 +712,22 @@ footer ul {
   /* nav bar */
 
   /* display nav list without user action */
-    nav {
-      display: block;
-      position: relative;
-      box-shadow: none;
-      width: fit-content;
-      font-size: 120%;
-      /* could not figure out why this is not aligned with the right edge of the parent, so adjusted manually */
-      margin-right: -2rem;
-    }
+  nav {
+    display: block;
+    position: relative;
+    box-shadow: none;
+    width: fit-content;
+    font-size: 120%;
+    /* could not figure out why this is not aligned with the right edge of the parent, so adjusted manually */
+    margin-right: -2rem;
+  }
 
   /* hamburger menu should not be shown */
   .nav-toggle-label {
     display: none;
   }
 
-/* arrangement of nav list */
+  /* arrangement of nav list */
   nav ul {
     display:flex;
     padding: 0;
