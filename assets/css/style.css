@@ -675,6 +675,37 @@ footer ul {
   }
 }
 
+/* bigger tablets, laptops and desktops */
+@media screen and (min-width: 880px) {
+  /* nav bar */
+
+  /* display nav list without user action */
+    nav {
+      display: block;
+      position: relative;
+      box-shadow: none;
+      width: fit-content;
+      font-size: 120%;
+      /* could not figure out why this is not aligned with the right edge of the parent, so adjusted manually */
+      margin-right: -2rem;
+    }
+
+  /* hamburger menu should not be shown */
+  .nav-toggle-label {
+    display: none;
+  }
+
+/* arrangement of nav list */
+  nav ul {
+    display:flex;
+    padding: 0;
+  }
+
+  .non-last-li {
+    padding-right: 1rem;
+  }
+}
+
 /* laptops and desktops */
 @media screen and (min-width: 992px) {
 
