@@ -503,7 +503,7 @@ this is not displayed by default */
 
 /* formatting for the Calendly widget */
 .calendly-inline-widget {
-  min-width:320px;
+  min-width:300px;
   height:700px;
   margin-top: 4rem;
 }
@@ -593,6 +593,18 @@ footer ul {
   /* logo link box should not extend too much to the right, it gets too close to the nav bar toggle to comfortably tap on mobile */
   #logo-link {
     max-width: 75%;
+  }
+
+  /* Calendly */
+
+  /* widget should extend wider than other text */
+  .calendly-container{
+    margin-left: -10%;
+    margin-right: -10%;
+  }
+
+  .calendly-inline-widget {
+    min-width:270px;
   }
 
   /* Main content */
