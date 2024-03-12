@@ -459,6 +459,67 @@ this is not displayed by default */
   margin-top: 4rem;
 }
 
+/* email contact form */
+
+#contact-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 25px solid var(--white);
+  margin-top: 25px;
+  padding: 2vh;
+}
+
+/* elements within text input field container should be aligned left */
+.text-input-cont  {
+  display: flex;
+  flex-direction: column;
+}
+
+.text-input-cont label {
+  margin: 0.3rem;
+}
+
+.text-input {
+  margin: 0.3rem;
+  color: var(--dark);
+  border-radius: 5px;
+}
+
+.text-input:active {
+  border: 2px solid var(--light);
+}
+
+
+#radio-button-cont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.radio-buttons {
+  /* the radio buttons themselves should be aligned right */
+  text-align: right;
+  /* the selected radio button should have this color */
+  accent-color: var(--light);
+  /* vertical space */
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+/* send button */
+
+.send-button {
+  margin-top: 2vh;
+  border-radius: 8px;
+  background-color: var(--light);
+  color: var(--dark);
+  font-size: 100%;
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+}
+
 /* Footer */
 
 /* color and padding */
@@ -534,6 +595,18 @@ footer ul {
   .cred-tap {
     display: none;
   }
+
+  /* contact form */
+
+  /* text input form should have highlighted border on hover */
+  .text-input:hover {
+    border-color: var(--light);
+  }
+
+  /* send button should change color on hover */
+  .send-button:hover {
+    background-color: var(--white);
+  }
 }
 
 /* media query: very narrow phones */
@@ -593,6 +666,17 @@ footer ul {
     max-width: 100%;
   }
 }
+
+/* larger phones and bigger devices */
+@media screen and (min-width: 378px) {
+
+  /* contact form */
+  /* the text input fields should be aligned right */
+  .text-input-cont {
+    flex-direction: row;
+    justify-content: flex-end; }
+}
+
 
 /* media query: tablets and larger */
 @media screen and (min-width: 768px) {
