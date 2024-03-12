@@ -492,10 +492,9 @@ this is not displayed by default */
 /* container for the Calendly widget */
 .calendly-container {
   width: 100%;
-  background: var(--white);
 }
 
-formatting for the Calendly widget
+/* formatting for the Calendly widget */
 .calendly-inline-widget {
   min-width:320px;
   height:700px;
