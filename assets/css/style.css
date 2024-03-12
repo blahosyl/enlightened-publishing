@@ -170,6 +170,13 @@ nav ul {
   display: none;
 }
 
+/* header should not obscure the top of the element navigated to */
+#problems h2,
+#about h2,
+#contact h2{
+  margin-top: 15vh;
+}
+
 /* Main content */
 main {
   /* make main element take up any surplus vertical space so footer is pushed down.
@@ -633,6 +640,13 @@ footer ul {
     padding: 4vh 10%;
   }
 
+  /* header should not obscure the top of the element navigated to */
+  #problems h2,
+  #about h2,
+  #contact h2{
+    margin-top: 10vh;
+  }
+
   /* main content */
   /* hero image */
   #hero {
@@ -749,6 +763,13 @@ footer ul {
 
 /* laptops and desktops */
 @media screen and (min-width: 992px) {
+
+  /* header should not obscure the top of the element navigated to */
+  #problems h2,
+  #about h2,
+  #contact h2{
+    margin-top: 8vh;
+  }
 
   /* hero image */
   #hero {
