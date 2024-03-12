@@ -681,166 +681,166 @@ footer ul {
   .text-input-cont {
     flex-direction: row;
     justify-content: flex-end; }
-}
-
-
-/* media query: tablets and larger */
-@media screen and (min-width: 768px) {
-
-  /* header */
-
-  header {
-    padding: 4vh 10%;
   }
 
-  /* header should not obscure the top of the element navigated to */
-  #problems h2,
-  #about h2,
-  #contact h2{
-    margin-top: 10vh;
+
+  /* media query: tablets and larger */
+  @media screen and (min-width: 768px) {
+
+    /* header */
+
+    header {
+      padding: 4vh 10%;
+    }
+
+    /* header should not obscure the top of the element navigated to */
+    #problems h2,
+    #about h2,
+    #contact h2{
+      margin-top: 10vh;
+    }
+
+    /* main content */
+    /* hero image */
+    #hero {
+      padding-top: 10%;
+    }
+
+    #hero-text {
+      margin-top: 5%;
+    }
+
+    /* Problems & Solutions section */
+
+    /* adjust padding for text */
+    .p-cont {
+      padding: 2rem;
+    }
+
+    /* text and pics should be side by side */
+
+    .color-cover {
+      flex-direction: row;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    /* every 2nd box should have the order of the image and text flipped
+    has to come after `.color-cover {flex-direction: row;}` */
+    .flip {
+      flex-direction: row-reverse;
+    }
+
+    /* adjust sizes of box elements */
+
+    #millions .color-cover {
+      max-height: 30vh;
+    }
+
+    #millions .p-cont {
+      max-width: 40%;
+    }
+
+    #frustrated .color-cover {
+      max-height: 50vh;
+    }
+
+    #frustrated .p-cont {
+      max-width: 60%;
+    }
+
+    #learn-list .color-cover {
+      max-height: 70vh;
+    }
+
+    #learn-list .p-cont {
+      max-width: 60%;
+    }
+
+    #success .color-cover {
+      max-height: 35vh;
+    }
+
+    #success .p-cont {
+      max-width: 60%;
+    }
+
+    /* About section */
+    /* YouTube video */
+    #video,
+    #video iframe {
+      height: 400px;
+    }
+
   }
 
-  /* main content */
-  /* hero image */
-  #hero {
-    padding-top: 10%;
+  /* phones and smaller tablets */
+  @media screen and (max-width: 816px) {
+    /* add white border to Calendly widget for small and medium screen sizes */
+    .calendly-inline-widget {
+      border: 2px solid white;
+    }
   }
 
-  #hero-text {
-    margin-top: 5%;
+  /* bigger tablets, laptops and desktops */
+  @media screen and (min-width: 880px) {
+    /* nav bar */
+
+    /* display nav list without user action */
+    nav {
+      display: block;
+      position: relative;
+      box-shadow: none;
+      width: fit-content;
+      font-size: 120%;
+      /* could not figure out why this is not aligned with the right edge of the parent, so adjusted manually */
+      margin-right: -2rem;
+    }
+
+    /* hamburger menu should not be shown */
+    .nav-toggle-label {
+      display: none;
+    }
+
+    /* arrangement of nav list */
+    nav ul {
+      display:flex;
+      padding: 0;
+    }
+
+    /* add padding between nav list items */
+    .non-last-li {
+      padding-right: 1rem;
+    }
   }
 
-  /* Problems & Solutions section */
+  /* laptops and desktops */
+  @media screen and (min-width: 992px) {
 
-  /* adjust padding for text */
-  .p-cont {
-    padding: 2rem;
+    /* header should not obscure the top of the element navigated to */
+    #problems h2,
+    #about h2,
+    #contact h2{
+      margin-top: 8vh;
+    }
+
+    /* hero image */
+    #hero {
+      /* reduce top padding on wide screens */
+      padding-top: 5%;
+      background: url("../images/hero-img-opt.webp") no-repeat center center/cover;
+    }
+
+    /* About section */
+    /* Credentials image */
+    #why-me {
+      padding-right: 10%;
+    }
+
+    /* YouTube video */
+    #video,
+    #video iframe {
+      height: 500px;
+    }
+
   }
-
-  /* text and pics should be side by side */
-
-  .color-cover {
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-  }
-
-  /* every 2nd box should have the order of the image and text flipped
-  has to come after `.color-cover {flex-direction: row;}` */
-  .flip {
-    flex-direction: row-reverse;
-  }
-
-  /* adjust sizes of box elements */
-
-  #millions .color-cover {
-    max-height: 30vh;
-  }
-
-  #millions .p-cont {
-    max-width: 40%;
-  }
-
-  #frustrated .color-cover {
-    max-height: 50vh;
-  }
-
-  #frustrated .p-cont {
-    max-width: 60%;
-  }
-
-  #learn-list .color-cover {
-    max-height: 70vh;
-  }
-
-  #learn-list .p-cont {
-    max-width: 60%;
-  }
-
-  #success .color-cover {
-    max-height: 35vh;
-  }
-
-  #success .p-cont {
-    max-width: 60%;
-  }
-
-  /* About section */
-  /* YouTube video */
-  #video,
-  #video iframe {
-    height: 400px;
-  }
-
-}
-
-/* phones and smaller tablets */
-@media screen and (max-width: 816px) {
-  /* add white border to Calendly widget for small and medium screen sizes */
-  .calendly-inline-widget {
-    border: 2px solid white;
-  }
-}
-
-/* bigger tablets, laptops and desktops */
-@media screen and (min-width: 880px) {
-  /* nav bar */
-
-  /* display nav list without user action */
-  nav {
-    display: block;
-    position: relative;
-    box-shadow: none;
-    width: fit-content;
-    font-size: 120%;
-    /* could not figure out why this is not aligned with the right edge of the parent, so adjusted manually */
-    margin-right: -2rem;
-  }
-
-  /* hamburger menu should not be shown */
-  .nav-toggle-label {
-    display: none;
-  }
-
-  /* arrangement of nav list */
-  nav ul {
-    display:flex;
-    padding: 0;
-  }
-
-  /* add padding between nav list items */
-  .non-last-li {
-    padding-right: 1rem;
-  }
-}
-
-/* laptops and desktops */
-@media screen and (min-width: 992px) {
-
-  /* header should not obscure the top of the element navigated to */
-  #problems h2,
-  #about h2,
-  #contact h2{
-    margin-top: 8vh;
-  }
-
-  /* hero image */
-  #hero {
-    /* reduce top padding on wide screens */
-    padding-top: 5%;
-    background: url("../images/hero-img-opt.webp") no-repeat center center/cover;
-  }
-
-  /* About section */
-  /* Credentials image */
-  #why-me {
-    padding-right: 10%;
-  }
-
-  /* YouTube video */
-  #video,
-  #video iframe {
-    height: 500px;
-  }
-
-}
