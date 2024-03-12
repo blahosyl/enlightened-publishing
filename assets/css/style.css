@@ -58,6 +58,7 @@ body > * {
 /* headings in Robot font */
 h1, h2, h3 {
   font-family: "Roboto Slab", serif;
+  text-align: center;
 }
 
 /* Header */
@@ -333,6 +334,11 @@ p {
   display: flex;
   flex-direction: column;
   justify-content: center;
+}
+
+/* this heading should not be centered */
+#why-me-text h3 {
+  text-align: left;
 }
 
 /* credential cards */
