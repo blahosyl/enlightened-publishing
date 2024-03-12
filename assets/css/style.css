@@ -169,7 +169,7 @@ p {
 /* the div holding the hero image text */
 #hero-text {
   background-color:  var(--dark-gray);
-  color: var(--light);
+  color: var(--light);border-radius: 8px;
   font-size: 150%;
   font-weight: bold;
   height: 8rem;
