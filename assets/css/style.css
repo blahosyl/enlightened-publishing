@@ -104,6 +104,7 @@ body > * {
   padding: 2rem 3rem;
 }
 
+/* headings in Robot font */
 h1, h2, h3 {
   font-family: "Roboto Slab", serif;
 }
@@ -133,6 +134,7 @@ header * {
   color:inherit;
 }
 
+/* logo should be capitalized */
 #logo {
   text-transform: capitalize;
 }
@@ -150,6 +152,7 @@ nav {
   display: none;
 }
 
+/* nav items should not have bullets, but space between instead */
 nav ul {
   list-style-type: none;
   padding: 1rem;
@@ -162,7 +165,7 @@ nav ul {
   border: 2px solid var(--light);
 }
 
-/* hide checkbox */
+/* hide checkbox for nav toggle */
 #nav-toggle {
   display: none;
 }
@@ -175,6 +178,7 @@ main {
   padding: 0;
 }
 
+/* positioning of elements in `main` */
 main > section {
   padding: 5% 10%;
   width: 100%;
@@ -193,6 +197,8 @@ p {
 }
 
 /* hero section */
+
+/* the div holding the hero image */
 #hero {
   min-height: 90vh;
   background: url("../images/hero-img-small.webp") no-repeat center center/cover;
@@ -202,6 +208,7 @@ p {
   position: relative;
 }
 
+/* the div holding the hero image text */
 #hero-text {
   background-color:  var(--dark-gray);
   color: var(--light);
@@ -239,28 +246,28 @@ p {
   margin: 0.5rem 0;
 }
 
-/* divs containing the text */
+/* divs containing the text*/
 .p-cont {
   display: flex;
   flex-direction: column;
   padding: 1rem;
 }
 
-/* the div containing the text and the image */
+/* divs containing the text and the images */
 .color-pic-box {
   display: flex;
   justify-content: space-between;
   margin: 2vw 0;
 }
 
-/* the div containing the images */
+/* divs containing the images */
 .grayscale-pic {
   width: 100%;
   height: 100%;
   opacity: 0.6;
 }
 
-/* Set the background image for each box */
+/* set the background image for each box */
 
 #millions .grayscale-pic {
   background: url("../images/lots-of-paper-grayscale.webp") no-repeat center center/cover;
@@ -284,8 +291,7 @@ p {
   opacity: 0.8;
 }
 
-
-/* the div containing the text and the image */
+/* divs containing the text and the images */
 .color-cover {
   width: 100%;
   display: flex;
@@ -293,6 +299,8 @@ p {
   flex-direction: column;
   align-items: center;
 }
+
+/* set size of boxes */
 
 #millions .color-cover {
   height: 60vh;
@@ -323,12 +331,16 @@ p {
 }
 
 /* About section */
+
 #about {
   background-color:  var(--light);
   color: var(--dark);
+  /* get rid of side padding to make `why-me` image extend the whole width of the site */
   padding-left: 0;
   padding-right: 0;
 }
+
+/* add side padding back for other elements in this section, so they match with the rest of the site */
 
 #about > h2, #about > h3, #about >p {
   padding-left: 10%;
@@ -338,6 +350,8 @@ p {
 #about > h2 {
   margin-bottom: 2%;
 }
+
+/* credentials image - defined for big screens here */
 
 #why-me {
   height: 720px;
@@ -350,7 +364,7 @@ p {
   justify-content: flex-end;
 }
 
-/* Credentials image text */
+/* Credentials image text: appears on the right-hand side for big screens*/
 #why-me-text {
   background-color:  var(--light);
   color: var(--dark);
@@ -375,7 +389,7 @@ p {
   flex-wrap:wrap;
 }
 
-/* the div for individual cards */
+/* divs for individual cards */
 .cred {
   flex-basis:200px;
   flex-grow: 1;
@@ -391,6 +405,8 @@ p {
 }
 
 /* credential cards only display institution & position by default; reveal more information on tap/hover */
+
+/* change colors and add border on tap/hover */
 .cred:active,
 .cred:hover {
   color: var(--dark);
@@ -398,6 +414,7 @@ p {
   border: solid 2px var(--dark);
 }
 
+/* instruction to tap/hover on the front of the card */
 .cred-tap,
 .cred-hover {
   font-size: 80%;
@@ -423,12 +440,13 @@ p {
 }
 
 /* the div containing more information on each position.
-this is not displayed by default, only when tapped/hovered over */
+this is not displayed by default */
 .cred-content {
   display: none;
   margin: auto 0;
 }
 
+/* display the `div` containing more information when parent `div` tapped/hovered over */
 .cred:active > .cred-content,
 .cred:hover > .cred-content {
   display: block;
@@ -449,7 +467,7 @@ this is not displayed by default, only when tapped/hovered over */
   color: var(--light);
 }
 
-/* video */
+/* YouTube video */
 #video {
   height: 250px;
   display: flex;
@@ -465,16 +483,19 @@ this is not displayed by default, only when tapped/hovered over */
 
 /* contact section */
 
+/* color scheme for section */
 #contact {
   color:  var(--light);
   background-color: var(--dark);
 }
 
-.external-container {
+/* container for the Calendly widget */
+.calendly-container {
   width: 100%;
   background: var(--white);
 }
 
+formatting for the Calendly widget
 .calendly-inline-widget {
   min-width:320px;
   height:700px;
@@ -482,6 +503,8 @@ this is not displayed by default, only when tapped/hovered over */
 }
 
 /* Footer */
+
+/* color and padding */
 footer {
   background-color: var(--gray);
   padding: 0;
@@ -493,6 +516,7 @@ footer * {
   font-size: 120%;
 }
 
+/* footer links should not have bullets, should be displayed side by side */
 footer ul {
   list-style-type: none;
   display: flex;
@@ -502,6 +526,7 @@ footer ul {
 
 /* copyright */
 
+/* colors and arrangement */
 #copyright{
   background-color: var(--dark-gray);
   margin: 0;
@@ -511,6 +536,7 @@ footer ul {
   align-items: center;
 }
 
+/* copyright elements: colors and arrangement */
 #copyright * {
   margin: 0 auto;
   color: var(--white);
@@ -518,10 +544,10 @@ footer ul {
 }
 
 
-/* media query: devices with pointer capabilities (mouse, trackpad) */
+/* media query: devices with good pointer capabilities (mouse, trackpad) */
 @media screen and (pointer: fine) {
 
-  /*  links change color and are underlined when hovered over */
+  /*  links should change color and be underlined when hovered over */
   a:hover,
   a:hover i { /* footer icons included*/
     color: var(--white);
@@ -538,7 +564,8 @@ footer ul {
   }
 
   /* About section */
-  /* credential cards should have "hover" instead of "tap" */
+
+  /* credential cards should have instructions to "hover" instead of "tap" */
 
   .cred-hover {
     display: block;
@@ -554,16 +581,17 @@ footer ul {
 
   /* hearder */
   /* nav bar */
-  /* logo link box should not extend too much to the right, it gets too close to the toggle to comfortably tap on mobile */
+  /* logo link box should not extend too much to the right, it gets too close to the nav bar toggle to comfortably tap on mobile */
   #logo-link {
     max-width: 75%;
   }
 
+  /* Main content */
   #hero-text {
     height: 12rem;
   }
 
-  /* Problems & Solutions section */
+  /* Problems & Solutions section: resize boxes */
   #millions .color-cover {
     height: 70vh;
   }
@@ -584,6 +612,8 @@ footer ul {
 
 /* media query: phones */
 @media screen and (max-width: 480px) {
+
+  /* About section: text should appear at the bottom of the image */
   #why-me {
     flex-direction: column;
   }
@@ -594,12 +624,14 @@ footer ul {
 
 /* media query: tablets and larger */
 @media screen and (min-width: 768px) {
-  /* Header */
+
+  /* header */
 
   header {
     padding: 4vh 10%;
   }
 
+  /* main content */
   /* hero image */
   #hero {
     padding-top: 10%;
@@ -611,6 +643,7 @@ footer ul {
 
   /* Problems & Solutions section */
 
+  /* adjust padding for text */
   .p-cont {
     padding: 2rem;
   }
@@ -622,6 +655,14 @@ footer ul {
     align-items: center;
     justify-content: space-between;
   }
+
+  /* every 2nd box should have the order of the image and text flipped
+  has to come after `.color-cover {flex-direction: row;}` */
+  .flip {
+    flex-direction: row-reverse;
+  }
+
+  /* adjust sizes of box elements */
 
   #millions .color-cover {
     max-height: 30vh;
@@ -655,12 +696,8 @@ footer ul {
     max-width: 60%;
   }
 
-  /* has to come after `.color-pic-box {flex-direction: row;}` */
-  .flip {
-    flex-direction: row-reverse;
-  }
-
   /* About section */
+  /* YouTube video */
   #video,
   #video iframe {
     height: 400px;
@@ -701,6 +738,7 @@ footer ul {
     padding: 0;
   }
 
+  /* add padding between nav list items */
   .non-last-li {
     padding-right: 1rem;
   }
@@ -708,8 +746,6 @@ footer ul {
 
 /* laptops and desktops */
 @media screen and (min-width: 992px) {
-
-  /* nav bar */
 
   /* display nav list without user action */
   nav {
@@ -744,11 +780,13 @@ footer ul {
     background: url("../images/hero-img-opt.webp") no-repeat center center/cover;
   }
 
-  /* Credentials hero image */
+  /* About section */
+  /* Credentials image */
   #why-me {
     padding-right: 10%;
   }
 
+  /* YouTube video */
   #video,
   #video iframe {
     height: 500px;
