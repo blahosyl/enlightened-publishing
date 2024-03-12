@@ -547,10 +547,13 @@ footer ul {
 @media screen and (pointer: fine) {
 
   /*  links should change color and be underlined when hovered over */
-  a:hover,
-  a:hover i { /* footer icons included*/
-    color: var(--white);
+  a:hover { /* underline: footer icons included*/
     text-decoration: underline;
+  }
+
+  a:hover,
+  a:hover i { /* color change: footer icons not included*/
+    color: var(--white);
   }
 
   #solutions a:hover {
