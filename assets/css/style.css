@@ -704,7 +704,8 @@ footer ul {
 
 }
 
-@media screen and (max-width: 892px) {
+/* phones and smaller tablets */
+@media screen and (max-width: 816px) {
   /* add white border to Calendly widget for small and medium screen sizes */
   .calendly-inline-widget {
     border: 2px solid white;
