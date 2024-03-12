@@ -213,7 +213,9 @@ Web Disability Simulator
 
 ### Bugs
 
-[Known](https://github.com/blahosyl/love-running/issues) and [solved](https://github.com/blahosyl/love-running/issues?q=is%3Aissue+is%3Aclosed) bugs are handled in [GitHub Issues](https://github.com/blahosyl/love-running/issues/).
+[Known](https://github.com/blahosyl/academic-publishing/issues) and [solved bugs/enhancements](https://github.com/blahosyl/academic-publishing/issues?q=is%3Aissue+is%3Aclosed) are handled in [GitHub Issues](https://github.com/blahosyl/academic-publishing/issues).
+
+Note: because of mistakenly starting issues in the wrong repository and later transferring them to the correct one, Issue numbers in the commit messages up to commit nr. [325a625dc5de4d670ef58a9617ec092529db10f1](https://github.com/blahosyl/academic-publishing/commit/325a625dc5de4d670ef58a9617ec092529db10f1) don't match the new issue numbers in the repository. However, each issue has the corresponing commits linked, and these links work correctly.
 
 ## Credits
 
