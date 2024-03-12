@@ -1,5 +1,5 @@
 /* import Google fonts */
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Roboto+Slab:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400,700&family=Roboto+Slab:wght@100..900&display=swap');
 /*  <uniquifier>: Use a unique and descriptive class name
 <weight>: Use a value from 100 to 900 */
 
@@ -9,18 +9,6 @@
   /* This code snippet came from Google fonts. Itproduced a validator error, but does not seem to break anything when removed
   font-optical-sizing: auto;  */
   font-weight: 400;
-  font-style: normal;
-}
-
-.lato-thin {
-  font-family: "Lato", sans-serif;
-  font-weight: 100;
-  font-style: normal;
-}
-
-.lato-light {
-  font-family: "Lato", sans-serif;
-  font-weight: 300;
   font-style: normal;
 }
 
@@ -35,43 +23,6 @@
   font-weight: 700;
   font-style: normal;
 }
-
-.lato-black {
-  font-family: "Lato", sans-serif;
-  font-weight: 900;
-  font-style: normal;
-}
-
-.lato-thin-italic {
-  font-family: "Lato", sans-serif;
-  font-weight: 100;
-  font-style: italic;
-}
-
-.lato-light-italic {
-  font-family: "Lato", sans-serif;
-  font-weight: 300;
-  font-style: italic;
-}
-
-.lato-regular-italic {
-  font-family: "Lato", sans-serif;
-  font-weight: 400;
-  font-style: italic;
-}
-
-.lato-bold-italic {
-  font-family: "Lato", sans-serif;
-  font-weight: 700;
-  font-style: italic;
-}
-
-.lato-black-italic {
-  font-family: "Lato", sans-serif;
-  font-weight: 900;
-  font-style: italic;
-}
-
 
 /* variables for colors */
 
