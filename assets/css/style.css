@@ -625,18 +625,6 @@ footer ul {
     max-width: 75%;
   }
 
-  /* Calendly */
-
-  /* widget should extend wider than other text */
-  .calendly-container{
-    margin-left: -10%;
-    margin-right: -10%;
-  }
-
-  .calendly-inline-widget {
-    min-width:270px;
-  }
-
   /* Main content */
   #hero-text {
     height: 12rem;
@@ -657,6 +645,18 @@ footer ul {
 
   #success .color-cover {
     height: 90vh;
+  }
+
+  /*  Contact section */
+
+  /* Calendly widget should extend wider than other text */
+  .calendly-container{
+    margin-left: -10%;
+    margin-right: -10%;
+  }
+
+  .calendly-inline-widget {
+    min-width:270px;
   }
 
 }
