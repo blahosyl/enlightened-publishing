@@ -193,9 +193,9 @@ The client heavily preferred a continuous website rather than separate clickable
 
 In accordance with this, the website consists of 3, visually separate sections that can be continuously scrolled through:
 
-1. Problems & Solutions
-2. About/Credentials
-3. Contact
+1. Problems & Solutions section
+2. About/Credentials section titled "Why me?"
+3. Contact section
 
 To ease navigation, the header remains visible throughout.
 
@@ -213,13 +213,13 @@ The Problems subsection features grayscale images tinted dark with one of the ma
 
 The [first image](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/lots-of-paper-grayscale.webp) shows a huge pile of papers stacked in a haphazard fashion, symbolising the large amout of academic publications on the one hand, and the multitude of journals and publishers on the other hand.
 
-The [second image](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/frustrated-grayscale.webp) shows a person in front of a computer in a frustrated pose, illustrating an frequent reaction to the current state of affairs in academic publishing. I chose a picture of a female-read person of color, as these groups are underrepresented in academia (and in general).
+The [second image](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/frustrated-grayscale.webp) shows a person in front of a computer in a frustrated pose, illustrating a frequent reaction to the current state of affairs in academic publishing. I chose a picture of a female-read person of color, as these groups are underrepresented in academia (and in general).
 
 ##### Solutions
 
 The Solutions subsection features colored images, only slightly tinted with the website's light main color.
 
-The [first image](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/library.webp) shows a modern, spacious, brightly lit library, symbolising a more open and more efficient future to come. This picture also illustrates the multitude of information and aptitudes that can be acquired at this workshop.
+The [first image](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/library.webp) shows a modern, spacious, brightly lit library, symbolising a more open and more efficient future to come. This picture also illustrates the multitude of information and aptitudes that can be acquired during this workshop.
 
 The [second image](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/presentation.webp) shows the client on stage, giving a speech, in a dynamic and engaging pose. This evokes a sense of participating in the workshop given by the client.
 
@@ -228,7 +228,9 @@ The [second image](https://raw.githubusercontent.com/blahosyl/academic-publishin
 The [About section](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/why-me-img.webp) shows the client in a confident pose in front of a grafitti wall. It centers the client as both competent and approachable. The image has been re-colored to fit the site's color scheme.
 
 
-### Problems & Solutions section
+### Header design
+
+### Problems & Solutions section design
 
 
 #### Colors and images
@@ -249,11 +251,11 @@ For the side-by-side arrangement, every second image-text pair is reversed, so t
 
 In the **Problems** subsection, the cut-off point between the image and text is at the same place. In the **Solutions** subsection, the text/image width ration is the same in the two boxes. Both arrangements create a similar but subtly different symmetry. 
 
-### About/Credentials section
+### About/Credentials section design
 
 This section details the relevant past experience of the client. After a hero image and a short introductory text, the different jobs/positions/experiences are presented in a responsive grid. By default, only the institution and position title is visible; details are uncovered on tap (mobile, tablet) or hover (laptop/desktop).
 
-### Contact section
+### Contact section design
 
 One core principle of B2B marketing is to offer as many possibilities for connecting with the company as possible. In the spirit of this, the website features both a Calendly widget for scheduling meetings with the client, and a contact form for getting in touch by email.
 
@@ -263,7 +265,7 @@ Since the client does not have a CMS/email system set up yet, but wants to offer
 
 The Calendly widget is integrated into the site, and styled in alignment and color. In larger screens, there is an a white margin around the calendar element, which disappears on smaller screens. To keep the widget distinct, I have added a white border to it for smaller screens.
 
-### Footer
+### Footer design
 
 contact links to the client's social media profiles.
 
@@ -317,7 +319,7 @@ Because the header houses the most important site navigation elements, it is alw
 
 ![The header is sticky]()
 
-### Problems and solutions section
+### Problems & Solutions section
 
 ### About section
 
