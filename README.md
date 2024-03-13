@@ -276,10 +276,6 @@ The logo also doubles as a navigation element: clicking it takes the visitor bac
 
 ![The logo changes color on hover]()
 
-The logo, along with the whole header, is always visible, regardless of how far the visitor scrolss down the site (also called "sticky").
-
-![The logo is sticky]()
-
 
 ### Nav bar
 
@@ -297,7 +293,13 @@ On devices with pointer capabilities (e.g. mouse or trackpad), the links in the 
 
 ![Links in nav bar change color on hover]()
 
-### Footer with social media links
+### Header
+
+The header contains the [logo](#logo) and the [nav bar](#nav-bar) (more on these in their respective sections).
+
+Because the header houses the most important site navigation elements, it is always visible, regardless of how far the visitor scrolls down the site (also called "sticky").
+
+![The header is sticky]()
 
 ### Problems and solutions section
 
@@ -318,6 +320,19 @@ In accordance with my mentor's suggestion, I have added explicit text to tap or 
 
 
 ### Contact section
+
+### Footer
+
+The footer contains links to the client's social media accounts (LinkedIn, Twitter/X and his blog), as well as the copyright information for the site. These are visually separated by different background colors for additional ease of navigation.
+
+![The footer consists of two visually separate parts]()
+
+The navigation links in the footer consist of universally recognisable icons. These change color on hover on devices with pointer capabilities (e.g. mouse or trackpad).
+
+![The footer links change color on hover]()
+
+Since the footer links point to external resources, they open in a new tab.
+
 
 ### Future implementations
 
@@ -348,6 +363,10 @@ These elements tend to cause problems for a variety of users (e.g. those with vi
 
 
 aria labels, alt text, colour scheme, font choices
+
+External links open in a new tab.
+
+The embedded video does not start auto-playing.
 
 ## Technologies used
 
