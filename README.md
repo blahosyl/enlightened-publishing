@@ -60,8 +60,8 @@ The importance/feasibility matrix was determined as follows:
  
 |Goal							|Importance	| Feasibility |
 |:--- 									|:---: |:---:|
-|create an online presence			|5		|5 |
-|add subscribers to email list	|5		|4 |
+|add subscribers to email list	|5		|5 |
+|have customers reach out by email|5		|4 |
 |get commissioned					|5		|5 |
 |direct users to Substack			|5		|5 |
 |have users download ebook			|2		|5 |
@@ -69,15 +69,23 @@ The importance/feasibility matrix was determined as follows:
 
 ##### Current stage
 
-Due to some deliverables not being completed by the release date of the 1st version of the website (14th of March 2024), the list of goals was modified as follows (~~not included in release~~, *new goal*):
+Some deliverables have not been completed by the "firends & family" release date of the 1st version of the website (14th of March 2024):
+
+- Custmer Management System (handling email lists)
+- Substack account
+- 1st draft of the ebook on Publishing
+- blog on Gender Bias
+
+Accordingly, the list of goals was modified as follows (~~not included in release~~, *new goal*):
 
 - create an online presence specifically for this workshop
-- add subscribers to his email list
+- ~~add subscribers to his email list~~
+- *have potential customers contact the client by email*
 - *have potential customers book a meeing with the client*
 - have universities commission him for the workshop
 - ~~direct users to Substack~~
 - *direct users to the client's blog on Open Access Publishing*
-- *direct users to the client's social media accounts (Twitter/X, LinkedIn*
+- *direct users to the client's social media accounts (Twitter/X, LinkedIn)*
 - ~~have users download the client's ebook on Academic Publishing~~
 - ~~direct users to the client's blog on Gender Bias~~
 
@@ -89,7 +97,8 @@ The importance/feasibility matrix was determined as follows:
 |Goal							|Importance	| Feasibility |
 |:--- 									|:---: |:---:|
 |create an online presence			|5		|5 |
-|add subscribers to email list	|5		|4 |
+|~~add subscribers to email list~~|4		|1 |
+|*have potential customers email*	|5		|4 |
 |*have users book meetings*		|5		|5 |
 |get commissioned					|5		|5 |
 |~~direct users to Substack~~		|5		|1 |
@@ -104,6 +113,13 @@ The importance/feasibility matrix was determined as follows:
 ### User stories
 
 #### Client goals
+
+- create an online presence specifically for this workshop
+- have potential customers contact the client by email
+- have potential customers book a meeing with the client
+- have universities commission him for the workshop
+- direct users to the client's blog on Open Access Publishing
+- direct users to the client's social media accounts (Twitter/X, LinkedIn)
 
 #### First-time visitor goals
 
