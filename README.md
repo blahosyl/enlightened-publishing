@@ -268,13 +268,34 @@ The [About section](https://raw.githubusercontent.com/blahosyl/academic-publishi
 
 Since there is no separately designed logo for the project yet, the site features the title of the project in a large font and most prominent place, the top left corner. 
 
-The logo also doubles as a navigation element: clicking it takes the visitor back to the top of the page.
+The logo responsive, adapting to the viewport size.
 
-The logo, along with the whole header, is always visible, regardless of how far the visitor scrolss down the site.
+![The logo is responsive]()
 
-![The website logo]()
+The logo also doubles as a navigation element: clicking it takes the visitor back to the top of the page. On devices with pointer capabilities (e.g. mouse or trackpad), the logo changes color when hovered over:
+
+![The logo changes color on hover]()
+
+The logo, along with the whole header, is always visible, regardless of how far the visitor scrolss down the site (also called "sticky").
+
+![The logo is sticky]()
+
 
 ### Nav bar
+
+The nav bar (or navigation bar in long-form) ensures that visitors can quickly and easily navigate between various parts of the site. This is especially important given that the website is a continuous one, rather than being broken up into different `html` files.
+
+The nav bar is responsive to the type of device the site is viewed on: it appears as an expandable "hamburger" icon on smaller devices:
+
+![The "hamburger" navigation functionality]()
+
+On larger screens, the navigation bar shows the links to the 3 main sections of the site side by side. 
+
+![Expanded navigation bar]()
+
+On devices with pointer capabilities (e.g. mouse or trackpad), the links in the navigation bar change color when hovered over:
+
+![Links in nav bar change color on hover]()
 
 ### Footer with social media links
 
