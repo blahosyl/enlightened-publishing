@@ -161,13 +161,25 @@ As detailed in the [UX section](#user-experience), the target audience for this 
 
 This aligns perfectly with accessibility considerations, as detailed in the [Accessibility](#accessibility) section.
 
+It also plays on asssociations with Norway (where the client is based) and Scandinavia in general: minimalism, clean design, straightforwardness and efficiency.
+
 ### Color scheme
 
 The color scheme is inspired by the client's background in Norway, most notably, in the arctic town of [Tromsø](https://www.visitnorway.com/places-to-go/northern-norway/tromso/), which experiences a 2-month-long polar night without the sun rising, and spectacular displays of [northern lights](https://arcticexplorers.no/northern-lights).
 
-Color arrangement inspiration: [https://youpreneur.com/](https://youpreneur.com/)
+The dark night and bright lights also serve as a metaphor for the workshop shining a guiding light into the darkness of complicated rules and procedures in academic publishing.
 
-2 salient colors (#9FFFCB  and #004e64) combined with white and gray (#537D88). A 5th color, a darker shade of gray was introduced during accessibility testing (see the [Accessibility testing](#accessibility-testing) section for more detail). 
+The metaphor is reflected in the site's title: **Enlightened Publishing**.
+
+The site's color arrangement was inspired by [https://inclusiveleadership.solutions/](https://inclusiveleadership.solutions/) and [https://youpreneur.com/](https://youpreneur.com/), using two salient but contrasting colors, combined with white and gray.
+
+The two salient colors chosen for this site are a dark petrol (#9FFFCB)  and a light mint (#004e64). These colors represent the arctic night sky and northern lights, respectively.
+
+Turning to the supporting colors used, white, evocative of the ubiquitous snow in the arctic, is used in the design. In the spirit of minimalism and to offset the salience of the 2 main colors, simple, pur white (#FFFFFF) is used.
+
+The gray in this color palette has tones of blue-green, reminiscent of ice, and providing a bridge between the two salient colors. 
+
+A 5th color, a darker shade of gray, was introduced during accessibility testing, to make sure that there is sufficient contrast between background and text everywhere (see the [Accessibility testing](#accessibility-testing) section for more detail). 
 
 This resulted in the following color palette.
 
@@ -365,7 +377,7 @@ The features of the website were assigned to planned releases as follows:
 
 As a consequence of designing for an older and more straightforward-minded demographic (see [Background](#background) in the User Experience section), the site avoids visual clutter, such as excessive borders and shadows, elements of very different shapes, color gradients, background images behind normal text, and auto-moving elements of all kinds. 
 
-These elements tend to cause problems for a variety of users (e.g. those with visual impairment, executive functioning impairments, vertigo, etc.), so steering clear of these chimes in perfectly with accessibility goals.
+These elements tend to cause problems for a variety of users (e.g. those with visual impairment, executive functioning impairment, vertigo, etc.), so steering clear of these chimes in perfectly with accessibility goals.
 
 
 aria labels, 
