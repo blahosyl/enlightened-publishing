@@ -205,9 +205,9 @@ To ease navigation, the header remains visible throughout.
 
 The [hero image](https://www.pexels.com/photo/blue-and-green-sky-and-mountain-3617500/) shows an arctic landsape with mountains, water, and northern lights. It alludes to the client's professional background in Norway. The northern lights evoke a sense of awe and hope (light in the darkness).
 
-#### Problems & Solutions
+#### Problems & Solutions section imagery
  
-##### Problems
+##### Problems imagery
 
 The Problems subsection features grayscale images tinted dark with one of the main colors of the website. 
 
@@ -215,7 +215,7 @@ The [first image](https://raw.githubusercontent.com/blahosyl/academic-publishing
 
 The [second image](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/frustrated-grayscale.webp) shows a person in front of a computer in a frustrated pose, illustrating a frequent reaction to the current state of affairs in academic publishing. I chose a picture of a female-read person of color, as these groups are underrepresented in academia (and in general).
 
-##### Solutions
+##### Solutions imagery
 
 The Solutions subsection features colored images, only slightly tinted with the website's light main color.
 
@@ -223,9 +223,12 @@ The [first image](https://raw.githubusercontent.com/blahosyl/academic-publishing
 
 The [second image](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/presentation.webp) shows the client on stage, giving a speech, in a dynamic and engaging pose. This evokes a sense of participating in the workshop given by the client.
 
-#### About
+#### About section imagery
 
 The [About section](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/why-me-img.webp) shows the client in a confident pose in front of a grafitti wall. It centers the client as both competent and approachable. The image has been re-colored to fit the site's color scheme.
+
+#### Contact section imagery
+
 
 
 ### Header design
