@@ -233,7 +233,9 @@ The **Contact** section does not feature any images. This is a conscious choice 
 
 ### Header design
 
+The header embodies the goals of minimalism in design: only uses the 2 hero colors and no background images. Since the header is "sticky", that is, present at all times regardless of how far down the user scrolls, keeping it as simple as possible was of utmost importance.
 
+For highlighting active links on hover, white is used – again, choosing the simplest possible option.
 
 ### Problems & Solutions section design
 
