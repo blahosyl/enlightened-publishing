@@ -112,22 +112,48 @@ The importance/feasibility matrix was determined as follows:
 
 ### User stories
 
+
 #### Client goals
 
-- create an online presence specifically for this workshop
-- have potential customers contact the client by email
-- have potential customers book a meeing with the client
-- have universities commission him for the workshop
-- direct users to the client's blog on Open Access Publishing
-- direct users to the client's social media accounts (Twitter/X, LinkedIn)
+In addition to the business goals detailed in the [Current stage](#current-stage) subsection, client goals also include aspects of accessibilty and marketing goals. The complete list is as follows:
 
-#### First-time visitor goals
+- [CL1] I want to create an online presence specifically for this workshop. 
+- [CL2] I want to offer potential customers an easy-to navigate layout. 
+- [CL3] I want to visually appeal to the target audience, conferring approachability and competence.
+- [CL4] I want potential customers to contact the me by email.
+- [CL5] I want potential customers to book a meeing with me.
+- [CL6] I want customers to commission me for holding this workshop.
+- [CL7] I want to direct users to the my blog on Open Access Publishing.
+- [CL8] I want to direct users to the my social media accounts (Twitter/X, LinkedIn).
 
-#### Returning visitor goals
 
-#### Frequent visitor goals
+#### Visitor goals
 
-Find new material
+- [VI1] I want to view the site on various-sized devices.
+- [VI2] I want to easily navigate between the different parts of the site.
+
+##### First-time visitor goals
+
+- [FI1] I want to quickly get an overview of the website's purpose.
+- [FI2] I want to get informed about the problem the workshop is offering to solve.
+- [FI3] I want to know how the workshop proposes to solve the problem.
+- [FI4] I want to get an overview of the client's relevant experience in the field of academic publishing.
+- [FI5] I want request more information about the workshop.
+
+
+##### Returning visitor goals
+
+- [RE1] I want to ascertain that the client's experience makes him an expert on the topic.
+- [RE2] I want to read the client's blog on Publishing.
+- [RE3] I want to book a meeting with the client.
+- [RE4] I want request more information about the workshop.
+ 
+
+##### Frequent visitor goals
+
+- [FR1] I want to book a meeting with the client.
+- [FR2] I want to find the client's social media information
+
 
 ## Design
 
