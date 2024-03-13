@@ -339,13 +339,16 @@ The header contains the [logo](#logo) and the [nav bar](#nav-bar) (more on these
 
 Because the header houses the most important site navigation elements, it is always visible, regardless of how far the visitor scrolls down the site (also called "sticky"). This implementation is based on the [Love Running Project](https://github.com/Code-Institute-Solutions/love-running-v3/).
 
+The header and its elements are responsive, adapting to the viewport size.
+
+![The header is responsive and sticky](testing/responsivity/amiresponsive-header.png)
+
+
 #### Logo
 
 Since there is no separately designed logo for the project yet, the site features the title of the project in a large font and in the most prominent place, the top left corner. 
 
-The logo responsive, adapting to the viewport size.
 
-![The logo is responsive]()
 
 The logo also doubles as a navigation element: clicking it takes the visitor back to the top of the page. On devices with pointer capabilities (e.g. mouse or trackpad), the logo changes color when hovered over (see video below).
 
