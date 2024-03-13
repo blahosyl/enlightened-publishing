@@ -362,7 +362,8 @@ On larger screens, the navigation bar shows the links to the 3 main sections of 
 
 On devices with pointer capabilities (e.g. mouse or trackpad), the links in the navigation bar change color when hovered over:
 
-![Links in nav bar change color on hover](testing/videos/test-nav-bar.mp4)
+[![Links in nav bar change color on hover](https://github.com/blahosyl/academic-publishing/assets/26421503/4481c59f-215e-438e-9f2e-8e98b9919d81)](https://github.com/blahosyl/academic-publishing/assets/26421503/443c93cf-cc10-4c38-b485-6271dd78a6b4
+)
 
 Because the site is a continuous one, rather than consisting of separate `html` files, there is no highlighting of the current section the user is in in the nav bar. To offset this, color schemes are used to indicate different sections (see the [Design](#design) section for more details).
 
