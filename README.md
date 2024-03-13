@@ -1,6 +1,6 @@
 # Enlightened Publishing
 
-**Enlightened Publishing** is the responsive landing page of Prof. Curt Rice offering workshops on academic publishing for early-carreer researchers, such as PhD students and postdoctoral researchers. It is expected to launch in May 2024.
+**Enlightened Publishing** is the responsive landing page of [Prof. Curt Rice](https://www.linkedin.com/in/curtrice/) offering workshops on academic publishing for early-carreer researchers, such as PhD students and postdoctoral researchers. It is expected to launch in May 2024.
 
 The site provides an internet presence for the client, allowing him to reach potential customers interested in commissioning him for a workshop.
 
@@ -30,7 +30,7 @@ Developer: [Sylvia Blaho](https://www.linkedin.com/in/blahosylvia/)
 
 At the start of the project in February 2024, the client had the following goals:
 
-- to create an online presence specifically for this workshop
+- create an online presence specifically for this workshop
 - add subscribers to his email list
 - have universities commission him for the workshop
 - direct users to Substack
@@ -42,7 +42,7 @@ The importance/feasibility matrix was determined as follows:
  **Initial Importance/Feasibility matrix** (5: most, 1: least, ~~not included in release~~)
  
 |Goal							|Importance	| Feasibility |
-|--- 									|--- 	|--- |
+|:--- 									|:---: |:---:|
 |create an online presence			|5		|5 |
 |add subscribers to email list	|5		|4 |
 |get commissioned					|5		|5 |
@@ -52,14 +52,15 @@ The importance/feasibility matrix was determined as follows:
 
 ##### Current stage
 
-Due to some deliverables not being completed by the release date of the 1st version of the website (14th
+Due to some deliverables not being completed by the release date of the 1st version of the website (14th of March 2024), the list of goals was modified as follows (~~not included in release~~, *new goal*):
 
-- to create an online presence specifically for this workshop
+- create an online presence specifically for this workshop
 - add subscribers to his email list
 - *have potential customers book a meeing with the client*
 - have universities commission him for the workshop
 - ~~direct users to Substack~~
 - *direct users to the client's blog on Open Access Publishing*
+- *direct users to the client's social media accounts (Twitter/X, LinkedIn*
 - ~~have users download the client's ebook on Academic Publishing~~
 - ~~direct users to the client's blog on Gender Bias~~
 
@@ -69,15 +70,36 @@ The importance/feasibility matrix was determined as follows:
 
 
 |Goal							|Importance	| Feasibility |
-|--- 									|--- 	|--- |
+|:--- 									|:---: |:---:|
 |create an online presence			|5		|5 |
 |add subscribers to email list	|5		|4 |
 |*have users book meetings*		|5		|5 |
 |get commissioned					|5		|5 |
 |~~direct users to Substack~~		|5		|1 |
-|direct users to Publishing blog	|3		|5 |
+|*direct users to Publishing blog*|3		|5 |
+|*direct users to social media*	|3		|5 |
 |~~have users download ebook~~	|2		|1 |
 |direct users to Gender blog		|3		|1 |
+
+
+Accordingly, the features of the website were assigned to planned releases as follows:
+
+|Goal							|March 14	| May |Q4 |
+|:--- 							|:---: |:---:|:----:|
+|navigation bar				|:+1:	|	| 	|
+|social media links			|:+1:	| 	| 	|
+|social media links			|:+1:	| 	| 	|
+|description of workshop 	|:+1:	| 	| 	|
+|home page & tagline	 	|:+1:	| 	| 	|
+|about information		 	|:+1:	| 	| 	|
+|email contact form		 	|:+1:	| 	| 	|
+|meeting scheduler		 	|:+1:	| 	| 	|
+|download link for ebook	| 		|:+1:| |
+|link to Substack			| 		|:+1:| |
+|testimonials (general)		| 		|:+1:| |
+|link to Gender blog		| 		|		|:+1:|
+|videos (from workshops)	| 		|		|:+1:|
+|testimonials (from workshops)| 	|		|:+1:|
 
 </details>
 
@@ -323,6 +345,8 @@ Media query re. pointing device (mouse/trackpad): [Mozilla](https://developer.mo
 [`iframe`](https://www.w3schools.com/html/html_youtube.asp)
 
 [Embedding YouTube videos](https://www.lifelearn.com/2019/02/25/youtube-videos-on-your-website/#:~:text=To%20sort%20which%20videos%20you,embed%20functionality%20has%20been%20enabled.)
+
+[Writing on GitHub](https://docs.github.com/en/get-started/writing-on-github/)
 
 ### Content
 
