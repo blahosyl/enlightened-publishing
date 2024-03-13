@@ -242,7 +242,7 @@ For highlighting active links on hover, white is used – again, choosing the si
 ### Problems & Solutions section design
 
 
-#### Colors and images
+#### Colors and images | Problems & Solutions section
 
 This section is distinguished from other parts of the site by a gray background color, which remains consistent throughout the section. 
 
@@ -252,7 +252,7 @@ The **Problems** subsection features a dark color scheme, grayscale images with 
 
 The **Solutions** subsection has a bright colored background and full-color images that are only slightly tinted with the same bright color. These suggest the image of northern lights in the dark night sky, evoking feelings of brightness and hope.
 
-#### Layout
+#### Layout | Problems & Solutions section
 
 Each subsection consists of 2 text boxes, each with an accompanying image. The text appears below the image on mobile, and next to it on tablets and larger screens. 
 
@@ -264,19 +264,32 @@ In the **Problems** subsection, the cut-off point between the image and text is 
 
 This section details the relevant past experience of the client. Since the client is an accomplished scholar and university leader with decades of experience, visual cues and user interaction elements were used to break up the information into digestible chunks to avoid overwhelm.
 
+#### Colors and images | About/Credentials section
+
 Leaning into the visual separation of the different sections of the website, this section features a bright background with the mint salient color (#9FFFCB), and a colorful hero image (modified to fit the site's color scheme) with the client's name and tagline.
 
-In the next part of the section, after a short introductory text summarising the client's relevant experience, the different jobs/positions/experiences are presented in a responsive grid (based on the [Love Running Project](https://github.com/Code-Institute-Solutions/love-running-v3/)). By default, only the institution and position title is visible; details are uncovered on tap (mobile, tablet) or hover (laptop/desktop). This keeps information easy to take in at a glance, but interested users can also find out more.
+#### Layout | About/Credentials section
+
+The hero image is followed by a short introductory text summarising the client's relevant experience, the different jobs/positions/experiences are presented in a responsive grid (based on the [Love Running Project](https://github.com/Code-Institute-Solutions/love-running-v3/)). By default, only the institution and position title is visible; details are uncovered on tap (mobile, tablet) or hover (laptop/desktop). This keeps information easy to take in at a glance, but interested users can also find out more.
 
 ### Contact section design
+
+#### Colors and images | Contact section
+
+This section features 2 very interactive elements (the Calendly widget and contact form), so it is kept the most minimalistic to avoid overwhelm: it has no images, and features the most plain color palette (also used in the header): dark background and light text.
+
+#### Layout | Contact section
 
 One core principle of B2B marketing is to offer as many possibilities for connecting with the company as possible. In the spirit of this, the website features both a Calendly widget for scheduling meetings with the client, and a contact form for getting in touch by email.
 
 The [footer](#footer) has additional contact links to the client's social media profiles.
 
-Since the client does not have a CMS/email system set up yet, but wants to offer a way for potential partners to reach out to him before this gets implemented, we decided to integrate [Calendly](https://calendly.com/) into this section, so that people interested in the workshop can set up an online meeting with the client with an automatic [Google Meet](https://meet.google.com/) link.
+The Calendly widget is integrated into the site, and styled in alignment and color. In larger screens, there is an a white margin around the calendar element, which disappears on smaller screens. To keep the widget distinct, I have added a white border to it for smaller screens. Users can view the client's available meeting times and set up a meeting with an automatic [Google Meet](https://meet.google.com/) link using the widget.
 
-The Calendly widget is integrated into the site, and styled in alignment and color. In larger screens, there is an a white margin around the calendar element, which disappears on smaller screens. To keep the widget distinct, I have added a white border to it for smaller screens.
+The second part of this section contains the contact form, where users can submit their name, email address and workshop preferences to the client. 
+For the present implementation, this is set up to result in the Code Institute confirmation screen rather than connected to the client's CRM (Customer Relationship Management) system, so that the Code Insitute assessors can easily evaluate the functionality of the form.
+For the public launch (planned for May 2024), this will be changed so that the client will receive these data in his CRM system.
+
 
 ### Footer design
 
