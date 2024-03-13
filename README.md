@@ -619,3 +619,11 @@ The books favicon comes from [Favicon.io](https://favicon.io/emoji-favicons/book
 [Bodelschwingher Hof](https://github.com/4n4ru/CI_MS1_BodelschwingherHof/tree/master) by Ana Runje
 
 ### Acknowledgements
+
+I would like to thank Curt Rice for agreeing to the tight deadlines of this project, and creating the chance for us to work together again after almost a decade 💪
+
+I am also grateful to my mentor Rory Patrick Sheridan for his excellent advice and relaxed, calming presence, which I certainly appreciated on such a packed schedule 🤓
+
+I also want to thank my cohort facilitator, Kristyna Wach, for smoothing out my learning journey, Adam Kestell and Erick Bandelt for helping with all the questions and administrative issues prior to starting the course, and all Code Institute team members working behind the scenes to ensure a productive learning experience 🎉
+
+Last, but certainly not least, I want to thank Peter Litauszki for his support in a range of technical and non-technical matters, from photo editing to supplying a variety of snacks 🧡
