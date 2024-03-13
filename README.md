@@ -376,6 +376,11 @@ This section features the hero image, defining the feel and color scheme of the 
 
 ### Problems & Solutions section
 
+![The Problems & Solutions section is responsive]()
+
+This section features descriptions of the issues the client is trying to solve, and the means to solve them. The information is displayed in responsive boxes containing a block of text and an image each.
+
+
 ### About/Credentials section
 
 #### Credential cards
