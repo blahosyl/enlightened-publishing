@@ -333,7 +333,13 @@ The parallels between the two elements aid in the recognition of functionalities
 
 In accordance with the target audience and the user stories (see the [User Experience](#user-experience-(ux)) section), the features are focused on efficient navigation, information transfer and contact options.
 
-### Logo
+### Header
+
+The header contains the [logo](#logo) and the [nav bar](#nav-bar) (more on these in their respective sections).
+
+Because the header houses the most important site navigation elements, it is always visible, regardless of how far the visitor scrolls down the site (also called "sticky"). This implementation is based on the [Love Running Project](https://github.com/Code-Institute-Solutions/love-running-v3/).
+
+#### Logo
 
 Since there is no separately designed logo for the project yet, the site features the title of the project in a large font and in the most prominent place, the top left corner. 
 
@@ -341,12 +347,10 @@ The logo responsive, adapting to the viewport size.
 
 ![The logo is responsive]()
 
-The logo also doubles as a navigation element: clicking it takes the visitor back to the top of the page. On devices with pointer capabilities (e.g. mouse or trackpad), the logo changes color when hovered over:
-
-![The logo changes color on hover]()
+The logo also doubles as a navigation element: clicking it takes the visitor back to the top of the page. On devices with pointer capabilities (e.g. mouse or trackpad), the logo changes color when hovered over (see video below).
 
 
-### Nav bar
+#### Nav bar
 
 The nav bar (or navigation bar in long-form) ensures that visitors can quickly and easily navigate between various parts of the site. This is especially important given that the website is a continuous one, rather than being broken up into different `html` files.
 
@@ -354,24 +358,27 @@ The nav bar is responsive to the type of device the site is viewed on: it appear
 
 This functionality is based on the nav bar implementation of the [Love Running Project](https://github.com/Code-Institute-Solutions/love-running-v3/). However, instead of expanding the nav bar and putting the nav elements under the logo, I have chosen to have them appear right under the hamburger icon, so that the user action (tapping the hamburger icon) and the result (the nav elements appearing) is closer together.
 
-![The "hamburger" navigation functionality]()
+<img src="testing/responsivity/hamburger.png" alt="The "hamburger" navigation functionality" width="200"/>
+
+![The "hamburger" navigation functionality](testing/responsivity/amiresponsive-hamburger.png)
 
 On larger screens, the navigation bar shows the links to the 3 main sections of the site side by side. 
 
-On devices with pointer capabilities (e.g. mouse or trackpad), the links in the navigation bar change color when hovered over:
+On devices with pointer capabilities (e.g. mouse or trackpad), the links in the navigation bar change color when hovered over.
+
+The video below demonstrates the following features of the header elements (click to play):
+
+- the header is sticky
+- header links change color when hovered over
+- nav bar links take the user to the respective section on click
+- header link takes the user to the top of the page on click
+
 
 [![Links in nav bar change color on hover](https://github.com/blahosyl/academic-publishing/assets/26421503/4481c59f-215e-438e-9f2e-8e98b9919d81)](https://github.com/blahosyl/academic-publishing/assets/26421503/443c93cf-cc10-4c38-b485-6271dd78a6b4
 )
 
 Because the site is a continuous one, rather than consisting of separate `html` files, there is no highlighting of the current section the user is in in the nav bar. To offset this, color schemes are used to indicate different sections (see the [Design](#design) section for more details).
 
-### Header
-
-The header contains the [logo](#logo) and the [nav bar](#nav-bar) (more on these in their respective sections).
-
-Because the header houses the most important site navigation elements, it is always visible, regardless of how far the visitor scrolls down the site (also called "sticky"). This implementation is based on the [Love Running Project](https://github.com/Code-Institute-Solutions/love-running-v3/).
-
-![The header is sticky]()
 
 ### Hero section
 
