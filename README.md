@@ -32,7 +32,7 @@ The client is an accomplished academic researcher and university leader, who wan
 
 Publishing metrics are paramount for a researcher's career trajectory, but there is very little accessible information on rules and best practices. This is the knowledge gap that the current project aims to fill.
 
->[!IMPORTANT}
+>[!IMPORTANT]
 > Even though the **workshop** itself is tailored to junior academics, the target audience of the **website** itself is their senior peers: institution or faculty leaders such as **rectors, vice-rectors or deans**.
 
 This cohort typically belongs to a higher age group (40-70 years old), and makes browsing and purchasing decisions along the lines of [B2B patterns](https://blog.hubspot.com/agency/differences-b2c-b2b-marketing).
