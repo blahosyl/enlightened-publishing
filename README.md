@@ -1,6 +1,21 @@
-Deployed page: [https://blahosyl.github.io/academic-publishing/](https://blahosyl.github.io/academic-publishing/)
+# Enlightened Publishing
 
-# Academic Publishing
+**Enlightened Publishing** is the responsive landing page of Prof. Curt Rice offering workshops on academic publishing for early-carreer researchers, such as PhD students and postdoctoral researchers. It is expected to launch in May 2024.
+
+The site provides an internet presence for the client, allowing him to reach potential customers interested in commissioning him for a workshop.
+
+Interested academics can gain an overview of how the the workshop solves common problems in academic publishing, why the client is highly qualified to educate about these, and the means to get in touch with him.
+
+Developer: [Sylvia Blaho](https://www.linkedin.com/in/blahosylvia/)
+
+
+![Mockup image of the page on various devices](testing/responsivity/amiresponsive-start.png)
+
+
+[View the deployed page on Github Pages](https://blahosyl.github.io/academic-publishing/)
+
+## Contents
+
 
 ## User Experience (UX)
 
