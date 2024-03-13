@@ -23,6 +23,9 @@ Developer: [Sylvia Blaho](https://www.linkedin.com/in/blahosylvia/)
 
 #### Client goals
 
+<details>
+<summary>Client goal development thoughout the project (click for details)</summary>
+
 ##### Initial stage
 
 At the start of the project in February 2024, the client had the following goals:
@@ -75,6 +78,8 @@ The importance/feasibility matrix was determined as follows:
 |direct users to Publishing blog	|3		|5 |
 |~~have users download ebook~~	|2		|1 |
 |direct users to Gender blog		|3		|1 |
+
+</details>
 
 #### First-time visitor goals
 
