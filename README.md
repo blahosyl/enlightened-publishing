@@ -298,9 +298,24 @@ To view the site on your local machine (laptop or desktop), follow these steps:
 >[!IMPORTANT]
 > Do not take `index.html` out of the folder, or change the folder structure in any way, as this may break the file paths defined in the project. 
 
+### Fork the repository
+
+You can fork the repository by following these steps:
+
+1. Log in to [GitHub](https://github.com/) (if you don't have a GitHub account yet, you can [create one](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) for free)
+2. Navigate to the project website [https://github.com/blahosyl/academic-publishing](https://github.com/blahosyl/academic-publishing)
+3. Click on **Fork** in the upper right part of the screen.
+4. On the next page you have the possibility to change the repsitory name. To do this, simply write your desired name in the text field in the center part of the screen. You can also leave the name as it is.
+5. Click **Fork** in the bottom right part of the screen.
+
+>[!TIP]
+>If you do rename the repository, make sure to keep the [GitHub naming conventions](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Gov-Org-HowTo/Naming-Repos.md) in mind. 
+
+
+
 ### Deployment on GitHub Pages
 
-The site was deployed on GitHub pages using the steps below. You can follow the same steps to deploy it on your GitHub account after you have forked or copied the contents.
+The site was deployed on GitHub pages using the steps below. You can follow the same steps to deploy it on your GitHub account after you have forked the repository.
 
 1. Log in to [GitHub](https://github.com/) (if you don't have a GitHub account yet, you can [create one](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) for free)
 2. Navigate to the project website [https://github.com/blahosyl/academic-publishing](https://github.com/blahosyl/academic-publishing)
