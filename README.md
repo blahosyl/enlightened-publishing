@@ -191,7 +191,7 @@ In the Problems section, the cut-off point between the image and text is at the 
 
 ### About/Credentials section
 
-This section details the relevant past experience of the client. After a hero image and a short introductory text, the different jobs/positions/experiences are presented in a responsive grid. By default, only the institution and position title (XXX logo?) is visible; details are uncovered on tap (mobile, tablet) or hover (laptop/desktop).
+This section details the relevant past experience of the client. After a hero image and a short introductory text, the different jobs/positions/experiences are presented in a responsive grid. By default, only the institution and position title is visible; details are uncovered on tap (mobile, tablet) or hover (laptop/desktop).
 
 ### Contact section
 
@@ -266,6 +266,14 @@ The [About section](https://raw.githubusercontent.com/blahosyl/academic-publishi
 
 ### Logo
 
+Since there is no separately designed logo for the project yet, the site features the title of the project in a large font and most prominent place, the top left corner. 
+
+The logo also doubles as a navigation element: clicking it takes the visitor back to the top of the page.
+
+The logo, along with the whole header, is always visible, regardless of how far the visitor scrolss down the site.
+
+![The website logo]()
+
 ### Nav bar
 
 ### Footer with social media links
@@ -282,7 +290,7 @@ The cards are arranged in a responsive grid using Flexbox, similarly to the "run
 
 Additionally, the information within each card is divided into 2, and presented as a result of user interaction:
 
-- By default, each cards shows the name of the institution/organisation, the position the client held there, as well as the logo XXXX. 
+- By default, each cards shows the name of the institution/organisation, the position the client held there. 
 - When the user taps or hovers over a card (depending on the type of device used), this information is replaced by a more detailed description of the client's experience. 
 
 In accordance with my mentor's suggestion, I have added explicit text to tap or hover for more information. I have decided to add this text to each card rather than just adding it once above the card block, because I consider it better for accessibility. The tap/hover text is also visually different from the rest of the text on the card, to make the functionality more explicit.
