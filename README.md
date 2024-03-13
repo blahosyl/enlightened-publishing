@@ -6,7 +6,7 @@ The site provides an internet presence for the client, allowing him to reach sen
 
 Interested academics can gain an overview of how the the workshop solves common problems in academic publishing, why the client is highly qualified to educate about these, and the means to get in touch with him.
 
-Developer: [Sylvia Blaho](https://www.linkedin.com/in/blahosylvia/)
+Developer: [Dr. Sylvia Blaho](https://www.linkedin.com/in/blahosylvia/)
 
 
 ![Mockup image of the page on various devices](testing/responsivity/amiresponsive-start.png)
