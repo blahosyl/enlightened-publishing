@@ -287,6 +287,17 @@ Am I Responsive? – to show the website image on a range of devices
 
 ## Deployment
 
+### Local deployment
+
+To view the site on your local machine (laptop or desktop), follow these steps:
+
+1. click the following link to download the [zipped project folder from GitHub](https://github.com/blahosyl/academic-publishing/archive/refs/heads/main.zip)
+2. double click on the downloaded zip file `academic-publishing-main.zip` to unzip it
+3. in the folder `academic-publishing`, double click on `index.html` to open it in your browser
+
+>[!IMPORTANT]
+> Do not take `index.html` out of the folder, or change the folder structure in any way, as this may break the file paths defined in the project. 
+
 ## Testing
 
 ### Automated testing
