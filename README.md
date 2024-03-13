@@ -276,7 +276,15 @@ The Calendly widget is integrated into the site, and styled in alignment and col
 
 ### Footer design
 
-contact links to the client's social media profiles.
+The footer also features a minimalist design (similarly to the header). It consists of two, visually distint parts, the top one containing the social media links, and the bottom one the copyright information.
+
+Both of these parts have a two-tone color scheme and no background images, to maximize efficiency and minimize distractions (again, paralleling the header).
+
+As the footer is intended to be less salient than the header, the footer background colors used are the two shades of gray.
+
+To round out the parallels between the footer and the header, the same color-changing hover effect is used on the links in both elements.
+
+The parallels between the two elements aid in the recognition of functionalities, and reduce cognitive load.
 
 ### Typography
 
