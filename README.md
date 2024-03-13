@@ -82,25 +82,6 @@ The importance/feasibility matrix was determined as follows:
 |direct users to Gender blog		|3		|1 |
 
 
-Accordingly, the features of the website were assigned to planned releases as follows:
-
-|Goal							|March 14	| May |Q4 |
-|:--- 							|:---: |:---:|:----:|
-|navigation bar				|:+1:	|	| 	|
-|social media links			|:+1:	| 	| 	|
-|social media links			|:+1:	| 	| 	|
-|description of workshop 	|:+1:	| 	| 	|
-|home page & tagline	 	|:+1:	| 	| 	|
-|about information		 	|:+1:	| 	| 	|
-|email contact form		 	|:+1:	| 	| 	|
-|meeting scheduler		 	|:+1:	| 	| 	|
-|download link for ebook	| 		|:+1:| |
-|link to Substack			| 		|:+1:| |
-|testimonials (general)		| 		|:+1:| |
-|link to Gender blog		| 		|		|:+1:|
-|videos (from workshops)	| 		|		|:+1:|
-|testimonials (from workshops)| 	|		|:+1:|
-
 </details>
 
 #### First-time visitor goals
@@ -234,6 +215,25 @@ In accordance with my mentor's suggestion, I have added explicit text to tap or 
 ### Contact section
 
 ### Future implementations
+
+The features of the website were assigned to planned releases as follows:
+
+|Feature						|March 14	| May |Q4 |
+|:--- 							|:---: |:---:|:----:|
+|navigation bar				|:+1:	|	| 	|
+|social media links			|:+1:	| 	| 	|
+|social media links			|:+1:	| 	| 	|
+|description of workshop 	|:+1:	| 	| 	|
+|home page & tagline	 	|:+1:	| 	| 	|
+|about information		 	|:+1:	| 	| 	|
+|email contact form		 	|:+1:	| 	| 	|
+|meeting scheduler		 	|:+1:	| 	| 	|
+|download link for ebook	| 		|:+1:| |
+|link to Substack			| 		|:+1:| |
+|testimonials (general)		| 		|:+1:| |
+|link to Gender blog		| 		|		|:+1:|
+|videos (from workshops)	| 		|		|:+1:|
+|testimonials (from workshops)| 	|		|:+1:|
 
 ### Accessibility
 
