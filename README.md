@@ -21,7 +21,7 @@ Developer: [Dr. Sylvia Blaho](https://www.linkedin.com/in/blahosylvia/)
 	You can navigate the document structure by clicking the list icon in the top right corner.
 	</summary>
 
-![Navigate the document by clicking the list icon](assets/images/readme-pics/navigate-toc.png)
+![Navigate the document by clicking the list icon](readme-pics/navigate-toc.png)
 </details>
 
 ## User Experience (UX)
