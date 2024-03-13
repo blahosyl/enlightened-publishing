@@ -37,7 +37,8 @@ Publishing metrics are paramount for a researcher's career trajectory, but there
 
 This cohort typically belongs to a higher age group (40-70 years old), and makes browsing and purchasing decisions along the lines of [B2B patterns](https://blog.hubspot.com/agency/differences-b2c-b2b-marketing).
 
-This has implications on the [features](#features) and [design](#design) of the website, as detailed in the respective sections below.
+This has implications on the [features](#features) and [design]
+(#design) of the website, as detailed in the respective sections below.
 
 <details>
 <summary><span style="background-color: #9FFFCB; padding: 0.2rem">Project goal and scope development thoughout the project (click for details)</span></summary>
