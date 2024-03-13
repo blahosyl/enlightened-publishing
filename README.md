@@ -209,7 +209,7 @@ The [hero image](https://www.pexels.com/photo/blue-and-green-sky-and-mountain-36
  
 ##### Problems imagery
 
-The Problems subsection features grayscale images tinted dark with one of the main colors of the website. 
+The **Problems** subsection features grayscale images tinted dark with one of the main colors of the website. 
 
 The [first image](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/lots-of-paper-grayscale.webp) shows a huge pile of papers stacked in a haphazard fashion, symbolising the large amout of academic publications on the one hand, and the multitude of journals and publishers on the other hand.
 
@@ -225,13 +225,15 @@ The [second image](https://raw.githubusercontent.com/blahosyl/academic-publishin
 
 #### About section imagery
 
-The [About section](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/why-me-img.webp) shows the client in a confident pose in front of a grafitti wall. It centers the client as both competent and approachable. The image has been re-colored to fit the site's color scheme.
+The [**About** section](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/why-me-img.webp) shows the client in a confident pose in front of a grafitti wall. It centers the client as both competent and approachable. The image has been re-colored to fit the site's color scheme.
 
 #### Contact section imagery
 
-
+The **Contact** section does not feature any images. This is a conscious choice to adhere to minimalism and simplicity: as this section has the most interactive elements (the Calendly widget and the email contact form), I wanted to minimise user distractions while interacting with these.
 
 ### Header design
+
+
 
 ### Problems & Solutions section design
 
