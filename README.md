@@ -358,8 +358,6 @@ This functionality is based on the nav bar implementation of the [Love Running P
 
 On larger screens, the navigation bar shows the links to the 3 main sections of the site side by side. 
 
-![Expanded navigation bar]()
-
 On devices with pointer capabilities (e.g. mouse or trackpad), the links in the navigation bar change color when hovered over:
 
 [![Links in nav bar change color on hover](https://github.com/blahosyl/academic-publishing/assets/26421503/4481c59f-215e-438e-9f2e-8e98b9919d81)](https://github.com/blahosyl/academic-publishing/assets/26421503/443c93cf-cc10-4c38-b485-6271dd78a6b4
