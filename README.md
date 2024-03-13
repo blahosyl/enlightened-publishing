@@ -281,7 +281,9 @@ The logo also doubles as a navigation element: clicking it takes the visitor bac
 
 The nav bar (or navigation bar in long-form) ensures that visitors can quickly and easily navigate between various parts of the site. This is especially important given that the website is a continuous one, rather than being broken up into different `html` files.
 
-The nav bar is responsive to the type of device the site is viewed on: it appears as an expandable "hamburger" icon on smaller devices:
+The nav bar is responsive to the type of device the site is viewed on: it appears as an expandable "hamburger" icon on smaller devices. 
+
+This functionality is based on the nav bar implementation of the [Love Running Project](https://github.com/Code-Institute-Solutions/love-running-v3/). However, instead of expanding the nav bar and putting the nav elements under the logo, I have chosen to have them appear right under the hamburger icon, so that the user action (tapping the hamburger icon) and the result (the nav elements appearing) is closer together.
 
 ![The "hamburger" navigation functionality]()
 
