@@ -41,7 +41,7 @@ This has implications on the [features](#features) and [design]
 (#design) of the website, as detailed in the respective sections below.
 
 <details>
-<summary><span style="background-color: #9FFFCB; padding: 0.2rem">Project goal and scope development thoughout the project (click for details)</span></summary>
+<summary>Project goal and scope development thoughout the project (click for details)</summary>
 
 ##### Initial stage
 
@@ -115,7 +115,7 @@ The importance/feasibility matrix was determined as follows:
 
 #### Client goals
 
-In addition to the business goals detailed in the [Current stage](#current-stage) subsection, client goals also include aspects of accessibilty and marketing goals. The complete list is as follows:
+In addition to the business goals detailed under **Project goal and scope development thoughout the project** in the [Background](#background) section, client goals also include aspects of accessibilty and marketing goals. The complete list is as follows:
 
 - [CL1] I want to create an online presence specifically for this workshop. 
 - [CL2] I want to offer potential customers an easy-to navigate layout. 
