@@ -299,7 +299,7 @@ On devices with pointer capabilities (e.g. mouse or trackpad), the links in the 
 
 The header contains the [logo](#logo) and the [nav bar](#nav-bar) (more on these in their respective sections).
 
-Because the header houses the most important site navigation elements, it is always visible, regardless of how far the visitor scrolls down the site (also called "sticky").
+Because the header houses the most important site navigation elements, it is always visible, regardless of how far the visitor scrolls down the site (also called "sticky"). This implementation is based on the [Love Running Project](https://github.com/Code-Institute-Solutions/love-running-v3/).
 
 ![The header is sticky]()
 
@@ -329,9 +329,11 @@ The footer contains links to the client's social media accounts (LinkedIn, Twitt
 
 ![The footer consists of two visually separate parts]()
 
-The navigation links in the footer consist of universally recognisable icons. These change color on hover on devices with pointer capabilities (e.g. mouse or trackpad).
+The navigation links in the footer consist of universally recognisable icons. These change color on hover on devices with pointer capabilities (e.g. mouse or trackpad). This implementation is based on the [Love Running Project](https://github.com/Code-Institute-Solutions/love-running-v3/).
 
 ![The footer links change color on hover]()
+
+Contrary to other links on the site, the footer links are not underlined, as this would be very unusual for the icons used.
 
 Since the footer links point to external resources, they open in a new tab.
 
