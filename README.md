@@ -26,12 +26,22 @@ Developer: [Sylvia Blaho](https://www.linkedin.com/in/blahosylvia/)
 
 ## User Experience (UX)
 
-### User stories
+### Background information
 
-#### Client goals
+The client is an accomplished academic researcher and university leader, who wants to branch out to high-level training and consulting. The project to be launched with this website is a workshop for early-career academics on how to navigate the complexities of academic publishing.
+
+Publishing metrics are paramount for a researcher's career trajectory, but there is very little accessible information on rules and best practices. This is the knowledge gap that the current project aims to fill.
+
+>[!IMPORTANT}
+> Even though the **workshop** itself is tailored to junior academics, the target audience of the **website** itself is their senior peers: institution or faculty leaders such as **rectors, vice-rectors or deans**.
+
+This cohort typically belongs to a higher age group (40-70 years old), and makes browsing and purchasing decisions along the lines of [B2B patterns](https://blog.hubspot.com/agency/differences-b2c-b2b-marketing).
+
+This has implications on the [features](#features) and [design]
+(#design) of the website, as detailed in the respective sections below.
 
 <details>
-<summary>Client goal development thoughout the project (click for details)</summary>
+<summary><span style="background-color: #9FFFCB; padding: 0.2rem">Project goal and scope development thoughout the project (click for details)</span></summary>
 
 ##### Initial stage
 
@@ -90,6 +100,10 @@ The importance/feasibility matrix was determined as follows:
 
 
 </details>
+
+### User stories
+
+#### Client goals
 
 #### First-time visitor goals
 
