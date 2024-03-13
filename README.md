@@ -266,7 +266,7 @@ The [About section](https://raw.githubusercontent.com/blahosyl/academic-publishi
 
 ### Logo
 
-Since there is no separately designed logo for the project yet, the site features the title of the project in a large font and most prominent place, the top left corner. 
+Since there is no separately designed logo for the project yet, the site features the title of the project in a large font and in the most prominent place, the top left corner. 
 
 The logo responsive, adapting to the viewport size.
 
@@ -295,6 +295,8 @@ On devices with pointer capabilities (e.g. mouse or trackpad), the links in the 
 
 ![Links in nav bar change color on hover]()
 
+Because the site is a continuous one, rather than consisting of separate `html` files, there is no highlighting of the current section the user is in in the nav bar. To offset this, color schemes are used to indicate different sections (see the [Design](#design) section for more details).
+
 ### Header
 
 The header contains the [logo](#logo) and the [nav bar](#nav-bar) (more on these in their respective sections).
@@ -311,7 +313,7 @@ Because the header houses the most important site navigation elements, it is alw
 
 The client's relevant experience is displayed on individual cards to avoid creating a large block of text and break up the information into smaller, digestible pieces.
 
-The cards are arranged in a responsive grid using Flexbox, similarly to the "running times" section of the Love Running project.
+The cards are arranged in a responsive grid using Flexbox, similarly to the "running times" section of the [Love Running Project](https://github.com/Code-Institute-Solutions/love-running-v3/).
 
 Additionally, the information within each card is divided into 2, and presented as a result of user interaction:
 
