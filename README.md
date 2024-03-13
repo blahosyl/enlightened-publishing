@@ -16,8 +16,13 @@ Developer: [Sylvia Blaho](https://www.linkedin.com/in/blahosylvia/)
 
 ## Contents
 
-Insert TOC
+<details>
+	<summary>
+	You can navigate the document structure by clicking the list icon in the top right corner.
+	</summary>
 
+![Navigate the document by clicking the list icon](assets/images/readme-pics/navigate-toc.png)
+</details>
 
 ## User Experience (UX)
 
@@ -347,7 +352,7 @@ Full testing of functionalities
  
 #### Browsers
 
-The site was tested on the following browsers
+The site was tested on the following browsers:
 
 - Google Chrome
 - Mozilla Firefox
