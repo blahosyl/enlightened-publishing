@@ -110,9 +110,9 @@ To ease navigation, the header remains visible throughout.
 
 #### Colors and images
 
-The problems subsection features a dark color scheme, grayscale images with a dark tint, and images suggesting overwhelm.
+The Problems subsection features a dark color scheme, grayscale images with a dark tint, and images suggesting overwhelm.
 
-The Solutions section has a bright colored background and color images that are only slightly tinted with the same bright color.
+The Solutions subsection has a bright colored background and color images that are only slightly tinted with the same bright color.
 
 #### Layout
 
@@ -163,25 +163,25 @@ The [hero image](https://www.pexels.com/photo/blue-and-green-sky-and-mountain-36
 
 The Problems subsection features grayscale images tinted dark with one of the main colors of the website. 
 
-The first image shows a huge pile of papers stacked in a haphazard fashion, symbolising the large amout of academic publications on the one hand, and the multitude of journals and publishers on the other hand.
+The [first image](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/lots-of-paper-grayscale.webp) shows a huge pile of papers stacked in a haphazard fashion, symbolising the large amout of academic publications on the one hand, and the multitude of journals and publishers on the other hand.
 
-The second image shows a person in front of a computer in a frustrated pose, illustrating an frequent reaction to the current state of affairs in academic publishing. I chose a picture of a female-read person of color, as these groups are underrepresented in academia (and in general).
+The [second image](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/frustrated-grayscale.webp) shows a person in front of a computer in a frustrated pose, illustrating an frequent reaction to the current state of affairs in academic publishing. I chose a picture of a female-read person of color, as these groups are underrepresented in academia (and in general).
 
 ##### Solutions
 
 The Solutions subsection features colored images, only slightly tinted with the website's light main color.
 
-The first image shows a modern, spacious, brightly lit library, symbolising a more open and more efficient future to come. This picture also illustrates the multitude of information and aptitudes that can be acquired at this workshop.
+The [first image](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/library.webp) shows a modern, spacious, brightly lit library, symbolising a more open and more efficient future to come. This picture also illustrates the multitude of information and aptitudes that can be acquired at this workshop.
 
-The second picure shows the client on stage, giving a speech, in a dynamic and engaging pose.
+The [second image](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/presentation.webp) shows the client on stage, giving a speech, in a dynamic and engaging pose. This evokes a sense of participating in the workshop given by the client.
 
 #### About
 
-The [About section](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/curtrice-green-2.webp) shows the client in a confident pose in front of a grafitti wall. It centers the client as both competent and approachable. 
+The [About section](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/why-me-img.webp) shows the client in a confident pose in front of a grafitti wall. It centers the client as both competent and approachable. The image has been re-colored to fit the site's color scheme.
 
 ### Typography
 
-[Google Fonts](https://fonts.google.com/) are used in this project. The client chose [Roboto Slab](https://fonts.google.com/specimen/Roboto+Slab?subset=latin&noto.script=Latn) for headings, and [Lato](https://fonts.google.com/specimen/Lato?subset=latin&noto.script=Latn) for normal text.
+[Google Fonts](https://fonts.google.com/) are used in this project. The client chose [Roboto Slab](https://fonts.google.com/specimen/Roboto+Slab?subset=latin&noto.script=Latn) for headings, and [Lato](https://fonts.google.com/specimen/Lato?subset=latin&noto.script=Latn) for normal text. These are professional, approachable, and easy to read.
 
 
 ### Wireframes
