@@ -344,6 +344,14 @@ Full testing of functionalities
 
 #### Devices
  iPhone 12 Pro, iOS 17.2.1; iPad Pro, iPadOS 17.3.1; iPhone XR, iOS 17.4;
+ 
+#### Browsers
+
+The site was tested on the following browsers
+
+- Google Chrome
+- Mozilla Firefox
+- Safari
 
 ####Footer
 
