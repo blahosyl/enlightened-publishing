@@ -225,9 +225,11 @@ The [first image](https://raw.githubusercontent.com/blahosyl/academic-publishing
 
 The [second image](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/presentation.webp) shows the client on stage, giving a speech, in a dynamic and engaging pose. This evokes a sense of participating in the workshop given by the client.
 
-#### About section imagery
+#### About/Credentials section imagery
 
 The [**About** section](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/why-me-img.webp) shows the client in a confident pose in front of a grafitti wall. It centers the client as both competent and approachable. The image has been re-colored to fit the site's color scheme.
+
+The second and third parts of this section have a lot of interactivity (flip cards and a video), so no images are included here to avoid overwhelm.
 
 #### Contact section imagery
 
@@ -237,7 +239,11 @@ The **Contact** section does not feature any images. This is a conscious choice 
 
 The header embodies the goals of minimalism in design: only uses the 2 hero colors and no background images. Since the header is "sticky", that is, present at all times regardless of how far down the user scrolls, keeping it as simple as possible was of utmost importance.
 
-For highlighting active links on hover, white is used – again, choosing the simplest possible option.
+For highlighting active links on hover, white is used – again, choosing the simplest possible option to keep the page uncluttered.
+
+### Hero image design
+
+The hero image features the main tagline of the project with the mint salient color on a slightly transparent dark gray background, centered. This ensures the legibility of the tagline at the same time as letting the hero image shine.
 
 ### Problems & Solutions section design
 
@@ -266,11 +272,20 @@ This section details the relevant past experience of the client. Since the clien
 
 #### Colors and images | About/Credentials section
 
-Leaning into the visual separation of the different sections of the website, this section features a bright background with the mint salient color (#9FFFCB), and a colorful hero image (modified to fit the site's color scheme) with the client's name and tagline.
+Leaning into the visual separation of the different sections of the website, this section features a bright background with the mint salient color (#9FFFCB), and a colorful image (modified to fit the site's color scheme) with the client's name and tagline. 
+The text background is slightly transparent, to have a more organic connection with the image.
 
 #### Layout | About/Credentials section
 
-The hero image is followed by a short introductory text summarising the client's relevant experience, the different jobs/positions/experiences are presented in a responsive grid (based on the [Love Running Project](https://github.com/Code-Institute-Solutions/love-running-v3/)). By default, only the institution and position title is visible; details are uncovered on tap (mobile, tablet) or hover (laptop/desktop). This keeps information easy to take in at a glance, but interested users can also find out more.
+The image of this section is full width, with the text on the image changing position depending on the device size: 
+- mobile: full width and on the bottom half of the image
+- tablet: full height, on the right hand side of the image, extending to the right end
+- laptop/desktop: full height, on the right hand side of the image, with some space on the rightmost end of the image
+
+
+The image is followed by a short introductory text summarising the client's relevant experience, the different jobs/positions/experiences are presented in a responsive grid (based on the [Love Running Project](https://github.com/Code-Institute-Solutions/love-running-v3/)). By default, only the institution and position title is visible; details are uncovered on tap (mobile, tablet) or hover (laptop/desktop). This keeps information easy to take in at a glance, but interested users can also find out more.
+
+The last item in the section is a YouTube video of the client giving a talk. This gives the opportunity for users to see the client presenting to a larger group.
 
 ### Contact section design
 
