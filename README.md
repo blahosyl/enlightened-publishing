@@ -298,6 +298,22 @@ To view the site on your local machine (laptop or desktop), follow these steps:
 >[!IMPORTANT]
 > Do not take `index.html` out of the folder, or change the folder structure in any way, as this may break the file paths defined in the project. 
 
+### Deployment on GitHub Pages
+
+The site was deployed on GitHub pages using the steps below. You can follow the same steps to deploy it on your GitHub account after you have forked or copied the contents.
+
+1. Log in to [GitHub](https://github.com/) (if you don't have a GitHub account yet, you can [create one](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) for free)
+2. Navigate to the project website [https://github.com/blahosyl/academic-publishing](https://github.com/blahosyl/academic-publishing)
+3. Click on [Settings](https://github.com/blahosyl/academic-publishing/settings) in the top right of the screen
+4. On the left-hand menu, click [Pages](https://github.com/blahosyl/academic-publishing/settings/pages)
+5. In the center of the page under **Branch**, select **main** from the dropdown menu, then click **Save**
+6. After the site refreshes automatically, a message appears in the top center part of the screen, displaying the link to the deployed site: "Your site is live at [https://blahosyl.github.io/academic-publishing/](https://blahosyl.github.io/academic-publishing/)" 
+
+>[!NOTE]
+>The link will look stlightly different for you, containing your [GitHub username](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/remembering-your-github-username-or-email) instead of `blahosyl`. 
+
+
+
 ## Testing
 
 ### Automated testing
