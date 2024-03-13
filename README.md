@@ -33,9 +33,9 @@ The client is an accomplished academic researcher and university leader, who wan
 Publishing metrics are paramount for a researcher's career trajectory, but there is very little accessible information on rules and best practices. This is the knowledge gap that the current project aims to fill.
 
 >[!IMPORTANT]
-> Even though the **workshop** itself is tailored to junior academics, the target audience of the **website** itself is their senior peers: institution or faculty leaders such as **rectors, vice-rectors or deans**.
+> Even though the **workshop** itself is tailored to junior academics, the target audience of the **website** is their senior peers: institution or faculty leaders such as **rectors, vice-rectors or deans**.
 
-This cohort typically belongs to a higher age group (40-70 years old), and makes browsing and purchasing decisions along the lines of [B2B patterns](https://blog.hubspot.com/agency/differences-b2c-b2b-marketing).
+This cohort typically belongs to a higher age group (40-70 years old), and makes browsing and purchasing decisions along the lines of [B2B patterns](https://blog.hubspot.com/agency/differences-b2c-b2b-marketing). In addition, individuals in these positions tend to have extremely busy schedules and a lot of demands on their time and attention.
 
 This has implications on the [features](#features) and [design]
 (#design) of the website, as detailed in the respective sections below.
@@ -157,7 +157,8 @@ In addition to the business goals detailed under **Project goal and scope develo
 
 ## Design
 
-As detailed in the [UX section](#user-experience), the target audience for this website is typically a more senior and B2B-minded cohort. Consequently, the design skewes towards minimalism, being clear-cut and avoiding unnecessary visual clutter, such as excessive borders and shadows, elements of very different shapes, background images behind normal text, and auto-moving elements of all kinds. 
+As detailed in the [UX section](#user-experience), the target audience for this website is typically a more senior and B2B-minded cohort, with busy workloads and packed schedules.
+Consequently, the design skewes towards minimalism, being clear-cut and avoiding unnecessary visual clutter, such as excessive borders and shadows, elements of very different shapes, background images behind normal text, and auto-moving elements of all kinds. 
 
 This aligns perfectly with accessibility considerations, as detailed in the [Accessibility](#accessibility) section.
 
@@ -185,12 +186,13 @@ This resulted in the following color palette.
 
 ![Color palette]()
 
-Color variables were used instead of hard-coding colors for each element, so that the overall color scheme can easily be modified in the future if needed. This was based on the [W3Schools tutorial on variables](https://www.w3schools.com/css/css3_variables.asp), a resource pointed out by my mentor. This design also enabled me to easily and quickly make adjustments to the color scheme during accessibility testing (see the [Accessibility testing](#accessibility-testing) section for more detail).
+Color variables were used instead of hard-coding colors for each element, so that the overall color scheme can easily be modified in the future if needed. 
+This was based on the [W3Schools tutorial on variables](https://www.w3schools.com/css/css3_variables.asp), a resource pointed out by my mentor. 
+This design also enabled me to easily and quickly make adjustments to the color scheme during accessibility testing (see the [Accessibility testing](#accessibility-testing) section for more detail).
 
 ### Flow
 
 The client heavily preferred a continuous website rather than separate clickable pages, citing results that show that user engagement drastically decreases after each time a user has to click.
-
 In accordance with this, the website consists of 3, visually separate sections that can be continuously scrolled through:
 
 1. Problems & Solutions section
@@ -284,6 +286,8 @@ contact links to the client's social media profiles.
 ### Wireframes
 
 ## Features
+
+In accordance with the target audience and the user stories (see the [User Experience](#user-experience-(ux)) section), the features are focused on efficient navigation, information transfer and contact options.
 
 ### Logo
 
