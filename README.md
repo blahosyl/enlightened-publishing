@@ -291,9 +291,9 @@ Am I Responsive? – to show the website image on a range of devices
 
 To view the site on your local machine (laptop or desktop), follow these steps:
 
-1. click the following link to download the [zipped project folder from GitHub](https://github.com/blahosyl/academic-publishing/archive/refs/heads/main.zip)
-2. double click on the downloaded zip file `academic-publishing-main.zip` to unzip it
-3. in the folder `academic-publishing`, double click on `index.html` to open it in your browser
+1. click the following link to download the [zipped project folder from GitHub](https://github.com/blahosyl/academic-publishing/archive/refs/heads/main.zip).
+2. double click on the downloaded zip file `academic-publishing-main.zip` to unzip it.
+3. in the folder `academic-publishing`, double click on `index.html` to open it in your browser.
 
 >[!IMPORTANT]
 > Do not take `index.html` out of the folder, or change the folder structure in any way, as this may break the file paths defined in the project. 
@@ -302,8 +302,8 @@ To view the site on your local machine (laptop or desktop), follow these steps:
 
 You can fork the repository by following these steps:
 
-1. Log in to [GitHub](https://github.com/) (if you don't have a GitHub account yet, you can [create one](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) for free)
-2. Navigate to the project website [https://github.com/blahosyl/academic-publishing](https://github.com/blahosyl/academic-publishing)
+1. Log in to [GitHub](https://github.com/) (if you don't have a GitHub account yet, you can [create one](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) for free).
+2. Navigate to the project website [https://github.com/blahosyl/academic-publishing](https://github.com/blahosyl/academic-publishing).
 3. Click on **Fork** in the upper right part of the screen.
 4. On the next page you have the possibility to change the repsitory name. To do this, simply write your desired name in the text field in the center part of the screen. You can also leave the name as it is.
 5. Click **Fork** in the bottom right part of the screen.
@@ -317,15 +317,18 @@ You can fork the repository by following these steps:
 
 The site was deployed on GitHub pages using the steps below. You can follow the same steps to deploy it on your GitHub account after you have forked the repository.
 
-1. Log in to [GitHub](https://github.com/) (if you don't have a GitHub account yet, you can [create one](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) for free)
-2. Navigate to the project website [https://github.com/blahosyl/academic-publishing](https://github.com/blahosyl/academic-publishing)
-3. Click on [Settings](https://github.com/blahosyl/academic-publishing/settings) in the top right of the screen
-4. On the left-hand menu, click [Pages](https://github.com/blahosyl/academic-publishing/settings/pages)
-5. In the center of the page under **Branch**, select **main** from the dropdown menu, then click **Save**
-6. After the site refreshes automatically, a message appears in the top center part of the screen, displaying the link to the deployed site: "Your site is live at [https://blahosyl.github.io/academic-publishing/](https://blahosyl.github.io/academic-publishing/)" 
+1. Log in to [GitHub](https://github.com/) (if you don't have a GitHub account yet, you can [create one](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) for free).
+2. Navigate to the project website [https://github.com/blahosyl/academic-publishing](https://github.com/blahosyl/academic-publishing).
+3. Click on [Settings](https://github.com/blahosyl/academic-publishing/settings) in the top right of the screen.
+4. On the left-hand menu, click [Pages](https://github.com/blahosyl/academic-publishing/settings/pages).
+5. In the center of the page under **Branch**, select **main** from the dropdown menu, then click **Save**.
+6. After the site refreshes automatically, a message appears in the top center part of the screen, displaying the link to the deployed site: "Your site is live at [https://blahosyl.github.io/academic-publishing/](https://blahosyl.github.io/academic-publishing/)". 
 
 >[!NOTE]
 >The link will look stlightly different for you, containing your [GitHub username](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/remembering-your-github-username-or-email) instead of `blahosyl`. 
+
+>[!NOTE]
+>If you have renamed the repository when forking it, your chosen repository name will appear instead of `academic-publishing` in the deployment link.
 
 
 
