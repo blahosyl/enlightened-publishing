@@ -223,6 +223,7 @@ However, each issue has the corresponing commits linked, and these links work co
 
 ### Code
 
+
 Variables https://www.w3schools.com/css/css3_variables.asp
 
 [Recommended image sizes](https://tiny-img.com/blog/best-image-size-for-website/), [2](https://www.foregroundweb.com/image-size)
