@@ -483,6 +483,8 @@ Media query re. pointing device (mouse/trackpad): [Mozilla](https://developer.mo
 
 [Writing on GitHub](https://docs.github.com/en/get-started/writing-on-github/)
 
+[Linking GitHub commits to issues](https://gitdailies.com/articles/link-github-commit-to-issue)
+
 ### Content
 
 ### Media
