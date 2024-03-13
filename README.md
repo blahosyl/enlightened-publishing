@@ -125,12 +125,14 @@ In addition to the business goals detailed under **Project goal and scope develo
 - [CL6] I want customers to commission me for holding this workshop.
 - [CL7] I want to direct users to the my blog on Open Access Publishing.
 - [CL8] I want to direct users to the my social media accounts (Twitter/X, LinkedIn).
+- [CL9] I want to reach potential clients outside my professional network.
 
 
 #### Visitor goals
 
-- [VI1] I want to view the site on various-sized devices.
-- [VI2] I want to easily navigate between the different parts of the site.
+- [VI1] I want my junior colleagues to receive support in navigating academic publishing.
+- [VI2] I want to view the site on various-sized devices.
+- [VI3] I want to easily navigate between the different parts of the site.
 
 ##### First-time visitor goals
 
@@ -198,6 +200,8 @@ In accordance with this, the website consists of 3, visually separate sections t
 1. Problems & Solutions section
 2. About/Credentials section titled "Why me?"
 3. Contact section
+
+While it is customary to put the **About** information first on a site, we decided for an approach that centers the problems the workshop aims to solve and their solutions, as the clients wants to reach clients that might not know him professionally. Therefore, while his name and professional credetials are important information, they were deemed secondary to the goal of the workshop.
 
 To ease navigation, the header remains visible throughout.
 
@@ -382,6 +386,13 @@ This section features descriptions of the issues the client is trying to solve, 
 
 
 ### About/Credentials section
+
+![The About/Credentials section is responsive]()
+
+
+#### Credentials image and tagline
+
+
 
 #### Credential cards
 
