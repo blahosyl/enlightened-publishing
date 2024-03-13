@@ -413,10 +413,12 @@ The features of the website were assigned to planned releases as follows:
 |:--- 							|:---: |:---:|:----:|
 |navigation bar				|:+1:	|	| 	|
 |social media links			|:+1:	| 	| 	|
-|social media links			|:+1:	| 	| 	|
+|description of problems 	|:+1:	| 	| 	|
 |description of workshop 	|:+1:	| 	| 	|
 |home page & tagline	 	|:+1:	| 	| 	|
-|about information		 	|:+1:	| 	| 	|
+|About information		 	|:+1:	| 	| 	|
+|About picture		 		|:+1:	| 	| 	|
+|relevant experience 		|:+1:	| 	| 	|
 |email contact form		 	|:+1:	| 	| 	|
 |meeting scheduler		 	|:+1:	| 	| 	|
 |download link for ebook	| 		|:+1:| |
