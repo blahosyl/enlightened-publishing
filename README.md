@@ -370,6 +370,10 @@ Because the header houses the most important site navigation elements, it is alw
 
 ![The header is sticky]()
 
+### Hero section
+
+This section features the hero image, defining the feel and color scheme of the website, as well as the main tagline of the project.
+
 ### Problems & Solutions section
 
 ### About/Credentials section
