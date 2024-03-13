@@ -614,9 +614,13 @@ The books favicon comes from [Favicon.io](https://favicon.io/emoji-favicons/book
 
 ### Readme
 
-[Creating your first README with Kera Cudmore](https://www.youtube.com/watch?v=XbYJ4VlhSnY)
-
-[Bodelschwingher Hof](https://github.com/4n4ru/CI_MS1_BodelschwingherHof/tree/master) by Ana Runje
+- [Creating your first README with Kera Cudmore](https://www.youtube.com/watch?v=XbYJ4VlhSnY) by Code Institute
+- [Creating your first README](https://github.com/kera-cudmore/readme-examples) by Kera Cudmore
+- [Bully Book Club](https://github.com/kera-cudmore/Bully-Book-Club) by Kera Cudmore
+- [Bodelschwingher Hof](https://github.com/4n4ru/CI_MS1_BodelschwingherHof/tree/master) by Ana Runje
+- [Travel World](https://github.com/PedroCristo/portfolio_project_1/) by Pedro Cristo
+- [Sourdough Bakes](https://github.com/siobhanlgorman) by Siobhan Gorman
+- [Horizon Photo](https://github.com/Ri-Dearg/horizon-photo/blob/master/README.md#mobile-testing) by Rory Patrick Sheridan
 
 ### Acknowledgements
 
