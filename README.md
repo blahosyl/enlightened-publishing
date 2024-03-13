@@ -115,6 +115,10 @@ Find new material
 
 ## Design
 
+As detailed in the [UX section](#user-experience), the target audience for this website is typically a more senior and B2B-minded cohort. Consequently, the design skewes towards minimalism, being clear-cut and avoiding unnecessary visual clutter, such as excessive borders and shadows, elements of very different shapes, background images behind normal text, and auto-moving elements of all kinds. 
+
+This aligns perfectly with accessibility considerations, as detailed in the [Accessibility](#accessibility) section.
+
 ### Flow
 
 The client heavily preferred a continuous website rather than separate clickable pages, citing results that show that user engagement drastically decreases after each time a user has to click.
@@ -149,9 +153,18 @@ This section details the relevant past experience of the client. After a hero im
 
 ### Contact section
 
+One core principle of B2B marketing is to offer as many possibilities for connecting with the company as possible. In the spirit of this, the website features both a Calendly widget for scheduling meetings with the client, and a contact form for getting in touch by email.
+
+The [footer](#footer) has additional contact links to the client's social media profiles.
+
 Since the client does not have a CMS/email system set up yet, but wants to offer a way for potential partners to reach out to him before this gets implemented, we decided to integrate [Calendly](https://calendly.com/) into this section, so that people interested in the workshop can set up an online meeting with the client with an automatic [Google Meet](https://meet.google.com/) link.
 
 The Calendly widget is integrated into the site, and styled in alignment and color. In larger screens, there is an a white margin around the calendar element, which disappears on smaller screens. To keep the widget distinct, I have added a white border to it for smaller screens.
+
+### Footer
+
+contact links to the client's social media profiles.
+
 
 ### Color scheme
 
@@ -257,6 +270,11 @@ The features of the website were assigned to planned releases as follows:
 |testimonials (from workshops)| 	|		|:+1:|
 
 ### Accessibility
+
+As a consequence of designing for an older and more straightforward-minded demographic (see [Background](#background) in the User Experience section), the site avoids visual clutter, such as excessive borders and shadows, elements of very different shapes, color gradients, background images behind normal text, and auto-moving elements of all kinds. 
+
+These elements tend to cause problems for a variety of users (e.g. those with visual impairment, executive functioning impairments, vertigo, etc.), so steering clear of these chimes in perfectly with accessibility goals.
+
 
 aria labels, alt text, colour scheme, font choices
 
