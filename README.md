@@ -23,6 +23,59 @@ Developer: [Sylvia Blaho](https://www.linkedin.com/in/blahosylvia/)
 
 #### Client goals
 
+##### Initial stage
+
+At the start of the project in February 2024, the client had the following goals:
+
+- to create an online presence specifically for this workshop
+- add subscribers to his email list
+- have universities commission him for the workshop
+- direct users to Substack
+- have users download the client's ebook on Academic Publishing
+- direct users to the client's blog on Gender Bias
+
+The importance/feasibility matrix was determined as follows:
+
+ **Initial Importance/Feasibility matrix** (5: most, 1: least, ~~not included in release~~)
+ 
+|Goal							|Importance	| Feasibility |
+|--- 									|--- 	|--- |
+|create an online presence			|5		|5 |
+|add subscribers to email list	|5		|4 |
+|get commissioned					|5		|5 |
+|direct users to Substack			|5		|5 |
+|have users download ebook			|2		|5 |
+|~~direct users to Gender blog~~	|3		|3 |
+
+##### Current stage
+
+Due to some deliverables not being completed by the release date of the 1st version of the website (14th
+
+- to create an online presence specifically for this workshop
+- add subscribers to his email list
+- *have potential customers book a meeing with the client*
+- have universities commission him for the workshop
+- ~~direct users to Substack~~
+- *direct users to the client's blog on Open Access Publishing*
+- ~~have users download the client's ebook on Academic Publishing~~
+- ~~direct users to the client's blog on Gender Bias~~
+
+The importance/feasibility matrix was determined as follows:
+
+ **Updated Importance/Feasibility matrix** (5: most, 1: least, ~~not included in release~~, *new goal*)
+
+
+|Goal							|Importance	| Feasibility |
+|--- 									|--- 	|--- |
+|create an online presence			|5		|5 |
+|add subscribers to email list	|5		|4 |
+|*have users book meetings*		|5		|5 |
+|get commissioned					|5		|5 |
+|~~direct users to Substack~~		|5		|1 |
+|direct users to Publishing blog	|3		|5 |
+|~~have users download ebook~~	|2		|1 |
+|direct users to Gender blog		|3		|1 |
+
 #### First-time visitor goals
 
 #### Returning visitor goals
