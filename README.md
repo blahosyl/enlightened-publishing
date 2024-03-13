@@ -167,18 +167,13 @@ The color scheme is inspired by the client's background in Norway, most notably,
 
 Color arrangement inspiration: [https://youpreneur.com/](https://youpreneur.com/)
 
-2 salient colors (#9FFFCB  and #004e64) combined with white, gray (#537D88) and dark gray (#3C5158). 
+2 salient colors (#9FFFCB  and #004e64) combined with white and gray (#537D88). A 5th color, a darker shade of gray was introduced during accessibility testing (see the [Accessibility testing](#accessibility-testing) section for more detail). 
 
-Contrast between 2 salient colors: 7.75:1 ([WebAIM](https://webaim.org/resources/contrastchecker/))
+This resulted in the following color palette.
 
-Light and dark gray: 7.02:1
-Dark and white: 9.23:1
-Dark gray and white: 4.5:1 (only used for large text)
-Gray and light: 3.78:1 (only used for graphical objects)
+![Color palette]()
 
-<!--TODO: decide if we wanna introduce a 3rd salient color, like the green accents on hover-->
-
-Color variables were used instead of hard-coding colors for each element, so that the overall color scheme can easily be modified in the future if needed. This was based on the [W3Schools tutorial on variables](https://www.w3schools.com/css/css3_variables.asp), a resource pointed out by my mentor.
+Color variables were used instead of hard-coding colors for each element, so that the overall color scheme can easily be modified in the future if needed. This was based on the [W3Schools tutorial on variables](https://www.w3schools.com/css/css3_variables.asp), a resource pointed out by my mentor. This design also enabled me to easily and quickly make adjustments to the color scheme during accessibility testing (see the [Accessibility testing](#accessibility-testing) section for more detail).
 
 ### Flow
 
@@ -373,7 +368,14 @@ As a consequence of designing for an older and more straightforward-minded demog
 These elements tend to cause problems for a variety of users (e.g. those with visual impairment, executive functioning impairments, vertigo, etc.), so steering clear of these chimes in perfectly with accessibility goals.
 
 
-aria labels, alt text, colour scheme, font choices
+aria labels, 
+
+alt text, 
+
+
+colour scheme, 
+
+font choices
 
 External links open in a new tab.
 
@@ -498,6 +500,15 @@ The links to the client's social media accounts open in a new tab.
 ### Accessibility testing
 Wave
 Web Disability Simulator
+
+Contrast between 2 salient colors: 7.75:1 ([WebAIM](https://webaim.org/resources/contrastchecker/))
+
+Light and dark gray: 7.02:1
+Dark and white: 9.23:1
+Dark gray and white: 4.5:1 (only used for large text)
+Gray and light: 3.78:1 (only used for graphical objects)
+
+
 
 ### Bugs
 
