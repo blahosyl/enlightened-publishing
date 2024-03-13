@@ -161,6 +161,25 @@ As detailed in the [UX section](#user-experience), the target audience for this 
 
 This aligns perfectly with accessibility considerations, as detailed in the [Accessibility](#accessibility) section.
 
+### Color scheme
+
+The color scheme is inspired by the client's background in Norway, most notably, in the arctic town of [Tromsø](https://www.visitnorway.com/places-to-go/northern-norway/tromso/), which experiences a 2-month-long polar night without the sun rising, and spectacular displays of [northern lights](https://arcticexplorers.no/northern-lights).
+
+Color arrangement inspiration: [https://youpreneur.com/](https://youpreneur.com/)
+
+2 salient colors (#9FFFCB  and #004e64) combined with white, gray (#537D88) and dark gray (#3C5158). 
+
+Contrast between 2 salient colors: 7.75:1 ([WebAIM](https://webaim.org/resources/contrastchecker/))
+
+Light and dark gray: 7.02:1
+Dark and white: 9.23:1
+Dark gray and white: 4.5:1 (only used for large text)
+Gray and light: 3.78:1 (only used for graphical objects)
+
+<!--TODO: decide if we wanna introduce a 3rd salient color, like the green accents on hover-->
+
+Color variables were used instead of hard-coding colors for each element, so that the overall color scheme can easily be modified in the future if needed. This was based on the [W3Schools tutorial on variables](https://www.w3schools.com/css/css3_variables.asp), a resource pointed out by my mentor.
+
 ### Flow
 
 The client heavily preferred a continuous website rather than separate clickable pages, citing results that show that user engagement drastically decreases after each time a user has to click.
@@ -175,11 +194,16 @@ To ease navigation, the header remains visible throughout.
 
 ### Problems & Solutions section
 
+
 #### Colors and images
 
-The Problems subsection features a dark color scheme, grayscale images with a dark tint, and images suggesting overwhelm.
+This section is distinguished from other parts of the site by a gray background color, which remains consistent throughout the section. 
 
-The Solutions subsection has a bright colored background and color images that are only slightly tinted with the same bright color.
+The two subsections comprising the section are visually distinguished from each other by the coloring of the contentful elements (text+image boxes, as described in [Layout](#layout) below).
+
+The **Problems** subsection features a dark color scheme, grayscale images with a dark tint, and images suggesting overwhelm. This alludes to long dark arctic nights, a parrallel to the seemingly hopeless endevour of navigating the intricacies of academic publishing.
+
+The **Solutions** subsection has a bright colored background and full-color images that are only slightly tinted with the same bright color. These suggest the image of northern lights in the dark night sky, evoking feelings of brightness and hope.
 
 #### Layout
 
@@ -187,7 +211,7 @@ Each subsection consists of 2 text boxes, each with an accompanying image. The t
 
 For the side-by-side arrangement, every second image-text pair is reversed, so that the image appears alternately on the left and the right side of the image.
 
-In the Problems section, the cut-off point between the image and text is at the same place. In the Solutions section, the text/image width ration is the same in the two boxes. Both arrangements create a similar but subtly different symmetry. 
+In the **Problems** subsection, the cut-off point between the image and text is at the same place. In the **Solutions** subsection, the text/image width ration is the same in the two boxes. Both arrangements create a similar but subtly different symmetry. 
 
 ### About/Credentials section
 
@@ -207,25 +231,6 @@ The Calendly widget is integrated into the site, and styled in alignment and col
 
 contact links to the client's social media profiles.
 
-
-### Color scheme
-
-Palette: Arctic, northern lights
-
-Color arrangement inspiration: [https://youpreneur.com/](https://youpreneur.com/)
-
-2 salient colors (#9FFFCB  and #004e64) combined with white, gray (#537D88) and dark gray (#3C5158). 
-
-Contrast between 2 salient colors: 7.75:1 ([WebAIM](https://webaim.org/resources/contrastchecker/))
-
-Light and dark gray: 7.02:1
-Dark and white: 9.23:1
-Dark gray and white: 4.5:1 (only used for large text)
-Gray and light: 3.78:1 (only used for graphical objects)
-
-<!--TODO: decide if we wanna introduce a 3rd salient color, like the green accents on hover-->
-
-Color variables were used instead of hard-coding colors for each element, so that the overall color scheme can easily be modified in the future if needed. This was based on the [W3Schools tutorial on variables](https://www.w3schools.com/css/css3_variables.asp), a resource pointed out by my mentor.
 
 ### Imagery
 
