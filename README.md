@@ -262,7 +262,11 @@ In the **Problems** subsection, the cut-off point between the image and text is 
 
 ### About/Credentials section design
 
-This section details the relevant past experience of the client. After a hero image and a short introductory text, the different jobs/positions/experiences are presented in a responsive grid. By default, only the institution and position title is visible; details are uncovered on tap (mobile, tablet) or hover (laptop/desktop).
+This section details the relevant past experience of the client. Since the client is an accomplished scholar and university leader with decades of experience, visual cues and user interaction elements were used to break up the information into digestible chunks to avoid overwhelm.
+
+Leaning into the visual separation of the different sections of the website, this section features a bright background with the mint salient color (#9FFFCB), and a colorful hero image (modified to fit the site's color scheme) with the client's name and tagline.
+
+In the next part of the section, after a short introductory text summarising the client's relevant experience, the different jobs/positions/experiences are presented in a responsive grid (based on the [Love Running Project](https://github.com/Code-Institute-Solutions/love-running-v3/)). By default, only the institution and position title is visible; details are uncovered on tap (mobile, tablet) or hover (laptop/desktop). This keeps information easy to take in at a glance, but interested users can also find out more.
 
 ### Contact section design
 
@@ -340,7 +344,7 @@ Because the header houses the most important site navigation elements, it is alw
 
 ### Problems & Solutions section
 
-### About section
+### About/Credentials section
 
 #### Credential cards
 
@@ -608,7 +612,7 @@ The books favicon comes from [Favicon.io](https://favicon.io/emoji-favicons/book
 
 [`#presentation`](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/presentation.webp) image in the Problems & Solutions section by [Benjamin Ward](https://www.benjaminward.no/), provided by the client, modified to reduce optical noise (with permission) by Peter Litauszki.
 
-[Client image](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/curtrice-green-2.webp) in the About section by [Benjamin Ward](https://www.benjaminward.no/),  provided by the client, colors modified to fit the site's color scheme  (with permission) by Peter Litauszki.
+[Client image](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/curtrice-green-2.webp) in the About/Credentials section by [Benjamin Ward](https://www.benjaminward.no/),  provided by the client, colors modified to fit the site's color scheme  (with permission) by Peter Litauszki.
 
 #### Videos
 
