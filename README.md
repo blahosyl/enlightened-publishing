@@ -709,6 +709,7 @@ The embedded video does not start auto-playing.
 - [Google Meet](https://meet.google.com/) – client communication
 - [GrayScaleImage](https://www.grayscaleimage.com/)
 - [Lipsum](https://www.lipsum.com/), [loremipsum.io](https://loremipsum.io/) – Lorem Ipsum generators (not used in final version)
+- [MacDown](https://macdown.uranusjr.com/) – Markdown editor
 - [Pixelied](https://pixelied.com/convert/jpg-converter/jpg-to-webp) – `jpg` to `webp` converter
 - [Preview](https://support.apple.com/guide/preview/welcome/mac) – cropping images
 - [Slack](https://slack.com/) – client communication
