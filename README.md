@@ -470,37 +470,37 @@ The parallels between the two elements aid in the recognition of functionalities
 
 
 ### Wireframes
+Wireframes were prepared using [Balsamiq](https://balsamiq.com/).
 
-<details>
-<summary>Wireframe for mobile | Problems & Solutions section</summary>
+Wireframe for mobile | Problems & Solutions section
+
 ![Wireframe mobile | Problems & Solutions section](readme-pics/wireframes/wireframe-mobile-p-s.png)
-</details>
 
-<details>
-<summary>Wireframe for mobile | About/Credentials section</summary>
+
+Wireframe for mobile | About/Credentials section
+
 ![Wireframe mobile | About/Credentials section](readme-pics/wireframes/wireframe-mobile-about.png)
-</details>
 
-<details>
-<summary>Wireframe for mobile | Contact section</summary>
+
+Wireframe for mobile | Contact section
+
 ![Wireframe mobile | Contact section](readme-pics/wireframes/wireframe-mobile-contact.png)
-</details>
 
-<details>
-<summary>Wireframe for laptop | Problems & Solutions section</summary>
+
+Wireframe for laptop | Problems & Solutions section
+
 ![Wireframe laptop | Problems & Solutions section](readme-pics/wireframes/wireframe-laptop-p-s.png)
-</details>
 
-<details>
-<summary>Wireframe for laptop | About/Credentials section</summary>
+
+Wireframe for laptop | About/Credentials section
+
 ![Wireframe laptop | About/Credentials section](readme-pics/wireframes/wireframe-laptop-about.png)
-</details>
 
 
-<details>
-<summary>Wireframe for laptop | Contact section</summary>
+Wireframe for laptop | Contact section
+
 ![Wireframe laptop | Contact section](readme-pics/wireframes/wireframe-laptop-contact.png)
-</details>
+
 
 
 ## Features
