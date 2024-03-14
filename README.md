@@ -14,6 +14,10 @@ Developer: [Dr. Sylvia Blaho](https://www.linkedin.com/in/blahosylvia/)
 
 [View the deployed page on Github Pages](https://blahosyl.github.io/academic-publishing/)
 
+![GitHub last commit](https://img.shields.io/github/last-commit/blahosyl/academic-publishing?color=red)
+![GitHub contributors](https://img.shields.io/github/contributors/blahosyl/academic-publishing?color=orange)
+![GitHub language count](https://img.shields.io/github/languages/count/blahosyl/academic-publishing?color=black)
+
 ## Contents
 
 <details>
