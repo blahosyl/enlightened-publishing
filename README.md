@@ -414,7 +414,7 @@ The first part of the section introduces the client, showing a full-width pictur
 
 #### Credential cards
 
-![The Why me? image is responsive](testing/responsivity/amiresponsive-cards.png)
+![The credential cards are responsive](testing/responsivity/amiresponsive-cards.png)
 
 The client's relevant experience is displayed on individual cards to avoid creating a large block of text and break up the information into smaller, digestible pieces.
 
@@ -429,13 +429,25 @@ In accordance with my mentor's suggestion, I have added explicit text to tap or 
 
 #### Video
 
-![The Why me? image is responsive](testing/responsivity/amiresponsive-video.png)
+![The video is responsive](testing/responsivity/amiresponsive-video.png)
 
 
 The last element of the section is a video of the client giving a recorded talk in front of an audience. This provides a more hands-on proof of his speaker capabilities.
 
 
 ### Contact section
+
+The contact section features two ways of getting in contact with the client: the [Calendly widget](#calendly-widget) and the [contact form](#contact-form).
+
+#### Calendly widget
+
+![The Calendly widget is responsive](testing/responsivity/amiresponsive-calendly.png)
+
+
+#### Contact form
+
+![The Contact form is responsive](testing/responsivity/amiresponsive-contact.png)
+
 
 ### Footer
 
