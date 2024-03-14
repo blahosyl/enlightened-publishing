@@ -848,7 +848,7 @@ The video below demonstrates the responsivity of the site: the arrangement of el
 
 The video below demonstrates how certain elements of the site respond to hover: (click to play):
 
-[Hover test]()
+[Hover test](https://github.com/blahosyl/academic-publishing/assets/26421503/96046ca8-a395-40c3-aabe-87d29e6e71f6)
 
 ##### Header
 
