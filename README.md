@@ -367,8 +367,6 @@ The nav bar is responsive to the type of device the site is viewed on: it appear
 
 This functionality is based on the nav bar implementation of the [Love Running Project](https://github.com/Code-Institute-Solutions/love-running-v3/). However, instead of expanding the nav bar and putting the nav elements under the logo, I have chosen to have them appear right under the hamburger icon, so that the user action (tapping the hamburger icon) and the result (the nav elements appearing) is closer together.
 
-<img src="testing/responsivity/hamburger.png" alt="The "hamburger" navigation functionality" width="200"/>
-
 ![The "hamburger" navigation functionality](testing/responsivity/amiresponsive-hamburger.png)
 
 On larger screens, the navigation bar shows the links to the 3 main sections of the site side by side. 
