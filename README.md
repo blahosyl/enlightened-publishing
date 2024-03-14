@@ -894,7 +894,7 @@ The video below demonstrates the following features of the header elements (clic
 - the links in the footer change color on hover
 - the links to the client's social media accounts open in a new tab.
 
-[Footer test]()
+[Footer test](https://github.com/blahosyl/academic-publishing/assets/26421503/02cdd8aa-88c1-4ba9-aa47-b26ba32be44a)
 
 ### Accessibility testing
 
