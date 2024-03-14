@@ -314,7 +314,7 @@ To ease navigation, the header remains visible throughout.
 
 #### Hero image
 
-The [hero image](assets/images/hero-img-small.webp) shows an arctic landsape with mountains, water, snow, and northern lights. It alludes to the client's professional background in Norway. The northern lights evoke a sense of awe and hope (light in the darkness).
+The [hero image](assets/images/hero-img-small.webp) shows an arctic landscape with mountains, water, snow, and northern lights. It alludes to the client's professional background in Norway. The northern lights evoke a sense of awe and hope (light in the darkness).
 
 ![Hero image](assets/images/hero-img-small.webp)
 
@@ -324,7 +324,7 @@ The [hero image](assets/images/hero-img-small.webp) shows an arctic landsape wit
 
 The **Problems** subsection features grayscale images tinted dark with one of the main colors of the website. 
 
-The [first image](assets/images/lots-of-paper-grayscale.webp) shows a huge pile of papers stacked in a haphazard fashion, symbolising the large amout of academic publications on the one hand, and the multitude of journals and publishers on the other hand.
+The [first image](assets/images/lots-of-paper-grayscale.webp) shows a huge pile of papers stacked in a haphazard fashion, symbolizing the large amount of academic publications on the one hand, and the multitude of journals and publishers on the other hand.
 
 ![Problems section image 1](assets/images/lots-of-paper-grayscale.webp)
 
@@ -339,7 +339,7 @@ The [second image](assets/images/frustrated-grayscale.webp)
 
 The Solutions subsection features colored images, only slightly tinted with the website's light main color.
 
-The [first image](assets/images/library.webp) shows a modern, spacious, brightly lit library, symbolising a more open and more efficient future to come. This picture also illustrates the multitude of information and aptitudes that can be acquired during this workshop.
+The [first image](assets/images/library.webp) shows a modern, spacious, brightly lit library, symbolizing a more open and more efficient future to come. This picture also illustrates the multitude of information and aptitudes that can be acquired during this workshop.
 
 ![Solutions section image 1](assets/images/library.webp)
 
@@ -358,7 +358,7 @@ The second and third parts of this section have a lot of interactivity (flip car
 
 #### Contact section imagery
 
-The **Contact** section does not feature any images. This is a conscious choice to adhere to minimalism and simplicity: as this section has the most interactive elements (the Calendly widget and the email contact form), I wanted to minimise user distractions while interacting with these.
+The **Contact** section does not feature any images. This is a conscious choice to adhere to minimalism and simplicity: as this section has the most interactive elements (the Calendly widget and the email contact form), I wanted to minimize user distractions while interacting with these.
 
 ### Header design
 
@@ -419,7 +419,7 @@ The image of this section is full width, with the text on the image changing pos
 ![About/Credentials section image design](testing/responsivity/amiresponsive-why-me.png)
 
 
-The image is followed by a short introductory text summarising the client's relevant experience, the different jobs/positions/experiences are presented in a responsive grid (based on the [Love Running Project](https://github.com/Code-Institute-Solutions/love-running-v3/)). By default, only the institution and position title is visible; details are uncovered on tap (mobile, tablet) or hover (laptop/desktop). This keeps information easy to take in at a glance, but interested users can also find out more.
+The image is followed by a short introductory text summarizing the client's relevant experience, the different jobs/positions/experiences are presented in a responsive grid (based on the [Love Running Project](https://github.com/Code-Institute-Solutions/love-running-v3/)). By default, only the institution and position title is visible; details are uncovered on tap (mobile, tablet) or hover (laptop/desktop). This keeps information easy to take in at a glance, but interested users can also find out more.
 
 ![Credential cards design](testing/responsivity/amiresponsive-cards.png)
 
@@ -582,7 +582,7 @@ The cards are arranged in a responsive grid using Flexbox, similarly to the "run
 
 Additionally, the information within each card is divided into 2, and presented as a result of user interaction:
 
-- By default, each card shows the name of the institution/organisation, the position the client held there. 
+- By default, each card shows the name of the institution/organization, the position the client held there. 
 - When the user taps or hovers over a card (depending on the type of device used), this information is replaced by a more detailed description of the client's experience. 
 
 In accordance with my mentor's suggestion, I have added explicit text to tap or hover for more information. I have decided to add this text to each card rather than just adding it once above the card block, because I consider it better for accessibility. The tap/hover text is also visually different from the rest of the text on the card, to make the functionality more explicit.
@@ -672,9 +672,9 @@ The content of the site is structured with semantic tags, and Aria labels are us
 
 Alt text is used for embedded visual elements.
 
-The colour scheme was designed to ensure sufficient contrast for legibility, and modified where necessary to ensure that color combinations meet [WCAG AAA](https://ialabs.ie/what-is-the-difference-between-wcag-a-aa-and-aaa/) standards (see the [Accessibility testing](#accessibility-testing) section for more detail).
+The color scheme was designed to ensure sufficient contrast for legibility, and modified where necessary to ensure that color combinations meet [WCAG AAA](https://ialabs.ie/what-is-the-difference-between-wcag-a-aa-and-aaa/) standards (see the [Accessibility testing](#accessibility-testing) section for more detail).
 
-The font choices verge on the conservative side, prioritising legibility over eccentricity.
+The font choices verge on the conservative side, prioritizing legibility over eccentricity.
 
 External links open in a new tab.
 
@@ -791,7 +791,7 @@ In the current version of the site, no errors or warnings were found during vali
 
 The  `css` file of the project was regularly tested by [Jigsaw](https://jigsaw.w3.org/css-validator/). The issues discovered during validation are tracked in [GitHub Issues](https://github.com/blahosyl/academic-publishing/issues).
 
-In the current version of the site, no errors or warning were found during validation.
+In the current version of the site, no errors or warnings were found during validation.
 
 
 ![CSS: no issues or warnings](readme-pics/css-validation.png)
@@ -912,7 +912,7 @@ For visual illustrations of how individual features work (and *that* they work a
 
 ##### Devices
 
-The website was tested on all emulators available on Chrome Delevoper tools. In addition, it was tested on the following devices:
+The website was tested on all emulators available on Chrome Developer tools. In addition, it was tested on the following devices:
 
  - iPhone 12 Pro, iOS 17.2.1
  - iPad Pro, iPadOS 17.3.1 
@@ -998,7 +998,7 @@ The video below demonstrates the following features of the header elements (clic
 
 #### Automated accessibility testing
 
-The website was audited for accessibility using Lightouse. The results and fixes of the test are detailed in [Issue #19](https://github.com/blahosyl/academic-publishing/issues/19).
+The website was audited for accessibility using Lighthouse. The results and fixes of the test are detailed in [Issue #19](https://github.com/blahosyl/academic-publishing/issues/19).
 
 The site in its current form has an accessibility score of 100 for both [mobile](testing/lighthouse/mobile/accessibility-report-mobile.html) and [desktop](testing/lighthouse/desktop/accessibility-report-desktop.html).
 
