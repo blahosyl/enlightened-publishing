@@ -417,15 +417,15 @@ Because the site is a continuous one, rather than consisting of separate `html` 
 
 ### Hero section
 
-![The Problems & Solutions section is responsive](testing/responsivity/amiresponsive-start.png)
-
 This section features the hero image, defining the feel and color scheme of the website, as well as the main tagline of the project.
+
+![Hero section is responsive](testing/responsivity/amiresponsive-start.png)
 
 ### Problems & Solutions section
 
-![The Problems & Solutions section is responsive](testing/responsivity/amiresponsive-p-s.png)
-
 This section features descriptions of the issues the client is trying to solve, and the means to solve them. The information is displayed in responsive boxes containing a block of text and an image each.
+
+![The Problems & Solutions section is responsive](testing/responsivity/amiresponsive-p-s.png)
 
 
 ### About/Credentials section
@@ -435,14 +435,11 @@ This section provides information to visitors about the client's professional ex
 
 #### Credentials image and tagline
 
-![The Why me? image is responsive](testing/responsivity/amiresponsive-why-me.png)
-
 The first part of the section introduces the client, showing a full-width picture, his name, tagline and basic professional information.
 
+![The Why me? image is responsive](testing/responsivity/amiresponsive-why-me.png)
 
 #### Credential cards
-
-![The credential cards are responsive](testing/responsivity/amiresponsive-cards.png)
 
 The client's relevant experience is displayed on individual cards to avoid creating a large block of text and break up the information into smaller, digestible pieces.
 
@@ -455,13 +452,13 @@ Additionally, the information within each card is divided into 2, and presented 
 
 In accordance with my mentor's suggestion, I have added explicit text to tap or hover for more information. I have decided to add this text to each card rather than just adding it once above the card block, because I consider it better for accessibility. The tap/hover text is also visually different from the rest of the text on the card, to make the functionality more explicit.
 
+![The credential cards are responsive](testing/responsivity/amiresponsive-cards.png)
+
 #### Video
-
-![The video is responsive](testing/responsivity/amiresponsive-video.png)
-
 
 The last element of the section is a video of the client giving a recorded talk in front of an audience. This provides a more hands-on proof of his speaker capabilities.
 
+![The video is responsive](testing/responsivity/amiresponsive-video.png)
 
 ### Contact section
 
@@ -479,15 +476,13 @@ The contact section features two ways of getting in contact with the client: the
 
 ### Footer
 
-![The footer is responsive](testing/responsivity/amiresponsive-footer.png)
-
 The footer contains links to the client's social media accounts (LinkedIn, Twitter/X and his blog), as well as the copyright information for the site. These are visually separated by different background colors for additional ease of navigation. The arrangement of footer icons is also responsive.
 
 The navigation links in the footer consist of universally recognisable icons. These change color on hover on devices with pointer capabilities (e.g. mouse or trackpad). This implementation is based on the [Love Running Project](https://github.com/Code-Institute-Solutions/love-running-v3/).
 
-![The footer links change color on hover]()
-
 Contrary to other links on the site, the footer links are not underlined, as this would be very unusual for the icons used.
+
+![The footer is responsive](testing/responsivity/amiresponsive-footer.png)
 
 Since the footer links point to external resources, they open in a new tab.
 
