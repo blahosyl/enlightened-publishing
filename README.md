@@ -273,9 +273,15 @@ The header embodies the goals of minimalism in design: only uses the 2 hero colo
 
 For highlighting active links on hover, white is used – again, choosing the simplest possible option to keep the page uncluttered.
 
+![Header design](testing/responsivity/amiresponsive-header.png)
+
+
 ### Hero image design
 
 The hero image features the main tagline of the project with the mint salient color on a slightly transparent dark gray background, centered. This ensures the legibility of the tagline at the same time as letting the hero image shine.
+
+![Hero section design](testing/responsivity/amiresponsive-start.png)
+
 
 ### Problems & Solutions section design
 
@@ -298,6 +304,9 @@ For the side-by-side arrangement, every second image-text pair is reversed, so t
 
 In the **Problems** subsection, the cut-off point between the image and text is at the same place. In the **Solutions** subsection, the text/image width ration is the same in the two boxes. Both arrangements create a similar but subtly different symmetry. 
 
+![Problems & Solutions section design](testing/responsivity/amiresponsive-p-s.png)
+
+
 ### About/Credentials section design
 
 This section details the relevant past experience of the client. Since the client is an accomplished scholar and university leader with decades of experience, visual cues and user interaction elements were used to break up the information into digestible chunks to avoid overwhelm.
@@ -314,10 +323,16 @@ The image of this section is full width, with the text on the image changing pos
 - tablet: full height, on the right hand side of the image, extending to the right end
 - laptop/desktop: full height, on the right hand side of the image, with some space on the rightmost end of the image
 
+![About/Credentials section image design](testing/responsivity/amiresponsive-why-me.png)
+
 
 The image is followed by a short introductory text summarising the client's relevant experience, the different jobs/positions/experiences are presented in a responsive grid (based on the [Love Running Project](https://github.com/Code-Institute-Solutions/love-running-v3/)). By default, only the institution and position title is visible; details are uncovered on tap (mobile, tablet) or hover (laptop/desktop). This keeps information easy to take in at a glance, but interested users can also find out more.
 
+![Credential cards design](testing/responsivity/amiresponsive-cards.png)
+
 The last item in the section is a YouTube video of the client giving a talk. This gives the opportunity for users to see the client presenting to a larger group.
+
+![Video design](testing/responsivity/amiresponsive-video.png)
 
 ### Contact section design
 
@@ -333,9 +348,13 @@ The [footer](#footer) has additional contact links to the client's social media 
 
 The Calendly widget is integrated into the site, and styled in alignment and color. In larger screens, there is an a white margin around the calendar element, which disappears on smaller screens. To keep the widget distinct, I have added a white border to it for smaller screens. Users can view the client's available meeting times and set up a meeting with an automatic [Google Meet](https://meet.google.com/) link using the widget.
 
+![Calendly widget design](testing/responsivity/amiresponsive-calendly.png)
+
 The second part of this section contains the contact form, where users can submit their name, email address and workshop preferences to the client. 
 For the present implementation, this is set up to result in the Code Institute confirmation screen rather than connected to the client's CRM (Customer Relationship Management) system, so that the Code Insitute assessors can easily evaluate the functionality of the form.
 For the public launch (planned for May 2024), this will be changed so that the client will receive these data in his CRM system.
+
+![Contact form design](testing/responsivity/amiresponsive-contact.png)
 
 
 ### Footer design
@@ -349,6 +368,8 @@ As the footer is intended to be less salient than the header, the footer backgro
 To round out the parallels between the footer and the header, the same color-changing hover effect is used on the links in both elements.
 
 The parallels between the two elements aid in the recognition of functionalities, and reduce cognitive load.
+
+![Footer design](testing/responsivity/amiresponsive-footer.png)
 
 ### Typography
 
