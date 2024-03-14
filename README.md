@@ -439,9 +439,9 @@ The last element of the section is a video of the client giving a recorded talk 
 
 ### Footer
 
-The footer contains links to the client's social media accounts (LinkedIn, Twitter/X and his blog), as well as the copyright information for the site. These are visually separated by different background colors for additional ease of navigation.
+![The footer is responsive](testing/responsivity/amiresponsive-footer.png)
 
-![The footer consists of two visually separate parts]()
+The footer contains links to the client's social media accounts (LinkedIn, Twitter/X and his blog), as well as the copyright information for the site. These are visually separated by different background colors for additional ease of navigation. The arrangement of footer icons is also responsive.
 
 The navigation links in the footer consist of universally recognisable icons. These change color on hover on devices with pointer capabilities (e.g. mouse or trackpad). This implementation is based on the [Love Running Project](https://github.com/Code-Institute-Solutions/love-running-v3/).
 
