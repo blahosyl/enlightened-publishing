@@ -454,17 +454,6 @@ On larger screens, the navigation bar shows the links to the 3 main sections of 
 
 On devices with pointer capabilities (e.g. mouse or trackpad), the links in the navigation bar change color when hovered over.
 
-The video below demonstrates the following features of the header elements (click to play):
-
-- the header is sticky
-- header links change color when hovered over
-- nav bar links take the user to the respective section on click
-- header link takes the user to the top of the page on click
-
-
-[![Links in nav bar change color on hover](https://github.com/blahosyl/academic-publishing/assets/26421503/4481c59f-215e-438e-9f2e-8e98b9919d81)](https://github.com/blahosyl/academic-publishing/assets/26421503/443c93cf-cc10-4c38-b485-6271dd78a6b4
-)
-
 Because the site is a continuous one, rather than consisting of separate `html` files, there is no highlighting of the current section the user is in in the nav bar. To offset this, color schemes are used to indicate different sections (see the [Design](#design) section for more details).
 
 
@@ -849,9 +838,63 @@ The site was tested on the following browsers:
 - Microsoft Edge
 - Opera
 
+##### Responsivity
+
+The video below demonstrates the responsivity of the site: the arrangement of elements changes along with the viewport size change (click to play):
+
+[Responsivity test]()
+
+##### Hover effects
+
+The video below demonstrates how certain elements of the site respond to hover: (click to play):
+
+[Hover test]()
+
+##### Header
+
+The video below demonstrates the following features of the header elements (click to play):
+
+- the header is sticky
+- header links change color when hovered over
+- nav bar links take the user to the respective section on click
+- header link takes the user to the top of the page on click
+
+
+[![Header test](https://github.com/blahosyl/academic-publishing/assets/26421503/4481c59f-215e-438e-9f2e-8e98b9919d81)](https://github.com/blahosyl/academic-publishing/assets/26421503/443c93cf-cc10-4c38-b485-6271dd78a6b4)
+
+
+##### Contact form
+
+The video below demonstrates the following features of the contact form (click to play):
+
+- the **Name** field is required
+- the **Email** field is required
+- the **Email** field requires the input to contain an @ symbol with characters before and after it
+- the radio button choice is
+- the form is correctly set up and sends the entered information to the Code Institute infrastructure
+
+[Contact form test]()
+
+##### Calendly widget
+
+The video below demonstrates the following features of the  Calendly widget (click to play):
+
+- users can see the available meeting slots of the client
+- users can select a time slot
+- users can enter their name, email address and additional information
+- users can book a meeting with an automatic Google Meet link
+
+[Calendly test]()
+
+
 ##### Footer
 
-The links to the client's social media accounts open in a new tab.
+The video below demonstrates the following features of the header elements (click to play):
+
+- the links in the footer change color on hover
+- the links to the client's social media accounts open in a new tab.
+
+[Footer test]()
 
 ### Accessibility testing
 
