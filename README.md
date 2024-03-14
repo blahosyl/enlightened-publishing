@@ -186,11 +186,21 @@ A 5th color, a darker shade of gray, was introduced during accessibility testing
 
 This resulted in the following color palette.
 
-![Color palette]()
+![Color palette](readme-pics/color-palette.png)
 
 Color variables were used instead of hard-coding colors for each element, so that the overall color scheme can easily be modified in the future if needed. 
 This was based on the [W3Schools tutorial on variables](https://www.w3schools.com/css/css3_variables.asp), a resource pointed out by my mentor. 
 This design also enabled me to easily and quickly make adjustments to the color scheme during accessibility testing (see the [Accessibility testing](#accessibility-testing) section for more detail).
+
+The color variable names used in the project are as follows:
+
+| color name | HEX code |
+|---			|---		|
+| dark|  #004E64| 
+| white|  #FFFFFF| 
+| light|  #9FFFCB| 
+| gray|  #537D88| 
+| dark-gray|  #3C5158|
 
 ### Flow
 
@@ -645,6 +655,10 @@ The [WebAIM](https://webaim.org/resources/contrastchecker/) was used to ensure t
 In the instances where this was not the case, the colors themselves or their arrangement was changed to ensure that accessibility standards are met. Related issues are [#47](https://github.com/blahosyl/academic-publishing/issues/47) and [#19](https://github.com/blahosyl/academic-publishing/issues/19).
 
 The resulting color scheme is as follows:
+
+![Color palette](readme-pics/color-palette.png)
+
+The color variable names used in the project are as follows:
 
 | color name | HEX code |
 |---			|---		|
