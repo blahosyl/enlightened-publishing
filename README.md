@@ -706,8 +706,10 @@ The embedded video does not start auto-playing.
 - [GitHub web editor](https://github.com/) - the only way (known to me) to add videos to the README
 - [GitPod](https://gitpod.io/) – Integrated Development Environment (not really used for this project)
 - Google Developer Tools – troubleshoot, test responsivity and styling
+- [Google Docs](https://docs.google.com/) – edit text copy provided by client
 - [Google Fonts](https://fonts.google.com/) - import fonts used on the website
 - [Google Meet](https://meet.google.com/) – client communication
+- [Google Sheets](https://sheets.google.com/) – prepare Importance/Feasibility matrix and Features/Releases table
 - [GrayScaleImage](https://www.grayscaleimage.com/)
 - [Lipsum](https://www.lipsum.com/), [loremipsum.io](https://loremipsum.io/) – Lorem Ipsum generators (not used in final version)
 - [MacDown](https://macdown.uranusjr.com/) – Markdown editor
