@@ -487,10 +487,26 @@ The contact section features two ways of getting in contact with the client: the
 
 #### Calendly widget
 
+The widget enables users to schedule a video meeting with the client. It uses JavaScript, which is provided by Calendly. The widget is styled to fit the color scheme and responsive layout of the site.
+
 ![The Calendly widget is responsive](testing/responsivity/amiresponsive-calendly.png)
 
 
 #### Contact form
+
+The contact form enables users to submit their name, email address and workshop preferences to find out more about the client's offering. 
+
+>[!NOTE]
+> To facilitate assessment of this project, the contact form is not connected to the client's email system in its current implementation, but rather to Code Institute form testing capabilities.
+
+The **name** and **email** fields are text input fields, while the workshop preferences are registere by using radio buttons. 
+All 3 of these are required, and the user is advised to fill these in correctly when clicking the **Send** button.
+
+In addition, the email field requires the presence of an **@** symbol, as well as some characters before and after the symbol.
+
+These are the built-in capabilities of the `form` HTML element family.
+
+The contact form is styled to fit the color scheme and responsive layout of the site.
 
 ![The Contact form is responsive](testing/responsivity/amiresponsive-contact.png)
 
@@ -580,8 +596,6 @@ The embedded video does not start auto-playing.
 - [Lipsum](https://www.lipsum.com/), [loremipsum.io](https://loremipsum.io/) – Lorem Ipsum generators (not used in final version)
 - [Pixelied](https://pixelied.com/convert/jpg-converter/jpg-to-webp) – `jpg` to `webp` converter
 - [Preview](https://support.apple.com/guide/preview/welcome/mac) – cropping images
-- <!--Shields.io – add badges to README
--->
 - [Slack](https://slack.com/) – client communication
 - [TinyPNG](https://tinypng.com/) – compress images
 - [WebAIM](https://webaim.org/resources/contrastchecker/) – color contrast checking
