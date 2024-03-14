@@ -596,6 +596,8 @@ The site was deployed on GitHub pages using the steps below. You can follow the 
 W3C validator
 Lighthouse
 
+The details of the Lighthouse accessibility audit are found in [Issue #19](https://github.com/blahosyl/academic-publishing/issues/19).
+
 ### Manual testing
 Testing user stories
 Full testing of functionalities
@@ -610,8 +612,11 @@ The website was tested on all emulators available on Chrome Delevope tools. In a
  - iPhone 15 Pro, iOS 17.3.1
  - iPhone 13 mini, iOS 17.13.1
  - Huawei P30, Android
- - Macbook Air M2
- - Macbook Air M1
+ - Lenovo10 tablet, Android
+ - Macbook Air M2, Mac OS Sonoma 14.3.1 
+ - Macbook Air M1, Mac OS Sonoma 14.3.1 
+
+ Additional screen shots from the tested devices can be found in the [devices folder](testing/devices/).
  
 #### Browsers
 
@@ -623,21 +628,41 @@ The site was tested on the following browsers:
 - Microsoft Edge
 - Opera
 
-####Footer
+#### Footer
 
 The links to the client's social media accounts open in a new tab.
 
 ### Accessibility testing
-Wave
-Web Disability Simulator
 
-Contrast between 2 salient colors: 7.75:1 ([WebAIM](https://webaim.org/resources/contrastchecker/))
+#### Automated accessibility testing
 
-Light and dark gray: 7.02:1
-Dark and white: 9.23:1
-Dark gray and white: 4.5:1 (only used for large text)
-Gray and light: 3.78:1 (only used for graphical objects)
+The website was audited for accessibility using Lighhouse. The results and fixes of the test are detailed in [Issue #19](https://github.com/blahosyl/academic-publishing/issues/19).
 
+#### Manual accessibility testing
+
+The [WebAIM](https://webaim.org/resources/contrastchecker/) was used to ensure that the text and background color of each section provides sufficient contrast for legibility.
+
+In the instances where this was not the case, the colors themselves or their arrangement was changed to ensure that accessibility standards are met. Related issues are [#47](https://github.com/blahosyl/academic-publishing/issues/47) and [#19](https://github.com/blahosyl/academic-publishing/issues/19).
+
+The resulting color scheme is as follows:
+
+| color name | HEX code |
+|---			|---		|
+| dark|  #004E64| 
+| white|  #FFFFFF| 
+| light|  #9FFFCB| 
+| gray|  #537D88| 
+| dark-gray|  #3C5158|
+
+The paired colors have the following contrasts:
+
+| color 1 |color 2 |conrast | [WCAG AAA](https://ialabs.ie/what-is-the-difference-between-wcag-a-aa-and-aaa/) | comments |
+|---		|---		|:---:		|:---:|--- |
+| light 	|	dark 	|7.75:1 	| ✅ | 	|
+|light 	| dark gray | 7.02:1 |✅|	|
+| dark 	| white 	| 9.23:1 	| ✅ |	|
+|dark gray | white	 | 4.5:1	| ✅ |only used for large text|
+|gray 		| light	| 3.78:1	|✅ |only used for graphical objects|
 
 
 ### Bugs
