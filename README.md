@@ -601,7 +601,17 @@ Testing user stories
 Full testing of functionalities
 
 #### Devices
- iPhone 12 Pro, iOS 17.2.1; iPad Pro, iPadOS 17.3.1; iPhone XR, iOS 17.4;
+
+The website was tested on all emulators available on Chrome Delevope tools. In addition, it was tested on the following devices:
+
+ - iPhone 12 Pro, iOS 17.2.1
+ - iPad Pro, iPadOS 17.3.1 
+ - iPhone XR, iOS 17.4
+ - iPhone 15 Pro, iOS 17.3.1
+ - iPhone 13 mini, iOS 17.13.1
+ - Huawei P30, Android
+ - Macbook Air M2
+ - Macbook Air M1
  
 #### Browsers
 
@@ -610,6 +620,8 @@ The site was tested on the following browsers:
 - Google Chrome
 - Mozilla Firefox
 - Safari
+- Microsoft Edge
+- Opera
 
 ####Footer
 
