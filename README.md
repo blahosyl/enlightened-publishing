@@ -842,7 +842,7 @@ The site was tested on the following browsers:
 
 The video below demonstrates the responsivity of the site: the arrangement of elements changes along with the viewport size change (click to play):
 
-[Responsivity test]()
+[Responsivity test](https://github.com/blahosyl/academic-publishing/assets/26421503/865f874c-2d93-4466-9693-91618f439a06)
 
 ##### Hover effects
 
