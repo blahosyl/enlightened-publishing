@@ -659,10 +659,37 @@ Issues discovered during testing are tracked in [GitHub Issues](https://github.c
 
 
 ### Automated testing
-W3C validator
-Lighthouse
+#### HTML validation with theW3C validator
 
-The details of the Lighthouse accessibility audit are found in [Issue #19](https://github.com/blahosyl/academic-publishing/issues/19).
+The `html` file of the project was regularly tested by the [W3C validator](https://validator.w3.org/). The issues discovered during validation are tracked in [GitHub Issues](https://github.com/blahosyl/academic-publishing/issues).
+
+In the current version of the site, no errors or warning were found during validation.
+
+![HTML: no issues or warnings](readme-pics/html-validation.png)
+
+
+#### CSS validation with Jigsaw
+
+The  `css` file of the project was regularly tested by [Jigsaw](https://jigsaw.w3.org/css-validator/). The issues discovered during validation are tracked in [GitHub Issues](https://github.com/blahosyl/academic-publishing/issues).
+
+In the current version of the site, no errors or warning were found during validation.
+
+
+![CSS: no issues or warnings](readme-pics/css-validation.png)
+
+#### Lighthouse
+
+##### Lighthouse performance testing
+
+Lighthouse performance tests were carried out throughout development. Most warnings and improvement suggestions were related to externally embedded elements such as the YouTube video, Google Fonts, FontAwesome or Calendly.
+
+One significant performance issue that was tackled during development is described in Issue [#20](https://github.com/blahosyl/academic-publishing/issues/20).
+
+The current performance score is [88 on mobile](testing/lighthouse/mobile/performance-report-mobile.html) and [99 on desktop](testing/lighthouse/desktop/performance-report-desktop.html).
+
+##### Lighthouse accessibility testing
+
+The details of the Lighthouse accessibility audit are found in [Issue #19](https://github.com/blahosyl/academic-publishing/issues/19) and the [Automated accessibility testing](#automated-accessibility-testing) section below.
 
 ### Manual testing
 #### Testing user stories
@@ -795,7 +822,7 @@ The text copy on the site was provided by the client and edited by me.
 
 The video featured on the site is provided by the client, and is publicly available.
 
-### Readme
+### READMEs
 
 The following READMEs have served as guidance and a template:
 
