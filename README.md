@@ -884,7 +884,7 @@ The video below demonstrates the following features of the  Calendly widget (cli
 - users can enter their name, email address and additional information
 - users can book a meeting with an automatic Google Meet link
 
-[Calendly test]()
+[Calendly test](https://github.com/blahosyl/academic-publishing/assets/26421503/51c9aada-0bed-4878-a97b-62007a955fb3)
 
 
 ##### Footer
