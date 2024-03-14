@@ -873,7 +873,7 @@ The video below demonstrates the following features of the contact form (click t
 - the radio button choice is
 - the form is correctly set up and sends the entered information to the Code Institute infrastructure
 
-[Contact form test]()
+[Contact form test](https://github.com/blahosyl/academic-publishing/assets/26421503/5bc79af1-1e04-4aad-9a7f-93263f156ff7)
 
 ##### Calendly widget
 
