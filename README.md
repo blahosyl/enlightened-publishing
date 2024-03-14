@@ -357,6 +357,12 @@ The logo also doubles as a navigation element: clicking it takes the visitor bac
 
 The nav bar (or navigation bar in long-form) ensures that visitors can quickly and easily navigate between various parts of the site. This is especially important given that the website is a continuous one, rather than being broken up into different `html` files.
 
+Rather than using generic names like **About** or **Home** in the nav bar, I decided to go with more meaningful ones: **Solutions** and **Credentials**. 
+
+>[!NOTE]
+>**Solutions** points to the beginning of the **Problems & Solutions** section rather than the beginning of the **Solutions** subsection. This is a deliberate choice, as putting **Problems & Solutions** in the nav bar would have made it too cluttered, so I decided for the positive-sounding **Solutions** as the nav link for the whole section.
+
+
 The nav bar is responsive to the type of device the site is viewed on: it appears as an expandable "hamburger" icon on smaller devices. 
 
 This functionality is based on the nav bar implementation of the [Love Running Project](https://github.com/Code-Institute-Solutions/love-running-v3/). However, instead of expanding the nav bar and putting the nav elements under the logo, I have chosen to have them appear right under the hamburger icon, so that the user action (tapping the hamburger icon) and the result (the nav elements appearing) is closer together.
