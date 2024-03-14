@@ -649,6 +649,14 @@ The site was deployed on GitHub pages using the steps below. You can follow the 
 
 ## Testing
 
+Issues discovered during testing are tracked in [GitHub Issues](https://github.com/blahosyl/academic-publishing/issues).
+
+>[!WARNING]
+>Note: because of mistakenly starting issues in the wrong repository and later transferring them to the correct one, issue numbers in the commit messages up to commit nr. [325a625dc5de4d670ef58a9617ec092529db10f1](https://github.com/blahosyl/academic-publishing/commit/325a625dc5de4d670ef58a9617ec092529db10f1) don't match the new issue numbers in the repository. Unfortunately, the numbering of the transferred issues cannot be changed anymore.
+
+>However, each issue has the corresponing commits linked, and these links work correctly. In addition, subsequent commit messages after [325a625dc5de4d670ef58a9617ec092529db10f1](https://github.com/blahosyl/academic-publishing/commit/325a625dc5de4d670ef58a9617ec092529db10f1) point to correct issues.
+
+
 ### Automated testing
 W3C validator
 Lighthouse
@@ -656,10 +664,13 @@ Lighthouse
 The details of the Lighthouse accessibility audit are found in [Issue #19](https://github.com/blahosyl/academic-publishing/issues/19).
 
 ### Manual testing
-Testing user stories
-Full testing of functionalities
+#### Testing user stories
 
-#### Devices
+
+#### Full testing of functionalities
+
+
+##### Devices
 
 The website was tested on all emulators available on Chrome Delevope tools. In addition, it was tested on the following devices:
 
@@ -675,7 +686,7 @@ The website was tested on all emulators available on Chrome Delevope tools. In a
 
  Additional screen shots from the tested devices can be found in the [devices folder](testing/devices/).
  
-#### Browsers
+##### Browsers
 
 The site was tested on the following browsers:
 
@@ -685,7 +696,7 @@ The site was tested on the following browsers:
 - Microsoft Edge
 - Opera
 
-#### Footer
+##### Footer
 
 The links to the client's social media accounts open in a new tab.
 
@@ -733,7 +744,7 @@ The paired colors have the following contrasts:
 >[!WARNING]
 >Note: because of mistakenly starting issues in the wrong repository and later transferring them to the correct one, issue numbers in the commit messages up to commit nr. [325a625dc5de4d670ef58a9617ec092529db10f1](https://github.com/blahosyl/academic-publishing/commit/325a625dc5de4d670ef58a9617ec092529db10f1) don't match the new issue numbers in the repository. Unfortunately, the numbering of the transferred issues cannot be changed anymore.
 
-However, each issue has the corresponing commits linked, and these links work correctly. In addition, subsequent commit messages after [325a625dc5de4d670ef58a9617ec092529db10f1](https://github.com/blahosyl/academic-publishing/commit/325a625dc5de4d670ef58a9617ec092529db10f1) point to correct issues.
+>However, each issue has the corresponing commits linked, and these links work correctly. In addition, subsequent commit messages after [325a625dc5de4d670ef58a9617ec092529db10f1](https://github.com/blahosyl/academic-publishing/commit/325a625dc5de4d670ef58a9617ec092529db10f1) point to correct issues.
 
 ## Credits
 
