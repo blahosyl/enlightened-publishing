@@ -359,7 +359,7 @@ For the public launch (planned for May 2024), this will be changed so that the c
 
 ### Footer design
 
-The footer also features a minimalist design (similarly to the header). It consists of two, visually distint parts, the top one containing the social media links, and the bottom one the copyright information.
+The footer also features a minimalist design (similarly to the header). It consists of two, visually distinct parts, the top one containing the social media links, and the bottom one the copyright information.
 
 Both of these parts have a two-tone color scheme and no background images, to maximize efficiency and minimize distractions (again, paralleling the header).
 
@@ -725,6 +725,100 @@ The details of the Lighthouse accessibility audit are found in [Issue #19](https
 
 ### Manual testing
 #### Testing user stories
+
+This section provides an overview of user stories and which features facilitate particular user stories.
+The user stories were introduced in the section [User stories](#user-stories) above, and are repeated here for the reader's convenience.
+
+For visual illustrations of how individual features work (and *that* they work as indended, see the [Features](#features) and [Full testing of functionalities](#full-testing-of-functionalities) sections.
+
+##### Client goals | testing
+
+|[header with logo and nav bar](#header)|
+- [CL1] I want to create an online presence specifically for this workshop. 
+- [CL2] I want to offer potential customers an easy-to navigate layout. 
+- [CL3] I want to visually appeal to the target audience, conferring approachability and competence.
+- [CL4] I want potential cus|[Calendly widget](#calendly-widget)|tomers to contact the me by email.
+- [CL5] I want potential customers to book a meeing with me.
+- [CL6] I want customers to commission me for holding this workshop.
+- [CL7] I want to direct users to the my blog on Open Access Publishing.
+- [CL8] I want to direct users to the my social media accounts (Twitter/X, LinkedIn).
+- [CL9] I want to reach potential clients outside my professional network.
+
+|Goal	|Feature|
+|---	|---|
+|CL1	|the whole website|
+|CL2	|[header with logo and nav bar](#header)|
+|CL2	|visual separation of sections|
+|CL3	|color scheme|
+|CL3	|About section picture|
+|CL4	|[contact form](#contact-form)|
+|CL5	|[Calendly widget](#calendly-widget)|
+|CL6	|[contact form](#contact-form)|
+|CL6	|[Calendly widget](#calendly-widget)|
+|CL6	|[footer](#footer) with social media links|
+|CL7	|[footer](#footer) with link to blog|
+|CL8	|[footer](#footer) with social media links|
+|CL9	|the whole website|
+|CL9	|[Problems & Solutions in the focus position of the website](#flow)|
+|CL9	|SEO meta tags in the `html` code|
+
+
+##### Visitor goals | testing
+
+- [VI1] I want my junior colleagues to receive support in navigating academic publishing.
+- [VI2] I want to view the site on various-sized devices.
+- [VI3] I want to easily navigate between the different parts of the site.
+
+|Goal	|Feature facilitating the goal|
+|---	|---|
+|VI1	|the whole website|
+|VI1	|responsive design of the whole website|
+|VI3	|[header with logo and nav bar](#header)|
+|VI3	|[visual separation of sections](flow)|
+
+###### First-time visitor goals | testing
+
+- [FI1] I want to quickly get an overview of the website's purpose.
+- [FI2] I want to get informed about the problem the workshop is offering to solve.
+- [FI3] I want to know how the workshop proposes to solve the problem.
+- [FI4] I want to get an overview of the client's relevant experience in the field of academic publishing.
+- [FI5] I want request more information about the workshop.
+
+
+|Goal	|Feature facilitating the goal|
+|---	|---|
+|FI1	|[hero image & text](#hero-section)|
+|FI2	|[Problems subsection](problems-&-solutions-section)|
+|FI3	|[Solutions subsection](problems-&-solutions-section)|
+|FI4	|[Credentials image and tagline](credentials-image-and-tagline)|
+|FI4	|[Credential cards](#credential-cards) (front)|
+
+
+###### Returning visitor goals | testing
+
+- [RE1] I want to ascertain that the client's experience makes him an expert on the topic.
+- [RE2] I want to read the client's blog on Publishing.
+- [RE3] I want to book a meeting with the client.
+- [RE4] I want request more information about the workshop.
+
+|Goal	|Feature facilitating the goal|
+|---	|---|
+|RE1	|[Credential cards](#credential-cards) (back)|
+|RE1	|[Video](#video) (expertise in being a speaker)|
+|RE1	|[footer](#footer) with link to LinkedIn profile|
+|RE2	|[footer](#footer) with link to blog|
+|RE3	|[Calendly widget](#calendly-widget)|
+|RE4	|[contact form](#contact-form)|
+
+###### Frequent visitor goals | testing
+
+- [FR1] I want to book a meeting with the client.
+- [FR2] I want to find the client's social media information
+
+|Goal	|Feature facilitating the goal|
+|---	|---|
+|FR1	|[Calendly widget](#calendly-widget)|
+|FR2	|[footer](#footer) with social media links|
 
 
 #### Full testing of functionalities
