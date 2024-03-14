@@ -703,6 +703,7 @@ The embedded video does not start auto-playing.
 - [GitHub Desktop](https://desktop.github.com/) – GitHub UI
 - [GitHub Issues](https://github.com/features/issues) – project management (web design and development details, issue tracking, used solo)
 - [GitHub TOC generator](http://github.com/3kh0/readme-toc/)
+- [GitHub web editor](https://github.com/) - the only way (known to me) to add videos to the README
 - [GitPod](https://gitpod.io/) – Integrated Development Environment (not really used for this project)
 - Google Developer Tools – troubleshoot, test responsivity and styling
 - [Google Fonts](https://fonts.google.com/) - import fonts used on the website
