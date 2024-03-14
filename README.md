@@ -959,9 +959,7 @@ The video below demonstrates the following features of the header elements (clic
 - nav bar links take the user to the respective section on click
 - header link takes the user to the top of the page on click
 
-
-[![Header test](https://github.com/blahosyl/academic-publishing/assets/26421503/4481c59f-215e-438e-9f2e-8e98b9919d81)](https://github.com/blahosyl/academic-publishing/assets/26421503/443c93cf-cc10-4c38-b485-6271dd78a6b4)
-
+![Header test](https://github.com/blahosyl/academic-publishing/assets/26421503/b8c40c22-e4f0-4d76-b9bf-1c84c16b012e)
 
 ##### Contact form testing
 
