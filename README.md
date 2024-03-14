@@ -838,19 +838,19 @@ The site was tested on the following browsers:
 - Microsoft Edge
 - Opera
 
-##### Responsivity
+##### Responsivity testing
 
 The video below demonstrates the responsivity of the site: the arrangement of elements changes along with the viewport size change (click to play):
 
 [Responsivity test](https://github.com/blahosyl/academic-publishing/assets/26421503/865f874c-2d93-4466-9693-91618f439a06)
 
-##### Hover effects
+##### Hover effects testing
 
 The video below demonstrates how certain elements of the site respond to hover: (click to play):
 
 [Hover test](https://github.com/blahosyl/academic-publishing/assets/26421503/96046ca8-a395-40c3-aabe-87d29e6e71f6)
 
-##### Header
+##### Header testing
 
 The video below demonstrates the following features of the header elements (click to play):
 
@@ -863,7 +863,7 @@ The video below demonstrates the following features of the header elements (clic
 [![Header test](https://github.com/blahosyl/academic-publishing/assets/26421503/4481c59f-215e-438e-9f2e-8e98b9919d81)](https://github.com/blahosyl/academic-publishing/assets/26421503/443c93cf-cc10-4c38-b485-6271dd78a6b4)
 
 
-##### Contact form
+##### Contact form testing
 
 The video below demonstrates the following features of the contact form (click to play):
 
@@ -875,7 +875,7 @@ The video below demonstrates the following features of the contact form (click t
 
 [Contact form test](https://github.com/blahosyl/academic-publishing/assets/26421503/5bc79af1-1e04-4aad-9a7f-93263f156ff7)
 
-##### Calendly widget
+##### Calendly widget testing
 
 The video below demonstrates the following features of the  Calendly widget (click to play):
 
@@ -887,7 +887,7 @@ The video below demonstrates the following features of the  Calendly widget (cli
 [Calendly test](https://github.com/blahosyl/academic-publishing/assets/26421503/51c9aada-0bed-4878-a97b-62007a955fb3)
 
 
-##### Footer
+##### Footer testing
 
 The video below demonstrates the following features of the header elements (click to play):
 
