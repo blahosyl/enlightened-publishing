@@ -926,7 +926,7 @@ The website was tested on all emulators available on Chrome Developer tools. In 
  - Macbook Air M1, Mac OS Sonoma 14.3.1
  - Samsung TV, Tizen browser v3.1.11260 
 
- Additional screen shots from the tested devices can be found in the [devices folder](testing/devices/).
+Additional screen shots from the tested devices can be found in the [devices folder](testing/devices/).
  
 ##### Browsers
 
@@ -1047,6 +1047,8 @@ The paired colors have the following contrasts:
 
 >[!TIP]
 >However, each issue has the corresponding commits linked, and these links work correctly. In addition, subsequent commit messages after [325a625dc5de4d670ef58a9617ec092529db10f1](https://github.com/blahosyl/academic-publishing/commit/325a625dc5de4d670ef58a9617ec092529db10f1) point to correct issues.
+
+Open issues delating to testing with physical devices (outside Chrome Dev Tools) are [#60](https://github.com/blahosyl/academic-publishing/issues/60), [#61](https://github.com/blahosyl/academic-publishing/issues/61), [#62](https://github.com/blahosyl/academic-publishing/issues/62) and [#66](https://github.com/blahosyl/academic-publishing/issues/66).
 
 ## Credits
 
