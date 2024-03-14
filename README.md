@@ -389,6 +389,8 @@ Because the site is a continuous one, rather than consisting of separate `html` 
 
 ### Hero section
 
+![The Problems & Solutions section is responsive](testing/responsivity/amiresponsive-start.png)
+
 This section features the hero image, defining the feel and color scheme of the website, as well as the main tagline of the project.
 
 ### Problems & Solutions section
@@ -509,45 +511,37 @@ The embedded video does not start auto-playing.
 
 ### Languages used
 
-HTML, CSS
+- HTML 
+- CSS
+- Markdown
 
 ### Frameworks,  Libraries & Programs Used
 
-Atom – code editor
-
-Balsamiq – wireframes
-
-Git – version control
-
-GitHub – store the source files
-
-GitHub Desktop – GitHub UI
-
-[Google Fonts](https://fonts.google.com/) - import fonts used on the website
-
-Google Dev Tools – troubleshoot, test responsivity and styling
-
-FontAwsome – icons
-
-[TinyPNG](https://tinypng.com/) – compress images
-
-[convert images to grayscale](https://www.grayscaleimage.com/)
-
-[Birme](https://www.birme.net/) – resize images and convert to `webp` format
-
-Favicon.io – create the favicon
-
-Am I Responsive? – to show the website image on a range of devices
-
-<!--Shields.io – add badges to README
+- [Am I Responsive?](https://ui.dev/amiresponsive) – to show the website on a range of devices
+- [Atom](https://atom-editor.cc/) – code editor
+- [Balsamiq](https://balsamiq.com/) – wireframes
+- [Birme](https://www.birme.net/) – resize images and convert to `webp` format
+- [Coolors.co](https://coolors.co/) - color palettes
+- [Favicon.io](https://favicon.io/) – create the favicon
+- [FontAwsome](https://fontawesome.com/) – icons for the nav bar and hamburger menu
+- Git – version control
+- [GittHub](https://github.com/) – store the source files
+- [GitHub Desktop](https://desktop.github.com/) – GitHub UI
+- [GitHub Issues](https://github.com/features/issues) – project management (web design and development details, issue tracking, used solo)
+- [GitPod](https://gitpod.io/) – Integrated Development Environment (not really used for this project)
+- Google Developer Tools – troubleshoot, test responsivity and styling
+- [Google Fonts](https://fonts.google.com/) - import fonts used on the website
+- [Google Meet](https://meet.google.com/) – client communication
+- [GrayScaleImage](https://www.grayscaleimage.com/)
+- [Lipsum](https://www.lipsum.com/), [loremipsum.io](https://loremipsum.io/) – Lorem Ipsum generators (not used in final version)
+- [Pixelied](https://pixelied.com/convert/jpg-converter/jpg-to-webp) – `jpg` to `webp` converter
+- [Preview](https://support.apple.com/guide/preview/welcome/mac) – cropping images
+- <!--Shields.io – add badges to README
 -->
-[Coolors.co](https://coolors.co/) - color palettes, 
-
-[WebAIM](https://webaim.org/resources/contrastchecker/) – color contrast checking
-
-[Lipsum](https://www.lipsum.com/), [loremipsum.io](https://loremipsum.io/) – Lorem Ipsum generators
-
-[Pixelied](https://pixelied.com/convert/jpg-converter/jpg-to-webp) – `jpg` to `webp` converter
+- [Slack](https://slack.com/) – client communication
+- [TinyPNG](https://tinypng.com/) – compress images
+- [WebAIM](https://webaim.org/resources/contrastchecker/) – color contrast checking
+- [Wrike](https://www.wrike.com/) – project management (text copy, high-level design questions and specifications in collaboration with the client)
 
 ## Deployment
 
