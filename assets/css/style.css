@@ -105,8 +105,8 @@ nav ul {
 
 /* Main content */
 main {
-  /* make main element take up any surplus vertical space so footer is pushed down.
-  flex-grow flex-shrink flex-basis */
+  /* make main element take up any surplus vertical space so footer is pushed down.*/
+  /* shorthand stands for flex-grow flex-shrink flex-basis  */
   flex: 1 0 auto;
   padding: 0;
 }
