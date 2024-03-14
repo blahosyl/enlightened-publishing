@@ -402,16 +402,19 @@ This section features descriptions of the issues the client is trying to solve, 
 
 ### About/Credentials section
 
-![The About/Credentials section is responsive]()
-
 This section provides information to visitors about the client's professional experience in academic publishing.
 
 
 #### Credentials image and tagline
 
+![The Why me? image is responsive](testing/responsivity/amiresponsive-why-me.png)
+
+The first part of the section introduces the client, showing a full-width picture, his name, tagline and basic professional information.
 
 
 #### Credential cards
+
+![The Why me? image is responsive](testing/responsivity/amiresponsive-cards.png)
 
 The client's relevant experience is displayed on individual cards to avoid creating a large block of text and break up the information into smaller, digestible pieces.
 
@@ -425,6 +428,9 @@ Additionally, the information within each card is divided into 2, and presented 
 In accordance with my mentor's suggestion, I have added explicit text to tap or hover for more information. I have decided to add this text to each card rather than just adding it once above the card block, because I consider it better for accessibility. The tap/hover text is also visually different from the rest of the text on the card, to make the functionality more explicit.
 
 #### Video
+
+![The Why me? image is responsive](testing/responsivity/amiresponsive-video.png)
+
 
 The last element of the section is a video of the client giving a recorded talk in front of an audience. This provides a more hands-on proof of his speaker capabilities.
 
