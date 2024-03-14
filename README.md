@@ -670,7 +670,6 @@ The details of the Lighthouse accessibility audit are found in [Issue #19](https
 
 #### Full testing of functionalities
 
-
 ##### Devices
 
 The website was tested on all emulators available on Chrome Delevope tools. In addition, it was tested on the following devices:
@@ -706,6 +705,11 @@ The links to the client's social media accounts open in a new tab.
 #### Automated accessibility testing
 
 The website was audited for accessibility using Lighhouse. The results and fixes of the test are detailed in [Issue #19](https://github.com/blahosyl/academic-publishing/issues/19).
+
+The site in its current form has an accessibility score of 100 for both [mobile](testing/lighthouse/mobile/accessibility-report-mobile.html) and [desktop](testing/lighthouse/desktop/accessibility-report-desktop.html).
+
+![Accessibility score: 100](readme-pics/accessibility-100.png)
+
 
 #### Manual accessibility testing
 
