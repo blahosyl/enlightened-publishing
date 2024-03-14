@@ -554,14 +554,13 @@ As a consequence of designing for an older and more straightforward-minded demog
 These elements tend to cause problems for a variety of users (e.g. those with visual impairment, executive functioning impairment, vertigo, etc.), so steering clear of these chimes in perfectly with accessibility goals.
 
 
-aria labels, 
+The content of the site is structured with semantic tags, and Aria labels are used for sections without headings.
 
-alt text, 
+Alt text is used for embedded visual elements.
 
+The colour scheme was designed to ensure sufficient contrast for legibility, and modified where necessary to ensure that color combinations meet [WCAG AAA](https://ialabs.ie/what-is-the-difference-between-wcag-a-aa-and-aaa/) standards (see the [Accessibility testing](#accessibility-testing) section for more detail).
 
-colour scheme, 
-
-font choices
+The font choices verge on the conservative side, prioritising legibility over excentricity.
 
 External links open in a new tab.
 
