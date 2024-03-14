@@ -523,8 +523,7 @@ The header and its elements are responsive, adapting to the viewport size.
 Since there is no separately designed logo for the project yet, the site features the title of the project in a large font and in the most prominent place, the top left corner. 
 
 
-
-The logo also doubles as a navigation element: clicking it takes the visitor back to the top of the page. On devices with pointer capabilities (e.g. mouse or trackpad), the logo changes color when hovered over (see video below).
+The logo also doubles as a navigation element: clicking it takes the visitor back to the top of the page. On devices with pointer capabilities (e.g. mouse or trackpad), the logo changes color and is underlined when hovered over (see video below).
 
 
 #### Nav bar
@@ -545,7 +544,7 @@ This functionality is based on the nav bar implementation of the [Love Running P
 
 On larger screens, the navigation bar shows the links to the 3 main sections of the site side by side. 
 
-On devices with pointer capabilities (e.g. mouse or trackpad), the links in the navigation bar change color when hovered over.
+On devices with pointer capabilities (e.g. mouse or trackpad), the links in the navigation bar change color and are underlined when hovered over.
 
 Because the site is a continuous one, rather than consisting of separate `html` files, there is no highlighting of the current section the user is in in the nav bar. To offset this, color schemes are used to indicate different sections (see the [Design](#design) section for more details).
 
@@ -776,6 +775,8 @@ Issues discovered during testing are tracked in [GitHub Issues](https://github.c
 >[!TIP]
 >However, each issue has the corresponding commits linked, and these links work correctly. In addition, subsequent commit messages after [325a625dc5de4d670ef58a9617ec092529db10f1](https://github.com/blahosyl/academic-publishing/commit/325a625dc5de4d670ef58a9617ec092529db10f1) point to correct issues.
 
+Assets related to testing (Lighthouse reports, screenshots and videos) can be found in the [`testing`](testing/) folder in the repository.
+
 
 ### Automated testing
 #### HTML validation with theW3C validator
@@ -922,7 +923,8 @@ The website was tested on all emulators available on Chrome Developer tools. In 
  - Huawei P30, Android
  - Lenovo10 tablet, Android
  - Macbook Air M2, Mac OS Sonoma 14.3.1 
- - Macbook Air M1, Mac OS Sonoma 14.3.1 
+ - Macbook Air M1, Mac OS Sonoma 14.3.1
+ - Samsung TV, Tizen browser v3.1.11260 
 
  Additional screen shots from the tested devices can be found in the [devices folder](testing/devices/).
  
