@@ -810,7 +810,7 @@ The details of the Lighthouse accessibility audit are found in [Issue #19](https
 ### Manual testing
 #### Testing user stories
 
-This section provides an overview of user stories and which features facilitate particular user stories.
+This section provides an overview of user stories, and which features facilitate particular user stories.
 The user stories were introduced in the section [User stories](#user-stories) above, and are repeated here for the reader's convenience.
 
 For visual illustrations of how individual features work (and *that* they work as indended, see the [Features](#features) and [Full testing of functionalities](#full-testing-of-functionalities) sections.
