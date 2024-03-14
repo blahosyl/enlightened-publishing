@@ -1,10 +1,10 @@
 # Enlightened Publishing
 
-**Enlightened Publishing** is the responsive landing page of [Prof. Curt Rice](https://www.linkedin.com/in/curtrice/) offering workshops on academic publishing for early-carreer researchers, such as PhD students and postdoctoral researchers. It is expected to launch in May 2024.
+**Enlightened Publishing** is the responsive landing page of [Prof. Curt Rice](https://www.linkedin.com/in/curtrice/) offering workshops on academic publishing for early-career researchers, such as PhD students and postdoctoral researchers. It is expected to launch in May 2024.
 
 The site provides an internet presence for the client, allowing him to reach senior academics (e.g. rectors or deans) interested in commissioning him for a workshop for their junior colleagues.
 
-Interested academics can gain an overview of how the the workshop solves common problems in academic publishing, why the client is highly qualified to educate about these, and the means to get in touch with him.
+Interested academics can gain an overview of how the workshop solves common problems in academic publishing, why the client is highly qualified to educate about these, and the means to get in touch with him.
 
 Developer: [Dr. Sylvia Blaho](https://www.linkedin.com/in/blahosylvia/)
 
@@ -135,7 +135,7 @@ This has implications on the [features](#features) and [design]
 (#design) of the website, as detailed in the respective sections below.
 
 <details>
-<summary>Project goal and scope development thoughout the project (click for details)</summary>
+<summary>Project goal and scope development throughout the project (click for details)</summary>
 
 ##### Initial stage
 
@@ -163,9 +163,8 @@ The importance/feasibility matrix was determined as follows:
 
 ##### Current stage
 
-Some deliverables have not been completed by the "firends & family" release date of the 1st version of the website (14th of March 2024):
+Some deliverables have not been completed by the "friends & family" release date of the 1st version of the website (14th of March 2024):
 
-- Custmer Management System (handling email lists)
 - Substack account
 - 1st draft of the ebook on Publishing
 - blog on Gender Bias
@@ -175,7 +174,7 @@ Accordingly, the list of goals was modified as follows (~~not included in releas
 - create an online presence specifically for this workshop
 - ~~add subscribers to his email list~~
 - *have potential customers contact the client by email*
-- *have potential customers book a meeing with the client*
+- *have potential customers book a meeting with the client*
 - have universities commission him for the workshop
 - ~~direct users to Substack~~
 - *direct users to the client's blog on Open Access Publishing*
@@ -209,16 +208,16 @@ The importance/feasibility matrix was determined as follows:
 
 #### Client goals
 
-In addition to the business goals detailed under **Project goal and scope development thoughout the project** in the [Background](#background) section, client goals also include aspects of accessibilty and marketing goals. The complete list is as follows:
+In addition to the business goals detailed under **Project goal and scope development throughout the project** in the [Background](#background) section, client goals also include aspects of accessibility and marketing goals. The complete list is as follows:
 
 - [CL1] I want to create an online presence specifically for this workshop. 
-- [CL2] I want to offer potential customers an easy-to navigate layout. 
+- [CL2] I want to offer potential customers an easy-to-navigate layout. 
 - [CL3] I want to visually appeal to the target audience, conferring approachability and competence.
-- [CL4] I want potential customers to contact the me by email.
-- [CL5] I want potential customers to book a meeing with me.
+- [CL4] I want potential customers to contact me by email.
+- [CL5] I want potential customers to book a meeting with me.
 - [CL6] I want customers to commission me for holding this workshop.
-- [CL7] I want to direct users to the my blog on Open Access Publishing.
-- [CL8] I want to direct users to the my social media accounts (Twitter/X, LinkedIn).
+- [CL7] I want to direct users to my blog on Open Access Publishing.
+- [CL8] I want to direct users to my social media accounts (Twitter/X, LinkedIn).
 - [CL9] I want to reach potential clients outside my professional network.
 
 
@@ -234,7 +233,7 @@ In addition to the business goals detailed under **Project goal and scope develo
 - [FI2] I want to get informed about the problem the workshop is offering to solve.
 - [FI3] I want to know how the workshop proposes to solve the problem.
 - [FI4] I want to get an overview of the client's relevant experience in the field of academic publishing.
-- [FI5] I want request more information about the workshop.
+- [FI5] I want to request more information about the workshop.
 
 
 ##### Returning visitor goals
@@ -242,7 +241,7 @@ In addition to the business goals detailed under **Project goal and scope develo
 - [RE1] I want to ascertain that the client's experience makes him an expert on the topic.
 - [RE2] I want to read the client's blog on Publishing.
 - [RE3] I want to book a meeting with the client.
-- [RE4] I want request more information about the workshop.
+- [RE4] I want to request more information about the workshop.
  
 
 ##### Frequent visitor goals
@@ -254,11 +253,11 @@ In addition to the business goals detailed under **Project goal and scope develo
 ## Design
 
 As detailed in the [UX section](#user-experience), the target audience for this website is typically a more senior and B2B-minded cohort, with busy workloads and packed schedules.
-Consequently, the design skewes towards minimalism, being clear-cut and avoiding unnecessary visual clutter, such as excessive borders and shadows, elements of very different shapes, background images behind normal text, and auto-moving elements of all kinds. 
+Consequently, the design is skewed towards minimalism, being clear-cut and avoiding unnecessary visual clutter, such as excessive borders and shadows, elements of very different shapes, background images behind normal text, and auto-moving elements of all kinds. 
 
 This aligns perfectly with accessibility considerations, as detailed in the [Accessibility](#accessibility) section.
 
-It also plays on asssociations with Norway (where the client is based) and Scandinavia in general: minimalism, clean design, straightforwardness and efficiency.
+It also plays on associations with Norway (where the client is based) and Scandinavia in general: minimalism, clean design, straightforwardness and efficiency.
 
 The site is designed to be responsive, to provide an equivalent viewing experience on most commonly used devices.
 
@@ -274,7 +273,7 @@ The site's color arrangement was inspired by [https://inclusiveleadership.soluti
 
 The two salient colors chosen for this site are a dark petrol (#9FFFCB)  and a light mint (#004e64). These colors represent the arctic night sky and northern lights, respectively.
 
-Turning to the supporting colors used, white, evocative of the ubiquitous snow in the arctic, is used in the design. In the spirit of minimalism and to offset the salience of the 2 main colors, simple, pur white (#FFFFFF) is used.
+Turning to the supporting colors used, white, evocative of the ubiquitous snow in the arctic, is used in the design. In the spirit of minimalism and to offset the salience of the 2 main colors, simple, pure white (#FFFFFF) is used.
 
 The gray in this color palette has tones of blue-green, reminiscent of ice, and providing a bridge between the two salient colors. 
 
@@ -307,7 +306,7 @@ In accordance with this, the website consists of 3, visually separate sections t
 2. About/Credentials section titled "Why me?"
 3. Contact section
 
-While it is customary to put the **About** information first on a site, we decided for an approach that centers the problems the workshop aims to solve and their solutions, as the clients wants to reach clients that might not know him professionally. Therefore, while his name and professional credetials are important information, they were deemed secondary to the goal of the workshop.
+While it is customary to put the **About** information first on a site, we decided on an approach that centers the problems the workshop aims to solve and their solutions, as the client wants to reach users that might not know him professionally. Therefore, while his name and professional credentials are important information, they were deemed secondary to the goal of the workshop.
 
 To ease navigation, the header remains visible throughout.
 
@@ -350,7 +349,7 @@ The [second image](assets/images/presentation.webp) shows the client on stage, g
 
 #### About/Credentials section imagery
 
-The [**About** section](assets/images/why-me-img.webp) shows the client in a confident pose in front of a grafitti wall. It centers the client as both competent and approachable. The image has been re-colored to fit the site's color scheme.
+The [**About** section](assets/images/why-me-img.webp) shows the client in a confident pose in front of a graffiti wall. It centers the client as both competent and approachable. The image has been re-colored to fit the site's color scheme.
 
 ![Solutions section image 2](assets/images/why-me-img.webp)
 
@@ -386,7 +385,7 @@ This section is distinguished from other parts of the site by a gray background 
 
 The two subsections comprising the section are visually distinguished from each other by the coloring of the contentful elements (text+image boxes, as described in [Layout](#layout) below).
 
-The **Problems** subsection features a dark color scheme, grayscale images with a dark tint, and images suggesting overwhelm. This alludes to long dark arctic nights, a parrallel to the seemingly hopeless endevour of navigating the intricacies of academic publishing.
+The **Problems** subsection features a dark color scheme, grayscale images with a dark tint, and images suggesting overwhelm. This alludes to long dark arctic nights, a parallel to the seemingly hopeless endeavor of navigating the intricacies of academic publishing.
 
 The **Solutions** subsection has a bright colored background and full-color images that are only slightly tinted with the same bright color. These suggest the image of northern lights in the dark night sky, evoking feelings of brightness and hope.
 
@@ -440,12 +439,12 @@ One core principle of B2B marketing is to offer as many possibilities for connec
 
 The [footer](#footer) has additional contact links to the client's social media profiles.
 
-The Calendly widget is integrated into the site, and styled in alignment and color. In larger screens, there is an a white margin around the calendar element, which disappears on smaller screens. To keep the widget distinct, I have added a white border to it for smaller screens. Users can view the client's available meeting times and set up a meeting with an automatic [Google Meet](https://meet.google.com/) link using the widget.
+The Calendly widget is integrated into the site, and styled in alignment and color. In larger screens, there is a white margin around the calendar element, which disappears on smaller screens. To keep the widget distinct, I have added a white border to it for smaller screens. Users can view the client's available meeting times and set up a meeting with an automatic [Google Meet](https://meet.google.com/) link using the widget.
 
 ![Calendly widget design](testing/responsivity/amiresponsive-calendly.png)
 
 The second part of this section contains the contact form, where users can submit their name, email address and workshop preferences to the client. 
-For the present implementation, this is set up to result in the Code Institute confirmation screen rather than connected to the client's CRM (Customer Relationship Management) system, so that the Code Insitute assessors can easily evaluate the functionality of the form.
+For the present implementation, this is set up to result in the Code Institute confirmation screen rather than connected to the client's CRM (Customer Relationship Management) system, so that the Code Institute assessors can easily evaluate the functionality of the form.
 For the public launch (planned for May 2024), this will be changed so that the client will receive these data in his CRM system.
 
 ![Contact form design](testing/responsivity/amiresponsive-contact.png)
@@ -535,7 +534,7 @@ The nav bar (or navigation bar in long-form) ensures that visitors can quickly a
 Rather than using generic names like **About** or **Home** in the nav bar, I decided to go with more meaningful ones: **Solutions** and **Credentials**. 
 
 >[!NOTE]
->**Solutions** points to the beginning of the **Problems & Solutions** section rather than the beginning of the **Solutions** subsection. This is a deliberate choice, as putting **Problems & Solutions** in the nav bar would have made it too cluttered, so I decided for the positive-sounding **Solutions** as the nav link for the whole section.
+>**Solutions** points to the beginning of the **Problems & Solutions** section rather than the beginning of the **Solutions** subsection. This is a deliberate choice, as putting **Problems & Solutions** in the nav bar would have made it too cluttered, so I decided on the positive-sounding **Solutions** as the nav link for the whole section.
 
 
 The nav bar is responsive to the type of device the site is viewed on: it appears as an expandable "hamburger" icon on smaller devices. 
@@ -583,7 +582,7 @@ The cards are arranged in a responsive grid using Flexbox, similarly to the "run
 
 Additionally, the information within each card is divided into 2, and presented as a result of user interaction:
 
-- By default, each cards shows the name of the institution/organisation, the position the client held there. 
+- By default, each card shows the name of the institution/organisation, the position the client held there. 
 - When the user taps or hovers over a card (depending on the type of device used), this information is replaced by a more detailed description of the client's experience. 
 
 In accordance with my mentor's suggestion, I have added explicit text to tap or hover for more information. I have decided to add this text to each card rather than just adding it once above the card block, because I consider it better for accessibility. The tap/hover text is also visually different from the rest of the text on the card, to make the functionality more explicit.
@@ -614,7 +613,7 @@ The contact form enables users to submit their name, email address and workshop 
 >[!NOTE]
 > To facilitate assessment of this project, the contact form is not connected to the client's email system in its current implementation, but rather to Code Institute form testing capabilities.
 
-The **name** and **email** fields are text input fields, while the workshop preferences are registere by using radio buttons. 
+The **name** and **email** fields are text input fields, while the workshop preferences are registered by using radio buttons. 
 All 3 of these are required, and the user is advised to fill these in correctly when clicking the **Send** button.
 
 In addition, the email field requires the presence of an **@** symbol, as well as some characters before and after the symbol.
@@ -675,7 +674,7 @@ Alt text is used for embedded visual elements.
 
 The colour scheme was designed to ensure sufficient contrast for legibility, and modified where necessary to ensure that color combinations meet [WCAG AAA](https://ialabs.ie/what-is-the-difference-between-wcag-a-aa-and-aaa/) standards (see the [Accessibility testing](#accessibility-testing) section for more detail).
 
-The font choices verge on the conservative side, prioritising legibility over excentricity.
+The font choices verge on the conservative side, prioritising legibility over eccentricity.
 
 External links open in a new tab.
 
@@ -740,7 +739,7 @@ You can fork the repository by following these steps:
 1. Log in to [GitHub](https://github.com/) (if you don't have a GitHub account yet, you can [create one](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) for free).
 2. Navigate to the project website [https://github.com/blahosyl/academic-publishing](https://github.com/blahosyl/academic-publishing).
 3. Click on **Fork** in the upper right part of the screen.
-4. On the next page you have the possibility to change the repsitory name. To do this, simply write your desired name in the text field in the center part of the screen. You can also leave the name as it is.
+4. On the next page you have the possibility to change the repository name. To do this, simply write your desired name in the text field in the center part of the screen. You can also leave the name as it is.
 5. Click **Fork** in the bottom right part of the screen.
 
 >[!TIP]
@@ -775,7 +774,7 @@ Issues discovered during testing are tracked in [GitHub Issues](https://github.c
 >Note: because of mistakenly starting issues in the wrong repository and later transferring them to the correct one, issue numbers in the commit messages up to commit nr. [325a625dc5de4d670ef58a9617ec092529db10f1](https://github.com/blahosyl/academic-publishing/commit/325a625dc5de4d670ef58a9617ec092529db10f1) don't match the new issue numbers in the repository. Unfortunately, the numbering of the transferred issues cannot be changed anymore.
 
 >[!TIP]
->However, each issue has the corresponing commits linked, and these links work correctly. In addition, subsequent commit messages after [325a625dc5de4d670ef58a9617ec092529db10f1](https://github.com/blahosyl/academic-publishing/commit/325a625dc5de4d670ef58a9617ec092529db10f1) point to correct issues.
+>However, each issue has the corresponding commits linked, and these links work correctly. In addition, subsequent commit messages after [325a625dc5de4d670ef58a9617ec092529db10f1](https://github.com/blahosyl/academic-publishing/commit/325a625dc5de4d670ef58a9617ec092529db10f1) point to correct issues.
 
 
 ### Automated testing
@@ -783,7 +782,7 @@ Issues discovered during testing are tracked in [GitHub Issues](https://github.c
 
 The `html` file of the project was regularly tested by the [W3C validator](https://validator.w3.org/). The issues discovered during validation are tracked in [GitHub Issues](https://github.com/blahosyl/academic-publishing/issues).
 
-In the current version of the site, no errors or warning were found during validation.
+In the current version of the site, no errors or warnings were found during validation.
 
 ![HTML: no issues or warnings](readme-pics/html-validation.png)
 
@@ -817,19 +816,19 @@ The details of the Lighthouse accessibility audit are found in [Issue #19](https
 This section provides an overview of user stories, and which features facilitate particular user stories.
 The user stories were introduced in the section [User stories](#user-stories) above, and are repeated here for the reader's convenience.
 
-For visual illustrations of how individual features work (and *that* they work as indended, see the [Features](#features) and [Full testing of functionalities](#full-testing-of-functionalities) sections.
+For visual illustrations of how individual features work (and *that* they work as intended, see the [Features](#features) and [Full testing of functionalities](#full-testing-of-functionalities) sections.
 
 ##### Client goals | testing
 
 |[header with logo and nav bar](#header)|
 - [CL1] I want to create an online presence specifically for this workshop. 
-- [CL2] I want to offer potential customers an easy-to navigate layout. 
+- [CL2] I want to offer potential customers an easy-to-navigate layout. 
 - [CL3] I want to visually appeal to the target audience, conferring approachability and competence.
-- [CL4] I want potential cus|[Calendly widget](#calendly-widget)|tomers to contact the me by email.
-- [CL5] I want potential customers to book a meeing with me.
+- [CL4] I want potential customers to contact me by email.
+- [CL5] I want potential customers to book a meeting with me.
 - [CL6] I want customers to commission me for holding this workshop.
-- [CL7] I want to direct users to the my blog on Open Access Publishing.
-- [CL8] I want to direct users to the my social media accounts (Twitter/X, LinkedIn).
+- [CL7] I want to direct users to my blog on Open Access Publishing.
+- [CL8] I want to direct users to my social media accounts (Twitter/X, LinkedIn).
 - [CL9] I want to reach potential clients outside my professional network.
 
 |Goal	|Feature|
@@ -870,7 +869,7 @@ For visual illustrations of how individual features work (and *that* they work a
 - [FI2] I want to get informed about the problem the workshop is offering to solve.
 - [FI3] I want to know how the workshop proposes to solve the problem.
 - [FI4] I want to get an overview of the client's relevant experience in the field of academic publishing.
-- [FI5] I want request more information about the workshop.
+- [FI5] I want to request more information about the workshop.
 
 
 |Goal	|Feature facilitating the goal|
@@ -887,7 +886,7 @@ For visual illustrations of how individual features work (and *that* they work a
 - [RE1] I want to ascertain that the client's experience makes him an expert on the topic.
 - [RE2] I want to read the client's blog on Publishing.
 - [RE3] I want to book a meeting with the client.
-- [RE4] I want request more information about the workshop.
+- [RE4] I want to request more information about the workshop.
 
 |Goal	|Feature facilitating the goal|
 |---	|---|
@@ -913,7 +912,7 @@ For visual illustrations of how individual features work (and *that* they work a
 
 ##### Devices
 
-The website was tested on all emulators available on Chrome Delevope tools. In addition, it was tested on the following devices:
+The website was tested on all emulators available on Chrome Delevoper tools. In addition, it was tested on the following devices:
 
  - iPhone 12 Pro, iOS 17.2.1
  - iPad Pro, iPadOS 17.3.1 
@@ -999,7 +998,7 @@ The video below demonstrates the following features of the header elements (clic
 
 #### Automated accessibility testing
 
-The website was audited for accessibility using Lighhouse. The results and fixes of the test are detailed in [Issue #19](https://github.com/blahosyl/academic-publishing/issues/19).
+The website was audited for accessibility using Lightouse. The results and fixes of the test are detailed in [Issue #19](https://github.com/blahosyl/academic-publishing/issues/19).
 
 The site in its current form has an accessibility score of 100 for both [mobile](testing/lighthouse/mobile/accessibility-report-mobile.html) and [desktop](testing/lighthouse/desktop/accessibility-report-desktop.html).
 
@@ -1028,7 +1027,7 @@ The color variable names used in the project are as follows:
 
 The paired colors have the following contrasts:
 
-| color 1 |color 2 |conrast | [WCAG AAA](https://ialabs.ie/what-is-the-difference-between-wcag-a-aa-and-aaa/) | comments |
+| color 1 |color 2 |contrast | [WCAG AAA](https://ialabs.ie/what-is-the-difference-between-wcag-a-aa-and-aaa/) | comments |
 |---		|---		|:---:		|:---:|--- |
 | light 	|	dark 	|7.75:1 	| ✅ | 	|
 |light 	| dark gray | 7.02:1 |✅|	|
@@ -1045,7 +1044,7 @@ The paired colors have the following contrasts:
 >Note: because of mistakenly starting issues in the wrong repository and later transferring them to the correct one, issue numbers in the commit messages up to commit nr. [325a625dc5de4d670ef58a9617ec092529db10f1](https://github.com/blahosyl/academic-publishing/commit/325a625dc5de4d670ef58a9617ec092529db10f1) don't match the new issue numbers in the repository. Unfortunately, the numbering of the transferred issues cannot be changed anymore.
 
 >[!TIP]
->However, each issue has the corresponing commits linked, and these links work correctly. In addition, subsequent commit messages after [325a625dc5de4d670ef58a9617ec092529db10f1](https://github.com/blahosyl/academic-publishing/commit/325a625dc5de4d670ef58a9617ec092529db10f1) point to correct issues.
+>However, each issue has the corresponding commits linked, and these links work correctly. In addition, subsequent commit messages after [325a625dc5de4d670ef58a9617ec092529db10f1](https://github.com/blahosyl/academic-publishing/commit/325a625dc5de4d670ef58a9617ec092529db10f1) point to correct issues.
 
 ## Credits
 
