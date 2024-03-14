@@ -378,6 +378,38 @@ The parallels between the two elements aid in the recognition of functionalities
 
 ### Wireframes
 
+<details>
+<summary>Wireframe for mobile | Problems & Solutions section</summary>
+![Wireframe mobile | Problems & Solutions section](readme-pics/wireframes/wireframe-mobile-p-s.png)
+</details>
+
+<details>
+<summary>Wireframe for mobile | About/Credentials section</summary>
+![Wireframe mobile | About/Credentials section](readme-pics/wireframes/wireframe-mobile-about.png)
+</details>
+
+<details>
+<summary>Wireframe for mobile | Contact section</summary>
+![Wireframe mobile | Contact section](readme-pics/wireframes/wireframe-mobile-contact.png)
+</details>
+
+<details>
+<summary>Wireframe for laptop | Problems & Solutions section</summary>
+![Wireframe laptop | Problems & Solutions section](readme-pics/wireframes/wireframe-laptop-p-s.png)
+</details>
+
+<details>
+<summary>Wireframe for laptop | About/Credentials section</summary>
+![Wireframe laptop | About/Credentials section](readme-pics/wireframes/wireframe-laptop-about.png)
+</details>
+
+
+<details>
+<summary>Wireframe for laptop | Contact section</summary>
+![Wireframe laptop | Contact section](readme-pics/wireframes/wireframe-laptop-contact.png)
+</details>
+
+
 ## Features
 
 In accordance with the target audience and the user stories (see the [User Experience](#user-experience-(ux)) section), the features are focused on efficient navigation, information transfer and contact options.
