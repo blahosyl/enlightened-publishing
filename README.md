@@ -451,6 +451,9 @@ For the public launch (planned for May 2024), this will be changed so that the c
 
 ![Contact form design](testing/responsivity/amiresponsive-contact.png)
 
+>!NOTE
+>The contact form is temporarily hidden until the client's CMS migration is completed.
+
 
 ### Footer design
 
@@ -611,8 +614,8 @@ The widget enables users to schedule a video meeting with the client. It uses Ja
 
 The contact form enables users to submit their name, email address and workshop preferences to find out more about the client's offering. 
 
->[!NOTE]
-> To facilitate assessment of this project, the contact form is not connected to the client's email system in its current implementation, but rather to Code Institute form testing capabilities.
+>!NOTE
+>The contact form is temporarily hidden until the client's CMS migration is completed.
 
 The **name** and **email** fields are text input fields, while the workshop preferences are registered by using radio buttons. 
 All 3 of these are required, and the user is advised to fill these in correctly when clicking the **Send** button.
@@ -964,6 +967,9 @@ The video below demonstrates the following features of the header elements (clic
 [Header test](https://github.com/blahosyl/academic-publishing/assets/26421503/b8c40c22-e4f0-4d76-b9bf-1c84c16b012e)
 
 ##### Contact form testing
+
+>!NOTE
+>The contact form is temporarily hidden until the client's CMS migration is completed.
 
 The video below demonstrates the following features of the contact form (click to play):
 

@@ -442,8 +442,14 @@ this is not displayed by default */
 
 /* email contact form */
 
+/* the title before the email contact form, temporarily hidden. delece `display:none` when the form is connected to the CMS */
+#contact-form-title {
+  display: none;
+}
+
 #contact-form {
-  display: flex;
+  /* hide contact form temporarily. change back to `display:flex` when connected to CMS. */
+  display: none;
   flex-direction: column;
   justify-content: center;
   align-items: center;
