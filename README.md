@@ -18,6 +18,8 @@ Developer: [Dr. Sylvia Blaho](https://www.linkedin.com/in/blahosylvia/)
 ![GitHub contributors](https://img.shields.io/github/contributors/blahosyl/academic-publishing?color=orange)
 ![GitHub language count](https://img.shields.io/github/languages/count/blahosyl/academic-publishing?color=black)
 
+This repository was cloned from [`academic-publishing`](https://github.com/blahosyl/academic-publishing).
+
 ## Contents
 
   * [User Experience (UX)](#user-experience--ux-)
