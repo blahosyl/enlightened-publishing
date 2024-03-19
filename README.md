@@ -769,7 +769,7 @@ The site was deployed on GitHub pages using the steps below. You can follow the 
 
 ## Testing
 
-Issues discovered during testing are tracked in [GitHub Issues](https://github.com/blahosyl/academic-publishing/issues).
+Issues discovered during testing prior to 13 March 2024 are tracked in the [GitHub Issues](https://github.com/blahosyl/academic-publishing/issues) of the original repository. Issues and bugs discovered after this date are tracked in the [Issues](https://github.com/blahosyl/enlightened-publishing/issues) of this repository.
 
 >[!WARNING]
 >Note: because of mistakenly starting issues in the wrong repository and later transferring them to the correct one, issue numbers in the commit messages up to commit nr. [325a625dc5de4d670ef58a9617ec092529db10f1](https://github.com/blahosyl/academic-publishing/commit/325a625dc5de4d670ef58a9617ec092529db10f1) don't match the new issue numbers in the repository. Unfortunately, the numbering of the transferred issues cannot be changed anymore.
