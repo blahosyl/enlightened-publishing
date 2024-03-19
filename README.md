@@ -12,7 +12,7 @@ Developer: [Dr. Sylvia Blaho](https://www.linkedin.com/in/blahosylvia/)
 ![Mockup image of the page on various devices](testing/responsivity/amiresponsive-showcase.png)
 
 
-[View the deployed page on Github Pages](https://blahosyl.github.io/academic-publishing/)
+[View the deployed page on Github Pages](https://blahosyl.github.io/enlightened-publishing/)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/blahosyl/enlightened-publishing?color=red)
 ![GitHub contributors](https://img.shields.io/github/contributors/blahosyl/enlightened-publishing?color=orange)
