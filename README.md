@@ -9,7 +9,7 @@ Interested academics can gain an overview of how the workshop solves common prob
 Developer: [Dr. Sylvia Blaho](https://www.linkedin.com/in/blahosylvia/)
 
 
-![Mockup image of the page on various devices](testing/responsivity/amiresponsive-start.png)
+![Mockup image of the page on various devices](testing/responsivity/amiresponsive-showcase.png)
 
 
 [View the deployed page on Github Pages](https://blahosyl.github.io/academic-publishing/)
