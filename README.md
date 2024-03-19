@@ -449,11 +449,10 @@ The second part of this section contains the contact form, where users can submi
 For the present implementation, this is set up to result in the Code Institute confirmation screen rather than connected to the client's CRM (Customer Relationship Management) system, so that the Code Institute assessors can easily evaluate the functionality of the form.
 For the public launch (planned for May 2024), this will be changed so that the client will receive these data in his CRM system.
 
-![Contact form design](testing/responsivity/amiresponsive-contact.png)
-
->!NOTE
+>[!NOTE]
 >The contact form is temporarily hidden until the client's CMS migration is completed.
 
+![Contact form design](testing/responsivity/amiresponsive-contact.png)
 
 ### Footer design
 
@@ -614,7 +613,7 @@ The widget enables users to schedule a video meeting with the client. It uses Ja
 
 The contact form enables users to submit their name, email address and workshop preferences to find out more about the client's offering. 
 
->!NOTE
+>[!NOTE]
 >The contact form is temporarily hidden until the client's CMS migration is completed.
 
 The **name** and **email** fields are text input fields, while the workshop preferences are registered by using radio buttons. 
@@ -968,7 +967,7 @@ The video below demonstrates the following features of the header elements (clic
 
 ##### Contact form testing
 
->!NOTE
+>[!NOTE]
 >The contact form is temporarily hidden until the client's CMS migration is completed.
 
 The video below demonstrates the following features of the contact form (click to play):
