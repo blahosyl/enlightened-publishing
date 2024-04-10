@@ -346,7 +346,6 @@ p {
 /* credential cards only display institution & position by default; reveal more information on tap/hover */
 
 /* change colors and add border on tap/hover */
-/* .cred:active, */
 .cred:hover {
   color: var(--dark);
   background-color: var(--white);
@@ -369,10 +368,7 @@ p {
 }
 
 /* hide institution, position, and advice to tap/hover on tap or hover */
-/* .cred:active > h4, */
 .cred:hover > h4,
-/* .cred:active > .cred-tap, */
-/* .cred:active > .cred-hover, */
 .cred:hover > .cred-tap,
 .cred:hover > .cred-hover {
   display: none;
@@ -386,7 +382,6 @@ this is not displayed by default */
 }
 
 /* display the `div` containing more information when parent `div` tapped/hovered over */
-/* .cred:active > .cred-content, */
 .cred:hover > .cred-content {
   display: block;
 }
@@ -550,7 +545,7 @@ footer ul {
 
 
 /* media query: devices with good pointer capabilities (mouse, trackpad) */
-@media screen and (pointer: coarse) {
+@media screen and (pointer: fine) {
 
   /*  links should change color and be underlined when hovered over */
   a:hover { /* underline: footer icons included*/
