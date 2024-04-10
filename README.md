@@ -18,7 +18,7 @@ Developer: [Dr. Sylvia Blaho](https://www.linkedin.com/in/blahosylvia/)
 ![GitHub contributors](https://img.shields.io/github/contributors/blahosyl/enlightened-publishing?color=orange)
 ![GitHub language count](https://img.shields.io/github/languages/count/blahosyl/enlightened-publishing?color=black)
 
-This repository was cloned from [`academic-publishing`](https://github.com/blahosyl/academic-publishing).
+This repository was cloned from [`enlightened-publishing`](https://github.com/blahosyl/enlightened-publishing).
 
 ## Contents
 
@@ -728,9 +728,9 @@ The embedded video does not start auto-playing.
 
 To view the site on your local machine (laptop or desktop), follow these steps:
 
-1. click the following link to download the [zipped project folder from GitHub](https://github.com/blahosyl/academic-publishing/archive/refs/heads/main.zip).
-2. double click on the downloaded zip file `academic-publishing-main.zip` to unzip it.
-3. in the folder `academic-publishing`, double click on `index.html` to open it in your browser.
+1. click the following link to download the [zipped project folder from GitHub](https://github.com/blahosyl/enlightened-publishing/archive/refs/heads/main.zip).
+2. double click on the downloaded zip file `enlightened-publishing-main.zip` to unzip it.
+3. in the folder `enlightened-publishing`, double click on `index.html` to open it in your browser.
 
 >[!IMPORTANT]
 > Do not take `index.html` out of the folder, or change the folder structure in any way, as this may break the file paths defined in the project. 
@@ -740,7 +740,7 @@ To view the site on your local machine (laptop or desktop), follow these steps:
 You can fork the repository by following these steps:
 
 1. Log in to [GitHub](https://github.com/) (if you don't have a GitHub account yet, you can [create one](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) for free).
-2. Navigate to the project website [https://github.com/blahosyl/academic-publishing](https://github.com/blahosyl/academic-publishing).
+2. Navigate to the project website [https://github.com/blahosyl/enlightened-publishing](https://github.com/blahosyl/enlightened-publishing).
 3. Click on **Fork** in the upper right part of the screen.
 4. On the next page you have the possibility to change the repository name. To do this, simply write your desired name in the text field in the center part of the screen. You can also leave the name as it is.
 5. Click **Fork** in the bottom right part of the screen.
@@ -755,29 +755,29 @@ You can fork the repository by following these steps:
 The site was deployed on GitHub pages using the steps below. You can follow the same steps to deploy it on your GitHub account after you have forked the repository.
 
 1. Log in to [GitHub](https://github.com/) (if you don't have a GitHub account yet, you can [create one](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) for free).
-2. Navigate to the project website [https://github.com/blahosyl/academic-publishing](https://github.com/blahosyl/academic-publishing).
-3. Click on [Settings](https://github.com/blahosyl/academic-publishing/settings) in the top right of the screen.
-4. On the left-hand menu, click [Pages](https://github.com/blahosyl/academic-publishing/settings/pages).
+2. Navigate to the project website [https://github.com/blahosyl/enlightened-publishing](https://github.com/blahosyl/enlightened-publishing).
+3. Click on [Settings](https://github.com/blahosyl/enlightened-publishing/settings) in the top right of the screen.
+4. On the left-hand menu, click [Pages](https://github.com/blahosyl/enlightened-publishing/settings/pages).
 5. In the center of the page under **Branch**, select **main** from the dropdown menu, then click **Save**.
-6. After the site refreshes automatically, a message appears in the top center part of the screen, displaying the link to the deployed site: "Your site is live at [https://blahosyl.github.io/academic-publishing/](https://blahosyl.github.io/academic-publishing/)". 
+6. After the site refreshes automatically, a message appears in the top center part of the screen, displaying the link to the deployed site: "Your site is live at [https://blahosyl.github.io/enlightened-publishing/](https://blahosyl.github.io/enlightened-publishing/)". 
 
 >[!NOTE]
 >The link will look stlightly different for you, containing your [GitHub username](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/remembering-your-github-username-or-email) instead of `blahosyl`. 
 
 >[!NOTE]
->If you have renamed the repository when forking it, your chosen repository name will appear instead of `academic-publishing` in the deployment link.
+>If you have renamed the repository when forking it, your chosen repository name will appear instead of `enlightened-publishing` in the deployment link.
 
 
 
 ## Testing
 
-Issues discovered during testing prior to 13 March 2024 are tracked in the [GitHub Issues](https://github.com/blahosyl/academic-publishing/issues) of the original repository. Issues and bugs discovered after this date are tracked in the [Issues](https://github.com/blahosyl/enlightened-publishing/issues) of this repository.
+Issues discovered during testing prior to 13 March 2024 are tracked in the [GitHub Issues](https://github.com/blahosyl/enlightened-publishing/issues) of the original repository. Issues and bugs discovered after this date are tracked in the [Issues](https://github.com/blahosyl/enlightened-publishing/issues) of this repository.
 
 >[!WARNING]
->Note: because of mistakenly starting issues in the wrong repository and later transferring them to the correct one, issue numbers in the commit messages up to commit nr. [325a625dc5de4d670ef58a9617ec092529db10f1](https://github.com/blahosyl/academic-publishing/commit/325a625dc5de4d670ef58a9617ec092529db10f1) don't match the new issue numbers in the repository. Unfortunately, the numbering of the transferred issues cannot be changed anymore.
+>Note: because of mistakenly starting issues in the wrong repository and later transferring them to the correct one, issue numbers in the commit messages up to commit nr. [325a625dc5de4d670ef58a9617ec092529db10f1](https://github.com/blahosyl/enlightened-publishing/commit/325a625dc5de4d670ef58a9617ec092529db10f1) don't match the new issue numbers in the repository. Unfortunately, the numbering of the transferred issues cannot be changed anymore.
 
 >[!TIP]
->However, each issue has the corresponding commits linked, and these links work correctly. In addition, subsequent commit messages after [325a625dc5de4d670ef58a9617ec092529db10f1](https://github.com/blahosyl/academic-publishing/commit/325a625dc5de4d670ef58a9617ec092529db10f1) point to correct issues.
+>However, each issue has the corresponding commits linked, and these links work correctly. In addition, subsequent commit messages after [325a625dc5de4d670ef58a9617ec092529db10f1](https://github.com/blahosyl/enlightened-publishing/commit/325a625dc5de4d670ef58a9617ec092529db10f1) point to correct issues.
 
 Assets related to testing (Lighthouse reports, screenshots and videos) can be found in the [`testing`](testing/) folder in the repository.
 
@@ -785,7 +785,7 @@ Assets related to testing (Lighthouse reports, screenshots and videos) can be fo
 ### Automated testing
 #### HTML validation with theW3C validator
 
-The `html` file of the project was regularly tested by the [W3C validator](https://validator.w3.org/). The issues discovered during validation are tracked in [GitHub Issues](https://github.com/blahosyl/academic-publishing/issues).
+The `html` file of the project was regularly tested by the [W3C validator](https://validator.w3.org/). The issues discovered during validation are tracked in [GitHub Issues](https://github.com/blahosyl/enlightened-publishing/issues).
 
 In the current version of the site, no errors or warnings were found during validation.
 
@@ -794,7 +794,7 @@ In the current version of the site, no errors or warnings were found during vali
 
 #### CSS validation with Jigsaw
 
-The  `css` file of the project was regularly tested by [Jigsaw](https://jigsaw.w3.org/css-validator/). The issues discovered during validation are tracked in [GitHub Issues](https://github.com/blahosyl/academic-publishing/issues).
+The  `css` file of the project was regularly tested by [Jigsaw](https://jigsaw.w3.org/css-validator/). The issues discovered during validation are tracked in [GitHub Issues](https://github.com/blahosyl/enlightened-publishing/issues).
 
 In the current version of the site, no errors or warnings were found during validation.
 
@@ -807,13 +807,13 @@ In the current version of the site, no errors or warnings were found during vali
 
 Lighthouse performance tests were carried out throughout development. Most warnings and improvement suggestions were related to externally embedded elements such as the YouTube video, Google Fonts, FontAwesome or Calendly.
 
-One significant performance issue that was tackled during development is described in Issue [#20](https://github.com/blahosyl/academic-publishing/issues/20).
+One significant performance issue that was tackled during development is described in Issue [#20](https://github.com/blahosyl/enlightened-publishing/issues/20).
 
 The current performance score is [88 on mobile](testing/lighthouse/mobile/performance-report-mobile.html) and [99 on desktop](testing/lighthouse/desktop/performance-report-desktop.html).
 
 ##### Lighthouse accessibility testing
 
-The details of the Lighthouse accessibility audit are found in [Issue #19](https://github.com/blahosyl/academic-publishing/issues/19) and the [Automated accessibility testing](#automated-accessibility-testing) section below.
+The details of the Lighthouse accessibility audit are found in [Issue #19](https://github.com/blahosyl/enlightened-publishing/issues/19) and the [Automated accessibility testing](#automated-accessibility-testing) section below.
 
 ### Manual testing
 #### Testing user stories
@@ -946,13 +946,13 @@ The site was tested on the following browsers:
 
 The video below demonstrates the responsivity of the site: the arrangement of elements changes along with the viewport size change (click to play):
 
-[Responsivity test](https://github.com/blahosyl/academic-publishing/assets/26421503/865f874c-2d93-4466-9693-91618f439a06)
+[Responsivity test](https://github.com/blahosyl/enlightened-publishing/assets/26421503/865f874c-2d93-4466-9693-91618f439a06)
 
 ##### Hover effects testing
 
 The video below demonstrates how certain elements of the site respond to hover: (click to play):
 
-[Hover test](https://github.com/blahosyl/academic-publishing/assets/26421503/96046ca8-a395-40c3-aabe-87d29e6e71f6)
+[Hover test](https://github.com/blahosyl/enlightened-publishing/assets/26421503/96046ca8-a395-40c3-aabe-87d29e6e71f6)
 
 ##### Header testing
 
@@ -963,7 +963,7 @@ The video below demonstrates the following features of the header elements (clic
 - nav bar links take the user to the respective section on click
 - header link takes the user to the top of the page on click
 
-[Header test](https://github.com/blahosyl/academic-publishing/assets/26421503/b8c40c22-e4f0-4d76-b9bf-1c84c16b012e)
+[Header test](https://github.com/blahosyl/enlightened-publishing/assets/26421503/b8c40c22-e4f0-4d76-b9bf-1c84c16b012e)
 
 ##### Contact form testing
 
@@ -978,7 +978,7 @@ The video below demonstrates the following features of the contact form (click t
 - the radio button choice is
 - the form is correctly set up and sends the entered information to the Code Institute infrastructure
 
-[Contact form test](https://github.com/blahosyl/academic-publishing/assets/26421503/5bc79af1-1e04-4aad-9a7f-93263f156ff7)
+[Contact form test](https://github.com/blahosyl/enlightened-publishing/assets/26421503/5bc79af1-1e04-4aad-9a7f-93263f156ff7)
 
 ##### Calendly widget testing
 
@@ -989,7 +989,7 @@ The video below demonstrates the following features of the  Calendly widget (cli
 - users can enter their name, email address and additional information
 - users can book a meeting with an automatic Google Meet link
 
-[Calendly test](https://github.com/blahosyl/academic-publishing/assets/26421503/51c9aada-0bed-4878-a97b-62007a955fb3)
+[Calendly test](https://github.com/blahosyl/enlightened-publishing/assets/26421503/51c9aada-0bed-4878-a97b-62007a955fb3)
 
 
 ##### Footer testing
@@ -999,13 +999,13 @@ The video below demonstrates the following features of the header elements (clic
 - the links in the footer change color on hover
 - the links to the client's social media accounts open in a new tab.
 
-[Footer test](https://github.com/blahosyl/academic-publishing/assets/26421503/02cdd8aa-88c1-4ba9-aa47-b26ba32be44a)
+[Footer test](https://github.com/blahosyl/enlightened-publishing/assets/26421503/02cdd8aa-88c1-4ba9-aa47-b26ba32be44a)
 
 ### Accessibility testing
 
 #### Automated accessibility testing
 
-The website was audited for accessibility using Lighthouse. The results and fixes of the test are detailed in [Issue #19](https://github.com/blahosyl/academic-publishing/issues/19).
+The website was audited for accessibility using Lighthouse. The results and fixes of the test are detailed in [Issue #19](https://github.com/blahosyl/enlightened-publishing/issues/19).
 
 The site in its current form has an accessibility score of 100 for both [mobile](testing/lighthouse/mobile/accessibility-report-mobile.html) and [desktop](testing/lighthouse/desktop/accessibility-report-desktop.html).
 
@@ -1016,7 +1016,7 @@ The site in its current form has an accessibility score of 100 for both [mobile]
 
 The [WebAIM](https://webaim.org/resources/contrastchecker/) was used to ensure that the text and background color of each section provides sufficient contrast for legibility.
 
-In the instances where this was not the case, the colors themselves or their arrangement was changed to ensure that accessibility standards are met. Related issues are [#47](https://github.com/blahosyl/academic-publishing/issues/47) and [#19](https://github.com/blahosyl/academic-publishing/issues/19).
+In the instances where this was not the case, the colors themselves or their arrangement was changed to ensure that accessibility standards are met. Related issues are [#47](https://github.com/blahosyl/enlightened-publishing/issues/47) and [#19](https://github.com/blahosyl/enlightened-publishing/issues/19).
 
 The resulting color scheme is as follows:
 
@@ -1045,15 +1045,15 @@ The paired colors have the following contrasts:
 
 ### Bugs
 
-[Known](https://github.com/blahosyl/academic-publishing/issues) and [solved bugs/enhancements](https://github.com/blahosyl/academic-publishing/issues?q=is%3Aissue+is%3Aclosed) are tracked in [GitHub Issues](https://github.com/blahosyl/academic-publishing/issues).
+[Known](https://github.com/blahosyl/enlightened-publishing/issues) and [solved bugs/enhancements](https://github.com/blahosyl/enlightened-publishing/issues?q=is%3Aissue+is%3Aclosed) are tracked in [GitHub Issues](https://github.com/blahosyl/enlightened-publishing/issues).
 
 >[!WARNING]
->Note: because of mistakenly starting issues in the wrong repository and later transferring them to the correct one, issue numbers in the commit messages up to commit nr. [325a625dc5de4d670ef58a9617ec092529db10f1](https://github.com/blahosyl/academic-publishing/commit/325a625dc5de4d670ef58a9617ec092529db10f1) don't match the new issue numbers in the repository. Unfortunately, the numbering of the transferred issues cannot be changed anymore.
+>Note: because of mistakenly starting issues in the wrong repository and later transferring them to the correct one, issue numbers in the commit messages up to commit nr. [325a625dc5de4d670ef58a9617ec092529db10f1](https://github.com/blahosyl/enlightened-publishing/commit/325a625dc5de4d670ef58a9617ec092529db10f1) don't match the new issue numbers in the repository. Unfortunately, the numbering of the transferred issues cannot be changed anymore.
 
 >[!TIP]
->However, each issue has the corresponding commits linked, and these links work correctly. In addition, subsequent commit messages after [325a625dc5de4d670ef58a9617ec092529db10f1](https://github.com/blahosyl/academic-publishing/commit/325a625dc5de4d670ef58a9617ec092529db10f1) point to correct issues.
+>However, each issue has the corresponding commits linked, and these links work correctly. In addition, subsequent commit messages after [325a625dc5de4d670ef58a9617ec092529db10f1](https://github.com/blahosyl/enlightened-publishing/commit/325a625dc5de4d670ef58a9617ec092529db10f1) point to correct issues.
 
-Open issues delating to testing with physical devices (outside Chrome Dev Tools) are [#60](https://github.com/blahosyl/academic-publishing/issues/60), [#61](https://github.com/blahosyl/academic-publishing/issues/61), [#62](https://github.com/blahosyl/academic-publishing/issues/62) and [#66](https://github.com/blahosyl/academic-publishing/issues/66).
+Open issues delating to testing with physical devices (outside Chrome Dev Tools) are [#60](https://github.com/blahosyl/enlightened-publishing/issues/60), [#61](https://github.com/blahosyl/enlightened-publishing/issues/61), [#62](https://github.com/blahosyl/enlightened-publishing/issues/62) and [#66](https://github.com/blahosyl/enlightened-publishing/issues/66).
 
 ## Credits
 
@@ -1088,11 +1088,11 @@ The text copy on the site was provided by the client and edited by me.
 - The books favicon comes from [Favicon.io](https://favicon.io/emoji-favicons/books/), licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - [FontAwesome](https://fontawesome.com/) icons are used for the hamburger menu in the header navigation bar and the footer social media links.
 - [Hero image](https://www.pexels.com/photo/blue-and-green-sky-and-mountain-3617500/) by [Benjamin Suter](https://www.pexels.com/@benjaminjsuter/) on [Pexels](https://www.pexels.com/).
-- [`#millions`](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/lots-of-paper-grayscale.webp) image in the Problems & Solutions section by [Christa Dodoo](https://unsplash.com/@krystagrusseck) on [Unsplash](https://unsplash.com/photos/pile-of-papers-MldQeWmF2_g), converted to grayscale using [Grayscale Image](https://www.grayscaleimage.com/).
-- [`#frustrated`](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/frustrated-grayscale.webp) image in the Problems & Solutions section by [Mizuno K](https://www.pexels.com/@mizunokozuki/) on [Pexels](https://www.pexels.com/photo/frustrated-businesswoman-sitting-at-an-office-desk-12911178/), converted to grayscale using [Grayscale Image](https://www.grayscaleimage.com/).
-- [`#learn-list`](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/library.webp) image in the Problems & Solutions section by [Sara Kurfeß](https://unsplash.com/@stereophototyp) on [Unsplash](https://unsplash.com/photos/people-standing-inside-white-concrete-building-interior-X2R7VLGAPfI).
-- [`#presentation`](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/presentation.webp) image in the Problems & Solutions section by [Benjamin Ward](https://www.benjaminward.no/), provided by the client, modified to reduce optical noise (with permission) by Peter Litauszki.
-- [Client image](https://raw.githubusercontent.com/blahosyl/academic-publishing/main/assets/images/curtrice-green-2.webp) in the About/Credentials section by [Benjamin Ward](https://www.benjaminward.no/),  provided by the client, colors modified to fit the site's color scheme  (with permission) by Peter Litauszki.
+- [`#millions`](https://raw.githubusercontent.com/blahosyl/enlightened-publishing/main/assets/images/lots-of-paper-grayscale.webp) image in the Problems & Solutions section by [Christa Dodoo](https://unsplash.com/@krystagrusseck) on [Unsplash](https://unsplash.com/photos/pile-of-papers-MldQeWmF2_g), converted to grayscale using [Grayscale Image](https://www.grayscaleimage.com/).
+- [`#frustrated`](https://raw.githubusercontent.com/blahosyl/enlightened-publishing/main/assets/images/frustrated-grayscale.webp) image in the Problems & Solutions section by [Mizuno K](https://www.pexels.com/@mizunokozuki/) on [Pexels](https://www.pexels.com/photo/frustrated-businesswoman-sitting-at-an-office-desk-12911178/), converted to grayscale using [Grayscale Image](https://www.grayscaleimage.com/).
+- [`#learn-list`](https://raw.githubusercontent.com/blahosyl/enlightened-publishing/main/assets/images/library.webp) image in the Problems & Solutions section by [Sara Kurfeß](https://unsplash.com/@stereophototyp) on [Unsplash](https://unsplash.com/photos/people-standing-inside-white-concrete-building-interior-X2R7VLGAPfI).
+- [`#presentation`](https://raw.githubusercontent.com/blahosyl/enlightened-publishing/main/assets/images/presentation.webp) image in the Problems & Solutions section by [Benjamin Ward](https://www.benjaminward.no/), provided by the client, modified to reduce optical noise (with permission) by Peter Litauszki.
+- [Client image](https://raw.githubusercontent.com/blahosyl/enlightened-publishing/main/assets/images/curtrice-green-2.webp) in the About/Credentials section by [Benjamin Ward](https://www.benjaminward.no/),  provided by the client, colors modified to fit the site's color scheme  (with permission) by Peter Litauszki.
 
 #### Video
 
