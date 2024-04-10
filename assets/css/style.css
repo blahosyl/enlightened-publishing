@@ -426,6 +426,7 @@ this is not displayed by default */
 /* container for the Calendly widget */
 .calendly-container {
   width: 100%;
+  background-color: var(--gray);
 }
 
 /* formatting for the Calendly widget */
