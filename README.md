@@ -18,7 +18,7 @@ Developer: [Dr. Sylvia Blaho](https://www.linkedin.com/in/blahosylvia/)
 ![GitHub contributors](https://img.shields.io/github/contributors/blahosyl/enlightened-publishing?color=orange)
 ![GitHub language count](https://img.shields.io/github/languages/count/blahosyl/enlightened-publishing?color=black)
 
-This repository was cloned from [`enlightened-publishing`](https://github.com/blahosyl/enlightened-publishing).
+This repository was cloned from [`academic-publishing`](https://github.com/blahosyl/academic-publishing).
 
 ## Contents
 
@@ -771,13 +771,7 @@ The site was deployed on GitHub pages using the steps below. You can follow the 
 
 ## Testing
 
-Issues discovered during testing prior to 13 March 2024 are tracked in the [GitHub Issues](https://github.com/blahosyl/enlightened-publishing/issues) of the original repository. Issues and bugs discovered after this date are tracked in the [Issues](https://github.com/blahosyl/enlightened-publishing/issues) of this repository.
-
->[!WARNING]
->Note: because of mistakenly starting issues in the wrong repository and later transferring them to the correct one, issue numbers in the commit messages up to commit nr. [325a625dc5de4d670ef58a9617ec092529db10f1](https://github.com/blahosyl/enlightened-publishing/commit/325a625dc5de4d670ef58a9617ec092529db10f1) don't match the new issue numbers in the repository. Unfortunately, the numbering of the transferred issues cannot be changed anymore.
-
->[!TIP]
->However, each issue has the corresponding commits linked, and these links work correctly. In addition, subsequent commit messages after [325a625dc5de4d670ef58a9617ec092529db10f1](https://github.com/blahosyl/enlightened-publishing/commit/325a625dc5de4d670ef58a9617ec092529db10f1) point to correct issues.
+Issues and bugs are tracked in [GitHub Issues](https://github.com/blahosyl/enlightened-publishing/issues). Some were manually copied from the [original repository `academic-publishing`](https://github.com/blahosyl/academic-publishing), as the original repository may not be modified until Q4 2024. See also the [Issues of the original repository](https://github.com/blahosyl/academic-publishing/issues) for solved issues.
 
 Assets related to testing (Lighthouse reports, screenshots and videos) can be found in the [`testing`](testing/) folder in the repository.
 
@@ -807,13 +801,13 @@ In the current version of the site, no errors or warnings were found during vali
 
 Lighthouse performance tests were carried out throughout development. Most warnings and improvement suggestions were related to externally embedded elements such as the YouTube video, Google Fonts, FontAwesome or Calendly.
 
-One significant performance issue that was tackled during development is described in Issue [#20](https://github.com/blahosyl/enlightened-publishing/issues/20).
+One significant performance issue that was tackled during development is described in Issue [#20](https://github.com/blahosyl/academic-publishing/issues/20) (of the original repository).
 
 The current performance score is [88 on mobile](testing/lighthouse/mobile/performance-report-mobile.html) and [99 on desktop](testing/lighthouse/desktop/performance-report-desktop.html).
 
 ##### Lighthouse accessibility testing
 
-The details of the Lighthouse accessibility audit are found in [Issue #19](https://github.com/blahosyl/enlightened-publishing/issues/19) and the [Automated accessibility testing](#automated-accessibility-testing) section below.
+The details of the Lighthouse accessibility audit are found in [Issue #19](https://github.com/blahosyl/academic-publishing/issues/19) (of the original repository) and the [Automated accessibility testing](#automated-accessibility-testing) section below.
 
 ### Manual testing
 #### Testing user stories
@@ -825,7 +819,6 @@ For visual illustrations of how individual features work (and *that* they work a
 
 ##### Client goals | testing
 
-|[header with logo and nav bar](#header)|
 - [CL1] I want to create an online presence specifically for this workshop. 
 - [CL2] I want to offer potential customers an easy-to-navigate layout. 
 - [CL3] I want to visually appeal to the target audience, conferring approachability and competence.
@@ -1005,7 +998,7 @@ The video below demonstrates the following features of the header elements (clic
 
 #### Automated accessibility testing
 
-The website was audited for accessibility using Lighthouse. The results and fixes of the test are detailed in [Issue #19](https://github.com/blahosyl/enlightened-publishing/issues/19).
+The website was audited for accessibility using Lighthouse. The results and fixes of the test are detailed in [Issue #19](https://github.com/blahosyl/academic-publishing/issues/19) of the original repository.
 
 The site in its current form has an accessibility score of 100 for both [mobile](testing/lighthouse/mobile/accessibility-report-mobile.html) and [desktop](testing/lighthouse/desktop/accessibility-report-desktop.html).
 
@@ -1016,7 +1009,7 @@ The site in its current form has an accessibility score of 100 for both [mobile]
 
 The [WebAIM](https://webaim.org/resources/contrastchecker/) was used to ensure that the text and background color of each section provides sufficient contrast for legibility.
 
-In the instances where this was not the case, the colors themselves or their arrangement was changed to ensure that accessibility standards are met. Related issues are [#47](https://github.com/blahosyl/enlightened-publishing/issues/47) and [#19](https://github.com/blahosyl/enlightened-publishing/issues/19).
+In the instances where this was not the case, the colors themselves or their arrangement was changed to ensure that accessibility standards are met. Related issues are [#47](https://github.com/blahosyl/academic-publishing/issues/47) and [#19](https://github.com/blahosyl/academic-publishing/issues/19) of the original repository.
 
 The resulting color scheme is as follows:
 
@@ -1045,15 +1038,10 @@ The paired colors have the following contrasts:
 
 ### Bugs
 
-[Known](https://github.com/blahosyl/enlightened-publishing/issues) and [solved bugs/enhancements](https://github.com/blahosyl/enlightened-publishing/issues?q=is%3Aissue+is%3Aclosed) are tracked in [GitHub Issues](https://github.com/blahosyl/enlightened-publishing/issues).
+[Known](https://github.com/blahosyl/enlightened-publishing/issues) and [solved bugs/enhancements](https://github.com/blahosyl/enlightened-publishing/issues?q=is%3Aissue+is%3Aclosed) are tracked in the [GitHub Issues of this repository](https://github.com/blahosyl/enlightened-publishing/issues) and the [GitHub Issues of the original repository](https://github.com/blahosyl/academic-publishing/issues) (as the original repository may not be modified until Q4 2024).
 
->[!WARNING]
->Note: because of mistakenly starting issues in the wrong repository and later transferring them to the correct one, issue numbers in the commit messages up to commit nr. [325a625dc5de4d670ef58a9617ec092529db10f1](https://github.com/blahosyl/enlightened-publishing/commit/325a625dc5de4d670ef58a9617ec092529db10f1) don't match the new issue numbers in the repository. Unfortunately, the numbering of the transferred issues cannot be changed anymore.
 
->[!TIP]
->However, each issue has the corresponding commits linked, and these links work correctly. In addition, subsequent commit messages after [325a625dc5de4d670ef58a9617ec092529db10f1](https://github.com/blahosyl/enlightened-publishing/commit/325a625dc5de4d670ef58a9617ec092529db10f1) point to correct issues.
-
-Open issues delating to testing with physical devices (outside Chrome Dev Tools) are [#60](https://github.com/blahosyl/enlightened-publishing/issues/60), [#61](https://github.com/blahosyl/enlightened-publishing/issues/61), [#62](https://github.com/blahosyl/enlightened-publishing/issues/62) and [#66](https://github.com/blahosyl/enlightened-publishing/issues/66).
+Open issues relating to testing with physical devices (outside Chrome Dev Tools) are [#9](https://github.com/blahosyl/enlightened-publishing/issues/9), [#10](https://github.com/blahosyl/enlightened-publishing/issues/10), [#12](https://github.com/blahosyl/enlightened-publishing/issues/12) and [#13](https://github.com/blahosyl/enlightened-publishing/issues/13).
 
 ## Credits
 
@@ -1119,3 +1107,4 @@ I am also grateful to my mentor Rory Patrick Sheridan for his excellent advice a
 I also want to thank my cohort facilitator, Kristyna Wach, for smoothing out my learning journey, Adam Kestell and Erick Bandelt for helping with all the questions and administrative issues prior to starting the course, and all Code Institute team members working behind the scenes to ensure a productive learning experience 🎉
 
 Last, but certainly not least, I want to thank Peter Litauszki for his support in a range of technical and non-technical matters, from photo editing to supplying a variety of snacks 🧡
+21
