@@ -521,7 +521,7 @@ footer * {
 footer ul {
   list-style-type: none;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   padding: 3% 10%;
 }
 
