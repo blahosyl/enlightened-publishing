@@ -190,7 +190,13 @@ p {
   font-style: italic;
 }
 
+.quote:before {
+  content: "“";
+}
 
+.quote:after {
+  content: "”";
+}
 
 /* divs containing the text*/
 .p-cont {
