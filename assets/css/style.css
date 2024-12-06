@@ -180,6 +180,18 @@ p {
   margin: 0.5rem 0;
 }
 
+/* references about the workshops */
+.reference {
+  text-align: right;
+}
+
+/* quoted text within a reference */
+.quote {
+  font-style: italic;
+}
+
+
+
 /* divs containing the text*/
 .p-cont {
   display: flex;
