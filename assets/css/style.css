@@ -196,16 +196,16 @@ p {
 /* quoted text within a reference */
 .quote {
   font-style: italic;
+  display: inline-block;
+  margin-bottom: 1rem;
 }
 
-.quote:before {
+.quote::before {
   content: "“";
 }
 
-.quote:after {
+.quote::after {
   content: "”";
-  display: inline-block;
-  margin-bottom: 1rem;
 }
 
 /* divs containing the text*/
