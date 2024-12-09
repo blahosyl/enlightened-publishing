@@ -165,13 +165,12 @@ p {
 
 /* colors and margins */
 
-#problems-solutions {
+#problems {
   background-color: var(--gray);
   color: var(--white);
 }
 
-#solutions p,
-#solutions ul {
+#solutions {
   color: var(--dark-gray);
 }
 
