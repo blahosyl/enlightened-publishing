@@ -452,6 +452,16 @@ this is not displayed by default */
   background-color: var(--dark);
 }
 
+/* inline links */
+#contact a {
+  color: var(--white);
+  text-decoration: none;
+}
+
+#contact a:hover {
+  text-decoration:underline;
+}
+
 /* container for the Calendly widget */
 .calendly-container {
   width: 100%;
