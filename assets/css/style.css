@@ -191,6 +191,8 @@ p {
   border: solid 2px;
   border-radius: 4px;
   box-shadow: inset 0 0 10px;
+  margin-left: 0.5rem !important;
+  margin-right: 0.5rem !important;
 }
 
 /* quoted text within a reference */
@@ -220,6 +222,14 @@ p {
   display: flex;
   justify-content: space-between;
   margin: 2vw 0;
+}
+
+#frustrated {
+  margin-bottom: 0px;
+}
+
+#frustrated-cont {
+  margin-top: 0px;
 }
 
 /* divs containing the images */
@@ -760,7 +770,8 @@ footer ul {
       max-height: 50vh;
     }
 
-    #frustrated .p-cont {
+    #frustrated .p-cont,
+    #frustrated-cont .p-cont {
       max-width: 60%;
     }
 
