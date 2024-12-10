@@ -125,11 +125,6 @@ h3 {
   margin-top: 5vh;
 }
 
-h4 {
-  margin-top: 1.5rem;
-  margin-bottom: 1rem;
-}
-
 p {
   margin: 1rem 0;
 }
@@ -182,6 +177,12 @@ p {
 
 #problems-solutions p {
   margin: 0.5rem 0;
+}
+
+
+#problems-solutions h4 {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
 }
 
 /* references about the workshops */
