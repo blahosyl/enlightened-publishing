@@ -488,9 +488,8 @@ this is not displayed by default */
 
 /* formatting for the Calendly widget */
 .calendly-inline-widget {
-  min-width:300px;
-  height:700px;
-  margin-top: 4rem;
+  /* min-width only has an effect if specified in the HTML code */
+  margin-top: 2rem;
 }
 
 /* email contact form */
