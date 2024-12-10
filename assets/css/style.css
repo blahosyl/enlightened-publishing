@@ -160,9 +160,16 @@ p {
 
 /* colors, margins & paddings */
 
-#problems {
+#problems-solutions {
   background-color: var(--gray);
+}
+
+#problems {
   color: var(--white);
+}
+
+#solutions h2 {
+  color: var(--light);
 }
 
 #solutions {
