@@ -158,7 +158,7 @@ p {
 
 /* Problems & Solutions section */
 
-/* colors and margins */
+/* colors, margins & paddings */
 
 #problems {
   background-color: var(--gray);
@@ -167,6 +167,10 @@ p {
 
 #solutions {
   color: var(--dark-gray);
+}
+
+#problems h2 {
+  padding-top: 2rem;
 }
 
 /* inline links */
