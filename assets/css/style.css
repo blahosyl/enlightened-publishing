@@ -232,6 +232,14 @@ p {
   margin-top: 0px;
 }
 
+#success {
+  margin-bottom: 0px;
+}
+
+#success-cont {
+  margin-top: 0px;
+}
+
 /* divs containing the images */
 .grayscale-pic {
   width: 100%;
@@ -787,7 +795,8 @@ footer ul {
       max-height: 35vh;
     }
 
-    #success .p-cont {
+    #success .p-cont,
+    #success-cont .p-cont {
       max-width: 60%;
     }
 
